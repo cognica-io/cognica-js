@@ -56,23 +56,23 @@
   "author": "finn@cognica.io",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@grpc/grpc-js": "^1.12.5",
+    "@grpc/grpc-js": "^1.12.6",
     "@protobuf-ts/protoc": "^2.9.4",
     "@types/jest": "^29.5.14",
-    "eslint": "^9.19.0",
+    "eslint": "^9.21.0",
     "jest": "^29.7.0",
-    "long": "^5.2.4",
-    "prettier": "^3.4.2",
+    "long": "^5.3.1",
+    "prettier": "^3.5.3",
     "prettier-eslint": "^16.3.0",
     "protobufjs": "^7.4.0",
-    "ts-jest": "^29.2.5",
+    "ts-jest": "^29.2.6",
     "ts-node": "^10.9.2",
     "ts-proto": "^2.6.1",
-    "tsup": "^8.3.6",
-    "typescript": "^5.7.3"
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@apache-arrow/esnext-esm": "^19.0.0",
+    "@apache-arrow/esnext-esm": "^19.0.1",
     "parquet-wasm": "^0.6.1"
   }
 }
