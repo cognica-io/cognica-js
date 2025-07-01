@@ -33,9 +33,9 @@ var __toESM = (mod2, isNodeMode, target) => (target = mod2 != null ? __create(__
 ));
 var __toCommonJS = (mod2) => __copyProps(__defProp({}, "__esModule", { value: true }), mod2);
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/constants.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/constants.js
 var require_constants = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/constants.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/constants.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DEFAULT_MAX_RECEIVE_MESSAGE_LENGTH = exports2.DEFAULT_MAX_SEND_MESSAGE_LENGTH = exports2.Propagate = exports2.LogVerbosity = exports2.Status = void 0;
@@ -79,12 +79,12 @@ var require_constants = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/package.json
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/package.json
 var require_package = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/package.json"(exports2, module2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/package.json"(exports2, module2) {
     module2.exports = {
       name: "@grpc/grpc-js",
-      version: "1.12.6",
+      version: "1.13.4",
       description: "gRPC Library for Node - pure JS implementation",
       homepage: "https://grpc.io/",
       repository: "https://github.com/grpc/grpc-node/tree/master/packages/grpc-js",
@@ -172,9 +172,9 @@ var require_package = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/logging.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/logging.js
 var require_logging = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/logging.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/logging.js"(exports2) {
     "use strict";
     var _a;
     var _b;
@@ -273,9 +273,9 @@ var require_logging = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/error.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/error.js
 var require_error = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/error.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/error.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getErrorMessage = getErrorMessage;
@@ -297,9 +297,9 @@ var require_error = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/metadata.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/metadata.js
 var require_metadata = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/metadata.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/metadata.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Metadata = void 0;
@@ -518,9 +518,9 @@ var require_metadata = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call-credentials.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call-credentials.js
 var require_call_credentials = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call-credentials.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call-credentials.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CallCredentials = void 0;
@@ -651,9 +651,9 @@ var require_call_credentials = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/tls-helpers.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/tls-helpers.js
 var require_tls_helpers = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/tls-helpers.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/tls-helpers.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CIPHER_SUITES = void 0;
@@ -674,9 +674,153 @@ var require_tls_helpers = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channel-credentials.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/uri-parser.js
+var require_uri_parser = __commonJS({
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/uri-parser.js"(exports2) {
+    "use strict";
+    Object.defineProperty(exports2, "__esModule", { value: true });
+    exports2.parseUri = parseUri;
+    exports2.splitHostPort = splitHostPort;
+    exports2.combineHostPort = combineHostPort;
+    exports2.uriToString = uriToString;
+    var URI_REGEX = /^(?:([A-Za-z0-9+.-]+):)?(?:\/\/([^/]*)\/)?(.+)$/;
+    function parseUri(uriString) {
+      const parsedUri = URI_REGEX.exec(uriString);
+      if (parsedUri === null) {
+        return null;
+      }
+      return {
+        scheme: parsedUri[1],
+        authority: parsedUri[2],
+        path: parsedUri[3]
+      };
+    }
+    var NUMBER_REGEX = /^\d+$/;
+    function splitHostPort(path) {
+      if (path.startsWith("[")) {
+        const hostEnd = path.indexOf("]");
+        if (hostEnd === -1) {
+          return null;
+        }
+        const host = path.substring(1, hostEnd);
+        if (host.indexOf(":") === -1) {
+          return null;
+        }
+        if (path.length > hostEnd + 1) {
+          if (path[hostEnd + 1] === ":") {
+            const portString = path.substring(hostEnd + 2);
+            if (NUMBER_REGEX.test(portString)) {
+              return {
+                host,
+                port: +portString
+              };
+            } else {
+              return null;
+            }
+          } else {
+            return null;
+          }
+        } else {
+          return {
+            host
+          };
+        }
+      } else {
+        const splitPath = path.split(":");
+        if (splitPath.length === 2) {
+          if (NUMBER_REGEX.test(splitPath[1])) {
+            return {
+              host: splitPath[0],
+              port: +splitPath[1]
+            };
+          } else {
+            return null;
+          }
+        } else {
+          return {
+            host: path
+          };
+        }
+      }
+    }
+    function combineHostPort(hostPort) {
+      if (hostPort.port === void 0) {
+        return hostPort.host;
+      } else {
+        if (hostPort.host.includes(":")) {
+          return `[${hostPort.host}]:${hostPort.port}`;
+        } else {
+          return `${hostPort.host}:${hostPort.port}`;
+        }
+      }
+    }
+    function uriToString(uri) {
+      let result = "";
+      if (uri.scheme !== void 0) {
+        result += uri.scheme + ":";
+      }
+      if (uri.authority !== void 0) {
+        result += "//" + uri.authority + "/";
+      }
+      result += uri.path;
+      return result;
+    }
+  }
+});
+
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver.js
+var require_resolver = __commonJS({
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver.js"(exports2) {
+    "use strict";
+    Object.defineProperty(exports2, "__esModule", { value: true });
+    exports2.registerResolver = registerResolver;
+    exports2.registerDefaultScheme = registerDefaultScheme;
+    exports2.createResolver = createResolver;
+    exports2.getDefaultAuthority = getDefaultAuthority;
+    exports2.mapUriDefaultScheme = mapUriDefaultScheme;
+    var uri_parser_1 = require_uri_parser();
+    var registeredResolvers = {};
+    var defaultScheme = null;
+    function registerResolver(scheme, resolverClass) {
+      registeredResolvers[scheme] = resolverClass;
+    }
+    function registerDefaultScheme(scheme) {
+      defaultScheme = scheme;
+    }
+    function createResolver(target, listener, options) {
+      if (target.scheme !== void 0 && target.scheme in registeredResolvers) {
+        return new registeredResolvers[target.scheme](target, listener, options);
+      } else {
+        throw new Error(`No resolver could be created for target ${(0, uri_parser_1.uriToString)(target)}`);
+      }
+    }
+    function getDefaultAuthority(target) {
+      if (target.scheme !== void 0 && target.scheme in registeredResolvers) {
+        return registeredResolvers[target.scheme].getDefaultAuthority(target);
+      } else {
+        throw new Error(`Invalid target ${(0, uri_parser_1.uriToString)(target)}`);
+      }
+    }
+    function mapUriDefaultScheme(target) {
+      if (target.scheme === void 0 || !(target.scheme in registeredResolvers)) {
+        if (defaultScheme !== null) {
+          return {
+            scheme: defaultScheme,
+            authority: void 0,
+            path: (0, uri_parser_1.uriToString)(target)
+          };
+        } else {
+          return null;
+        }
+      }
+      return target;
+    }
+  }
+});
+
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channel-credentials.js
 var require_channel_credentials = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channel-credentials.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channel-credentials.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ChannelCredentials = void 0;
@@ -684,24 +828,24 @@ var require_channel_credentials = __commonJS({
     var tls_1 = require("tls");
     var call_credentials_1 = require_call_credentials();
     var tls_helpers_1 = require_tls_helpers();
+    var uri_parser_1 = require_uri_parser();
+    var resolver_1 = require_resolver();
+    var logging_1 = require_logging();
+    var constants_1 = require_constants();
     function verifyIsBufferOrNull(obj, friendlyName) {
       if (obj && !(obj instanceof Buffer)) {
         throw new TypeError(`${friendlyName}, if provided, must be a Buffer.`);
       }
     }
     var ChannelCredentials5 = class {
-      constructor(callCredentials) {
-        this.callCredentials = callCredentials || call_credentials_1.CallCredentials.createEmpty();
-      }
       /**
-       * Gets the set of per-call credentials associated with this instance.
+       * Returns a copy of this object with the included set of per-call credentials
+       * expanded to include callCredentials.
+       * @param callCredentials A CallCredentials object to associate with this
+       * instance.
        */
-      _getCallCredentials() {
-        return this.callCredentials;
-      }
-      _ref() {
-      }
-      _unref() {
+      compose(callCredentials) {
+        return new ComposedChannelCredentialsImpl(this, callCredentials);
       }
       /**
        * Return a new ChannelCredentials instance with a given set of credentials.
@@ -759,14 +903,100 @@ var require_channel_credentials = __commonJS({
       compose(callCredentials) {
         throw new Error("Cannot compose insecure credentials");
       }
-      _getConnectionOptions() {
-        return {};
-      }
       _isSecure() {
         return false;
       }
       _equals(other) {
         return other instanceof _InsecureChannelCredentialsImpl;
+      }
+      _createSecureConnector(channelTarget, options, callCredentials) {
+        return {
+          connect(socket) {
+            return Promise.resolve({
+              socket,
+              secure: false
+            });
+          },
+          waitForReady: () => {
+            return Promise.resolve();
+          },
+          getCallCredentials: () => {
+            return callCredentials !== null && callCredentials !== void 0 ? callCredentials : call_credentials_1.CallCredentials.createEmpty();
+          },
+          destroy() {
+          }
+        };
+      }
+    };
+    function getConnectionOptions(secureContext, verifyOptions, channelTarget, options) {
+      var _a, _b;
+      const connectionOptions = {
+        secureContext
+      };
+      let realTarget = channelTarget;
+      if ("grpc.http_connect_target" in options) {
+        const parsedTarget = (0, uri_parser_1.parseUri)(options["grpc.http_connect_target"]);
+        if (parsedTarget) {
+          realTarget = parsedTarget;
+        }
+      }
+      const targetPath = (0, resolver_1.getDefaultAuthority)(realTarget);
+      const hostPort = (0, uri_parser_1.splitHostPort)(targetPath);
+      const remoteHost = (_a = hostPort === null || hostPort === void 0 ? void 0 : hostPort.host) !== null && _a !== void 0 ? _a : targetPath;
+      connectionOptions.host = remoteHost;
+      if (verifyOptions.checkServerIdentity) {
+        connectionOptions.checkServerIdentity = verifyOptions.checkServerIdentity;
+      }
+      if (verifyOptions.rejectUnauthorized !== void 0) {
+        connectionOptions.rejectUnauthorized = verifyOptions.rejectUnauthorized;
+      }
+      connectionOptions.ALPNProtocols = ["h2"];
+      if (options["grpc.ssl_target_name_override"]) {
+        const sslTargetNameOverride = options["grpc.ssl_target_name_override"];
+        const originalCheckServerIdentity = (_b = connectionOptions.checkServerIdentity) !== null && _b !== void 0 ? _b : tls_1.checkServerIdentity;
+        connectionOptions.checkServerIdentity = (host, cert) => {
+          return originalCheckServerIdentity(sslTargetNameOverride, cert);
+        };
+        connectionOptions.servername = sslTargetNameOverride;
+      } else {
+        connectionOptions.servername = remoteHost;
+      }
+      if (options["grpc-node.tls_enable_trace"]) {
+        connectionOptions.enableTrace = true;
+      }
+      return connectionOptions;
+    }
+    var SecureConnectorImpl = class {
+      constructor(connectionOptions, callCredentials) {
+        this.connectionOptions = connectionOptions;
+        this.callCredentials = callCredentials;
+      }
+      connect(socket) {
+        const tlsConnectOptions = Object.assign({ socket }, this.connectionOptions);
+        return new Promise((resolve, reject) => {
+          const tlsSocket = (0, tls_1.connect)(tlsConnectOptions, () => {
+            var _a;
+            if (((_a = this.connectionOptions.rejectUnauthorized) !== null && _a !== void 0 ? _a : true) && !tlsSocket.authorized) {
+              reject(tlsSocket.authorizationError);
+              return;
+            }
+            resolve({
+              socket: tlsSocket,
+              secure: true
+            });
+          });
+          tlsSocket.on("error", (error) => {
+            reject(error);
+          });
+        });
+      }
+      waitForReady() {
+        return Promise.resolve();
+      }
+      getCallCredentials() {
+        return this.callCredentials;
+      }
+      destroy() {
       }
     };
     var SecureChannelCredentialsImpl = class _SecureChannelCredentialsImpl extends ChannelCredentials5 {
@@ -774,22 +1004,6 @@ var require_channel_credentials = __commonJS({
         super();
         this.secureContext = secureContext;
         this.verifyOptions = verifyOptions;
-        this.connectionOptions = {
-          secureContext
-        };
-        if (verifyOptions === null || verifyOptions === void 0 ? void 0 : verifyOptions.checkServerIdentity) {
-          this.connectionOptions.checkServerIdentity = verifyOptions.checkServerIdentity;
-        }
-        if ((verifyOptions === null || verifyOptions === void 0 ? void 0 : verifyOptions.rejectUnauthorized) !== void 0) {
-          this.connectionOptions.rejectUnauthorized = verifyOptions.rejectUnauthorized;
-        }
-      }
-      compose(callCredentials) {
-        const combinedCallCredentials = this.callCredentials.compose(callCredentials);
-        return new ComposedChannelCredentialsImpl(this, combinedCallCredentials);
-      }
-      _getConnectionOptions() {
-        return Object.assign({}, this.connectionOptions);
       }
       _isSecure() {
         return true;
@@ -804,6 +1018,10 @@ var require_channel_credentials = __commonJS({
           return false;
         }
       }
+      _createSecureConnector(channelTarget, options, callCredentials) {
+        const connectionOptions = getConnectionOptions(this.secureContext, this.verifyOptions, channelTarget, options);
+        return new SecureConnectorImpl(connectionOptions, callCredentials !== null && callCredentials !== void 0 ? callCredentials : call_credentials_1.CallCredentials.createEmpty());
+      }
     };
     var CertificateProviderChannelCredentialsImpl = class _CertificateProviderChannelCredentialsImpl extends ChannelCredentials5 {
       constructor(caCertificateProvider, identityCertificateProvider, verifyOptions) {
@@ -812,36 +1030,11 @@ var require_channel_credentials = __commonJS({
         this.identityCertificateProvider = identityCertificateProvider;
         this.verifyOptions = verifyOptions;
         this.refcount = 0;
-        this.latestCaUpdate = null;
-        this.latestIdentityUpdate = null;
+        this.latestCaUpdate = void 0;
+        this.latestIdentityUpdate = void 0;
         this.caCertificateUpdateListener = this.handleCaCertificateUpdate.bind(this);
         this.identityCertificateUpdateListener = this.handleIdentityCertitificateUpdate.bind(this);
-      }
-      compose(callCredentials) {
-        const combinedCallCredentials = this.callCredentials.compose(callCredentials);
-        return new ComposedChannelCredentialsImpl(this, combinedCallCredentials);
-      }
-      _getConnectionOptions() {
-        var _a, _b, _c;
-        if (this.latestCaUpdate === null) {
-          return null;
-        }
-        if (this.identityCertificateProvider !== null && this.latestIdentityUpdate === null) {
-          return null;
-        }
-        const secureContext = (0, tls_1.createSecureContext)({
-          ca: this.latestCaUpdate.caCertificate,
-          key: (_a = this.latestIdentityUpdate) === null || _a === void 0 ? void 0 : _a.privateKey,
-          cert: (_b = this.latestIdentityUpdate) === null || _b === void 0 ? void 0 : _b.certificate,
-          ciphers: tls_helpers_1.CIPHER_SUITES
-        });
-        const options = {
-          secureContext
-        };
-        if ((_c = this.verifyOptions) === null || _c === void 0 ? void 0 : _c.checkServerIdentity) {
-          options.checkServerIdentity = this.verifyOptions.checkServerIdentity;
-        }
-        return options;
+        this.secureContextWatchers = [];
       }
       _isSecure() {
         return true;
@@ -857,7 +1050,7 @@ var require_channel_credentials = __commonJS({
           return false;
         }
       }
-      _ref() {
+      ref() {
         var _a;
         if (this.refcount === 0) {
           this.caCertificateProvider.addCaCertificateListener(this.caCertificateUpdateListener);
@@ -865,7 +1058,7 @@ var require_channel_credentials = __commonJS({
         }
         this.refcount += 1;
       }
-      _unref() {
+      unref() {
         var _a;
         this.refcount -= 1;
         if (this.refcount === 0) {
@@ -873,20 +1066,125 @@ var require_channel_credentials = __commonJS({
           (_a = this.identityCertificateProvider) === null || _a === void 0 ? void 0 : _a.removeIdentityCertificateListener(this.identityCertificateUpdateListener);
         }
       }
+      _createSecureConnector(channelTarget, options, callCredentials) {
+        this.ref();
+        return new _CertificateProviderChannelCredentialsImpl.SecureConnectorImpl(this, channelTarget, options, callCredentials !== null && callCredentials !== void 0 ? callCredentials : call_credentials_1.CallCredentials.createEmpty());
+      }
+      maybeUpdateWatchers() {
+        if (this.hasReceivedUpdates()) {
+          for (const watcher of this.secureContextWatchers) {
+            watcher(this.getLatestSecureContext());
+          }
+          this.secureContextWatchers = [];
+        }
+      }
       handleCaCertificateUpdate(update) {
         this.latestCaUpdate = update;
+        this.maybeUpdateWatchers();
       }
       handleIdentityCertitificateUpdate(update) {
         this.latestIdentityUpdate = update;
+        this.maybeUpdateWatchers();
+      }
+      hasReceivedUpdates() {
+        if (this.latestCaUpdate === void 0) {
+          return false;
+        }
+        if (this.identityCertificateProvider && this.latestIdentityUpdate === void 0) {
+          return false;
+        }
+        return true;
+      }
+      getSecureContext() {
+        if (this.hasReceivedUpdates()) {
+          return Promise.resolve(this.getLatestSecureContext());
+        } else {
+          return new Promise((resolve) => {
+            this.secureContextWatchers.push(resolve);
+          });
+        }
+      }
+      getLatestSecureContext() {
+        var _a, _b;
+        if (!this.latestCaUpdate) {
+          return null;
+        }
+        if (this.identityCertificateProvider !== null && !this.latestIdentityUpdate) {
+          return null;
+        }
+        try {
+          return (0, tls_1.createSecureContext)({
+            ca: this.latestCaUpdate.caCertificate,
+            key: (_a = this.latestIdentityUpdate) === null || _a === void 0 ? void 0 : _a.privateKey,
+            cert: (_b = this.latestIdentityUpdate) === null || _b === void 0 ? void 0 : _b.certificate,
+            ciphers: tls_helpers_1.CIPHER_SUITES
+          });
+        } catch (e) {
+          (0, logging_1.log)(constants_1.LogVerbosity.ERROR, "Failed to createSecureContext with error " + e.message);
+          return null;
+        }
+      }
+    };
+    CertificateProviderChannelCredentialsImpl.SecureConnectorImpl = class {
+      constructor(parent, channelTarget, options, callCredentials) {
+        this.parent = parent;
+        this.channelTarget = channelTarget;
+        this.options = options;
+        this.callCredentials = callCredentials;
+      }
+      connect(socket) {
+        return new Promise((resolve, reject) => {
+          const secureContext = this.parent.getLatestSecureContext();
+          if (!secureContext) {
+            reject(new Error("Failed to load credentials"));
+            return;
+          }
+          if (socket.closed) {
+            reject(new Error("Socket closed while loading credentials"));
+          }
+          const connnectionOptions = getConnectionOptions(secureContext, this.parent.verifyOptions, this.channelTarget, this.options);
+          const tlsConnectOptions = Object.assign({ socket }, connnectionOptions);
+          const closeCallback = () => {
+            reject(new Error("Socket closed"));
+          };
+          const errorCallback = (error) => {
+            reject(error);
+          };
+          const tlsSocket = (0, tls_1.connect)(tlsConnectOptions, () => {
+            var _a;
+            tlsSocket.removeListener("close", closeCallback);
+            tlsSocket.removeListener("error", errorCallback);
+            if (((_a = this.parent.verifyOptions.rejectUnauthorized) !== null && _a !== void 0 ? _a : true) && !tlsSocket.authorized) {
+              reject(tlsSocket.authorizationError);
+              return;
+            }
+            resolve({
+              socket: tlsSocket,
+              secure: true
+            });
+          });
+          tlsSocket.once("close", closeCallback);
+          tlsSocket.once("error", errorCallback);
+        });
+      }
+      async waitForReady() {
+        await this.parent.getSecureContext();
+      }
+      getCallCredentials() {
+        return this.callCredentials;
+      }
+      destroy() {
+        this.parent.unref();
       }
     };
     function createCertificateProviderChannelCredentials(caCertificateProvider, identityCertificateProvider, verifyOptions) {
-      return new CertificateProviderChannelCredentialsImpl(caCertificateProvider, identityCertificateProvider, verifyOptions !== null && verifyOptions !== void 0 ? verifyOptions : null);
+      return new CertificateProviderChannelCredentialsImpl(caCertificateProvider, identityCertificateProvider, verifyOptions !== null && verifyOptions !== void 0 ? verifyOptions : {});
     }
     var ComposedChannelCredentialsImpl = class _ComposedChannelCredentialsImpl extends ChannelCredentials5 {
-      constructor(channelCredentials, callCreds) {
-        super(callCreds);
+      constructor(channelCredentials, callCredentials) {
+        super();
         this.channelCredentials = channelCredentials;
+        this.callCredentials = callCredentials;
         if (!channelCredentials._isSecure()) {
           throw new Error("Cannot compose insecure credentials");
         }
@@ -894,9 +1192,6 @@ var require_channel_credentials = __commonJS({
       compose(callCredentials) {
         const combinedCallCredentials = this.callCredentials.compose(callCredentials);
         return new _ComposedChannelCredentialsImpl(this.channelCredentials, combinedCallCredentials);
-      }
-      _getConnectionOptions() {
-        return this.channelCredentials._getConnectionOptions();
       }
       _isSecure() {
         return true;
@@ -911,13 +1206,17 @@ var require_channel_credentials = __commonJS({
           return false;
         }
       }
+      _createSecureConnector(channelTarget, options, callCredentials) {
+        const combinedCallCredentials = this.callCredentials.compose(callCredentials !== null && callCredentials !== void 0 ? callCredentials : call_credentials_1.CallCredentials.createEmpty());
+        return this.channelCredentials._createSecureConnector(channelTarget, options, combinedCallCredentials);
+      }
     };
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer.js
 var require_load_balancer = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createChildChannelControlHelper = createChildChannelControlHelper;
@@ -951,10 +1250,10 @@ var require_load_balancer = __commonJS({
     function registerDefaultLoadBalancerType(typeName) {
       defaultLoadBalancerType = typeName;
     }
-    function createLoadBalancer(config, channelControlHelper, credentials2, options) {
+    function createLoadBalancer(config, channelControlHelper) {
       const typeName = config.getLoadBalancerName();
       if (typeName in registeredLoadBalancerTypes) {
-        return new registeredLoadBalancerTypes[typeName].LoadBalancer(channelControlHelper, credentials2, options);
+        return new registeredLoadBalancerTypes[typeName].LoadBalancer(channelControlHelper);
       } else {
         return null;
       }
@@ -1006,9 +1305,9 @@ var require_load_balancer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/service-config.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/service-config.js
 var require_service_config = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/service-config.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/service-config.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.validateRetryThrottling = validateRetryThrottling;
@@ -1349,9 +1648,9 @@ var require_service_config = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/connectivity-state.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/connectivity-state.js
 var require_connectivity_state = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/connectivity-state.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/connectivity-state.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ConnectivityState = void 0;
@@ -1366,153 +1665,9 @@ var require_connectivity_state = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/uri-parser.js
-var require_uri_parser = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/uri-parser.js"(exports2) {
-    "use strict";
-    Object.defineProperty(exports2, "__esModule", { value: true });
-    exports2.parseUri = parseUri;
-    exports2.splitHostPort = splitHostPort;
-    exports2.combineHostPort = combineHostPort;
-    exports2.uriToString = uriToString;
-    var URI_REGEX = /^(?:([A-Za-z0-9+.-]+):)?(?:\/\/([^/]*)\/)?(.+)$/;
-    function parseUri(uriString) {
-      const parsedUri = URI_REGEX.exec(uriString);
-      if (parsedUri === null) {
-        return null;
-      }
-      return {
-        scheme: parsedUri[1],
-        authority: parsedUri[2],
-        path: parsedUri[3]
-      };
-    }
-    var NUMBER_REGEX = /^\d+$/;
-    function splitHostPort(path) {
-      if (path.startsWith("[")) {
-        const hostEnd = path.indexOf("]");
-        if (hostEnd === -1) {
-          return null;
-        }
-        const host = path.substring(1, hostEnd);
-        if (host.indexOf(":") === -1) {
-          return null;
-        }
-        if (path.length > hostEnd + 1) {
-          if (path[hostEnd + 1] === ":") {
-            const portString = path.substring(hostEnd + 2);
-            if (NUMBER_REGEX.test(portString)) {
-              return {
-                host,
-                port: +portString
-              };
-            } else {
-              return null;
-            }
-          } else {
-            return null;
-          }
-        } else {
-          return {
-            host
-          };
-        }
-      } else {
-        const splitPath = path.split(":");
-        if (splitPath.length === 2) {
-          if (NUMBER_REGEX.test(splitPath[1])) {
-            return {
-              host: splitPath[0],
-              port: +splitPath[1]
-            };
-          } else {
-            return null;
-          }
-        } else {
-          return {
-            host: path
-          };
-        }
-      }
-    }
-    function combineHostPort(hostPort) {
-      if (hostPort.port === void 0) {
-        return hostPort.host;
-      } else {
-        if (hostPort.host.includes(":")) {
-          return `[${hostPort.host}]:${hostPort.port}`;
-        } else {
-          return `${hostPort.host}:${hostPort.port}`;
-        }
-      }
-    }
-    function uriToString(uri) {
-      let result = "";
-      if (uri.scheme !== void 0) {
-        result += uri.scheme + ":";
-      }
-      if (uri.authority !== void 0) {
-        result += "//" + uri.authority + "/";
-      }
-      result += uri.path;
-      return result;
-    }
-  }
-});
-
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver.js
-var require_resolver = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver.js"(exports2) {
-    "use strict";
-    Object.defineProperty(exports2, "__esModule", { value: true });
-    exports2.registerResolver = registerResolver;
-    exports2.registerDefaultScheme = registerDefaultScheme;
-    exports2.createResolver = createResolver;
-    exports2.getDefaultAuthority = getDefaultAuthority;
-    exports2.mapUriDefaultScheme = mapUriDefaultScheme;
-    var uri_parser_1 = require_uri_parser();
-    var registeredResolvers = {};
-    var defaultScheme = null;
-    function registerResolver(scheme, resolverClass) {
-      registeredResolvers[scheme] = resolverClass;
-    }
-    function registerDefaultScheme(scheme) {
-      defaultScheme = scheme;
-    }
-    function createResolver(target, listener, options) {
-      if (target.scheme !== void 0 && target.scheme in registeredResolvers) {
-        return new registeredResolvers[target.scheme](target, listener, options);
-      } else {
-        throw new Error(`No resolver could be created for target ${(0, uri_parser_1.uriToString)(target)}`);
-      }
-    }
-    function getDefaultAuthority(target) {
-      if (target.scheme !== void 0 && target.scheme in registeredResolvers) {
-        return registeredResolvers[target.scheme].getDefaultAuthority(target);
-      } else {
-        throw new Error(`Invalid target ${(0, uri_parser_1.uriToString)(target)}`);
-      }
-    }
-    function mapUriDefaultScheme(target) {
-      if (target.scheme === void 0 || !(target.scheme in registeredResolvers)) {
-        if (defaultScheme !== null) {
-          return {
-            scheme: defaultScheme,
-            authority: void 0,
-            path: (0, uri_parser_1.uriToString)(target)
-          };
-        } else {
-          return null;
-        }
-      }
-      return target;
-    }
-  }
-});
-
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/picker.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/picker.js
 var require_picker = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/picker.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/picker.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.QueuePicker = exports2.UnavailablePicker = exports2.PickResultType = void 0;
@@ -1571,12 +1726,15 @@ var require_picker = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/backoff-timeout.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/backoff-timeout.js
 var require_backoff_timeout = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/backoff-timeout.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/backoff-timeout.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BackoffTimeout = void 0;
+    var constants_1 = require_constants();
+    var logging = require_logging();
+    var TRACER_NAME = "backoff";
     var INITIAL_BACKOFF_MS = 1e3;
     var BACKOFF_MULTIPLIER = 1.6;
     var MAX_BACKOFF_MS = 12e4;
@@ -1584,7 +1742,7 @@ var require_backoff_timeout = __commonJS({
     function uniformRandom(min, max) {
       return Math.random() * (max - min) + min;
     }
-    var BackoffTimeout = class {
+    var BackoffTimeout = class _BackoffTimeout {
       constructor(callback, options) {
         this.callback = callback;
         this.initialDelay = INITIAL_BACKOFF_MS;
@@ -1595,6 +1753,7 @@ var require_backoff_timeout = __commonJS({
         this.hasRef = true;
         this.startTime = /* @__PURE__ */ new Date();
         this.endTime = /* @__PURE__ */ new Date();
+        this.id = _BackoffTimeout.getNextId();
         if (options) {
           if (options.initialDelay) {
             this.initialDelay = options.initialDelay;
@@ -1609,19 +1768,28 @@ var require_backoff_timeout = __commonJS({
             this.maxDelay = options.maxDelay;
           }
         }
+        this.trace("constructed initialDelay=" + this.initialDelay + " multiplier=" + this.multiplier + " jitter=" + this.jitter + " maxDelay=" + this.maxDelay);
         this.nextDelay = this.initialDelay;
         this.timerId = setTimeout(() => {
         }, 0);
         clearTimeout(this.timerId);
       }
+      static getNextId() {
+        return this.nextId++;
+      }
+      trace(text) {
+        logging.trace(constants_1.LogVerbosity.DEBUG, TRACER_NAME, "{" + this.id + "} " + text);
+      }
       runTimer(delay) {
         var _a, _b;
+        this.trace("runTimer(delay=" + delay + ")");
         this.endTime = this.startTime;
-        this.endTime.setMilliseconds(this.endTime.getMilliseconds() + this.nextDelay);
+        this.endTime.setMilliseconds(this.endTime.getMilliseconds() + delay);
         clearTimeout(this.timerId);
         this.timerId = setTimeout(() => {
-          this.callback();
+          this.trace("timer fired");
           this.running = false;
+          this.callback();
         }, delay);
         if (!this.hasRef) {
           (_b = (_a = this.timerId).unref) === null || _b === void 0 ? void 0 : _b.call(_a);
@@ -1631,6 +1799,7 @@ var require_backoff_timeout = __commonJS({
        * Call the callback after the current amount of delay time
        */
       runOnce() {
+        this.trace("runOnce()");
         this.running = true;
         this.startTime = /* @__PURE__ */ new Date();
         this.runTimer(this.nextDelay);
@@ -1643,6 +1812,7 @@ var require_backoff_timeout = __commonJS({
        * again.
        */
       stop() {
+        this.trace("stop()");
         clearTimeout(this.timerId);
         this.running = false;
       }
@@ -1651,6 +1821,7 @@ var require_backoff_timeout = __commonJS({
        * retroactively apply that reset to the current timer.
        */
       reset() {
+        this.trace("reset() running=" + this.running);
         this.nextDelay = this.initialDelay;
         if (this.running) {
           const now = /* @__PURE__ */ new Date();
@@ -1697,12 +1868,13 @@ var require_backoff_timeout = __commonJS({
       }
     };
     exports2.BackoffTimeout = BackoffTimeout;
+    BackoffTimeout.nextId = 0;
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-child-handler.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-child-handler.js
 var require_load_balancer_child_handler = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-child-handler.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-child-handler.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ChildLoadBalancerHandler = void 0;
@@ -1710,10 +1882,8 @@ var require_load_balancer_child_handler = __commonJS({
     var connectivity_state_1 = require_connectivity_state();
     var TYPE_NAME = "child_load_balancer_helper";
     var ChildLoadBalancerHandler = class {
-      constructor(channelControlHelper, credentials2, options) {
+      constructor(channelControlHelper) {
         this.channelControlHelper = channelControlHelper;
-        this.credentials = credentials2;
-        this.options = options;
         this.currentChild = null;
         this.pendingChild = null;
         this.latestConfig = null;
@@ -1722,10 +1892,10 @@ var require_load_balancer_child_handler = __commonJS({
             this.parent = parent;
             this.child = null;
           }
-          createSubchannel(subchannelAddress, subchannelArgs, credentialsOverride) {
-            return this.parent.channelControlHelper.createSubchannel(subchannelAddress, subchannelArgs, credentialsOverride);
+          createSubchannel(subchannelAddress, subchannelArgs) {
+            return this.parent.channelControlHelper.createSubchannel(subchannelAddress, subchannelArgs);
           }
-          updateState(connectivityState, picker) {
+          updateState(connectivityState, picker, errorMessage) {
             var _a;
             if (this.calledByPendingChild()) {
               if (connectivityState === connectivity_state_1.ConnectivityState.CONNECTING) {
@@ -1737,7 +1907,7 @@ var require_load_balancer_child_handler = __commonJS({
             } else if (!this.calledByCurrentChild()) {
               return;
             }
-            this.parent.channelControlHelper.updateState(connectivityState, picker);
+            this.parent.channelControlHelper.updateState(connectivityState, picker, errorMessage);
           }
           requestReresolution() {
             var _a;
@@ -1772,11 +1942,11 @@ var require_load_balancer_child_handler = __commonJS({
        * @param lbConfig
        * @param attributes
        */
-      updateAddressList(endpointList, lbConfig, attributes) {
+      updateAddressList(endpointList, lbConfig, options) {
         let childToUpdate;
         if (this.currentChild === null || this.latestConfig === null || this.configUpdateRequiresNewPolicyInstance(this.latestConfig, lbConfig)) {
           const newHelper = new this.ChildPolicyHelper(this);
-          const newChild = (0, load_balancer_1.createLoadBalancer)(lbConfig, newHelper, this.credentials, this.options);
+          const newChild = (0, load_balancer_1.createLoadBalancer)(lbConfig, newHelper);
           newHelper.setChild(newChild);
           if (this.currentChild === null) {
             this.currentChild = newChild;
@@ -1796,7 +1966,7 @@ var require_load_balancer_child_handler = __commonJS({
           }
         }
         this.latestConfig = lbConfig;
-        childToUpdate.updateAddressList(endpointList, lbConfig, attributes);
+        childToUpdate.updateAddressList(endpointList, lbConfig, options);
       }
       exitIdle() {
         if (this.currentChild) {
@@ -1832,9 +2002,9 @@ var require_load_balancer_child_handler = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolving-load-balancer.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolving-load-balancer.js
 var require_resolving_load_balancer = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolving-load-balancer.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolving-load-balancer.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ResolvingLoadBalancer = void 0;
@@ -1889,30 +2059,34 @@ var require_resolving_load_balancer = __commonJS({
       return null;
     }
     function getDefaultConfigSelector(serviceConfig) {
-      return function defaultConfigSelector(methodName, metadata) {
-        var _a, _b;
-        const splitName = methodName.split("/").filter((x) => x.length > 0);
-        const service = (_a = splitName[0]) !== null && _a !== void 0 ? _a : "";
-        const method = (_b = splitName[1]) !== null && _b !== void 0 ? _b : "";
-        if (serviceConfig && serviceConfig.methodConfig) {
-          for (const matchLevel of NAME_MATCH_LEVEL_ORDER) {
-            const matchingConfig = findMatchingConfig(service, method, serviceConfig.methodConfig, matchLevel);
-            if (matchingConfig) {
-              return {
-                methodConfig: matchingConfig,
-                pickInformation: {},
-                status: constants_1.Status.OK,
-                dynamicFilterFactories: []
-              };
+      return {
+        invoke(methodName, metadata) {
+          var _a, _b;
+          const splitName = methodName.split("/").filter((x) => x.length > 0);
+          const service = (_a = splitName[0]) !== null && _a !== void 0 ? _a : "";
+          const method = (_b = splitName[1]) !== null && _b !== void 0 ? _b : "";
+          if (serviceConfig && serviceConfig.methodConfig) {
+            for (const matchLevel of NAME_MATCH_LEVEL_ORDER) {
+              const matchingConfig = findMatchingConfig(service, method, serviceConfig.methodConfig, matchLevel);
+              if (matchingConfig) {
+                return {
+                  methodConfig: matchingConfig,
+                  pickInformation: {},
+                  status: constants_1.Status.OK,
+                  dynamicFilterFactories: []
+                };
+              }
             }
           }
+          return {
+            methodConfig: { name: [] },
+            pickInformation: {},
+            status: constants_1.Status.OK,
+            dynamicFilterFactories: []
+          };
+        },
+        unref() {
         }
-        return {
-          methodConfig: { name: [] },
-          pickInformation: {},
-          status: constants_1.Status.OK,
-          dynamicFilterFactories: []
-        };
       };
     }
     var ResolvingLoadBalancer = class {
@@ -1928,13 +2102,15 @@ var require_resolving_load_balancer = __commonJS({
        *     In practice, that means using the "pick first" load balancer
        *     implmentation
        */
-      constructor(target, channelControlHelper, credentials2, channelOptions, onSuccessfulResolution, onFailedResolution) {
+      constructor(target, channelControlHelper, channelOptions, onSuccessfulResolution, onFailedResolution) {
         this.target = target;
         this.channelControlHelper = channelControlHelper;
+        this.channelOptions = channelOptions;
         this.onSuccessfulResolution = onSuccessfulResolution;
         this.onFailedResolution = onFailedResolution;
         this.latestChildState = connectivity_state_1.ConnectivityState.IDLE;
         this.latestChildPicker = new picker_1.QueuePicker(this);
+        this.latestChildErrorMessage = null;
         this.currentState = connectivity_state_1.ConnectivityState.IDLE;
         this.previousServiceConfig = null;
         this.continueResolving = false;
@@ -1946,7 +2122,7 @@ var require_resolving_load_balancer = __commonJS({
             methodConfig: []
           };
         }
-        this.updateState(connectivity_state_1.ConnectivityState.IDLE, new picker_1.QueuePicker(this));
+        this.updateState(connectivity_state_1.ConnectivityState.IDLE, new picker_1.QueuePicker(this), null);
         this.childLoadBalancer = new load_balancer_child_handler_1.ChildLoadBalancerHandler({
           createSubchannel: channelControlHelper.createSubchannel.bind(channelControlHelper),
           requestReresolution: () => {
@@ -1957,14 +2133,15 @@ var require_resolving_load_balancer = __commonJS({
               this.updateResolution();
             }
           },
-          updateState: (newState, picker) => {
+          updateState: (newState, picker, errorMessage) => {
             this.latestChildState = newState;
             this.latestChildPicker = picker;
-            this.updateState(newState, picker);
+            this.latestChildErrorMessage = errorMessage;
+            this.updateState(newState, picker, errorMessage);
           },
           addChannelzChild: channelControlHelper.addChannelzChild.bind(channelControlHelper),
           removeChannelzChild: channelControlHelper.removeChannelzChild.bind(channelControlHelper)
-        }, credentials2, channelOptions);
+        });
         this.innerResolver = (0, resolver_1.createResolver)(target, {
           onSuccessfulResolution: (endpointList, serviceConfig, serviceConfigError, configSelector, attributes) => {
             var _a;
@@ -1994,9 +2171,10 @@ var require_resolving_load_balancer = __commonJS({
                 details: "All load balancer options in service config are not compatible",
                 metadata: new metadata_1.Metadata()
               });
+              configSelector === null || configSelector === void 0 ? void 0 : configSelector.unref();
               return;
             }
-            this.childLoadBalancer.updateAddressList(endpointList, loadBalancingConfig, attributes);
+            this.childLoadBalancer.updateAddressList(endpointList, loadBalancingConfig, Object.assign(Object.assign({}, this.channelOptions), attributes));
             const finalServiceConfig = workingServiceConfig !== null && workingServiceConfig !== void 0 ? workingServiceConfig : this.defaultServiceConfig;
             this.onSuccessfulResolution(finalServiceConfig, configSelector !== null && configSelector !== void 0 ? configSelector : getDefaultConfigSelector(finalServiceConfig));
           },
@@ -2013,7 +2191,7 @@ var require_resolving_load_balancer = __commonJS({
             this.updateResolution();
             this.continueResolving = false;
           } else {
-            this.updateState(this.latestChildState, this.latestChildPicker);
+            this.updateState(this.latestChildState, this.latestChildPicker, this.latestChildErrorMessage);
           }
         }, backoffOptions);
         this.backoffTimeout.unref();
@@ -2021,21 +2199,21 @@ var require_resolving_load_balancer = __commonJS({
       updateResolution() {
         this.innerResolver.updateResolution();
         if (this.currentState === connectivity_state_1.ConnectivityState.IDLE) {
-          this.updateState(connectivity_state_1.ConnectivityState.CONNECTING, this.latestChildPicker);
+          this.updateState(connectivity_state_1.ConnectivityState.CONNECTING, this.latestChildPicker, this.latestChildErrorMessage);
         }
         this.backoffTimeout.runOnce();
       }
-      updateState(connectivityState, picker) {
+      updateState(connectivityState, picker, errorMessage) {
         trace((0, uri_parser_1.uriToString)(this.target) + " " + connectivity_state_1.ConnectivityState[this.currentState] + " -> " + connectivity_state_1.ConnectivityState[connectivityState]);
         if (connectivityState === connectivity_state_1.ConnectivityState.IDLE) {
           picker = new picker_1.QueuePicker(this, picker);
         }
         this.currentState = connectivityState;
-        this.channelControlHelper.updateState(connectivityState, picker);
+        this.channelControlHelper.updateState(connectivityState, picker, errorMessage);
       }
       handleResolutionFailure(error) {
         if (this.latestChildState === connectivity_state_1.ConnectivityState.IDLE) {
-          this.updateState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE, new picker_1.UnavailablePicker(error));
+          this.updateState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE, new picker_1.UnavailablePicker(error), error.details);
           this.onFailedResolution(error);
         }
       }
@@ -2075,9 +2253,9 @@ var require_resolving_load_balancer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channel-options.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channel-options.js
 var require_channel_options = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channel-options.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channel-options.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.recognizedOptions = void 0;
@@ -2110,7 +2288,8 @@ var require_channel_options = __commonJS({
       "grpc.client_idle_timeout_ms": true,
       "grpc-node.tls_enable_trace": true,
       "grpc.lb.ring_hash.ring_size_cap": true,
-      "grpc-node.retry_max_attempts_limit": true
+      "grpc-node.retry_max_attempts_limit": true,
+      "grpc-node.flow_control_window": true
     };
     function channelOptionsEqual(options1, options2) {
       const keys1 = Object.keys(options1).sort();
@@ -2131,9 +2310,9 @@ var require_channel_options = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-address.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-address.js
 var require_subchannel_address = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-address.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-address.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.EndpointMap = void 0;
@@ -3279,9 +3458,9 @@ var init_esm = __esm({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/admin.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/admin.js
 var require_admin = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/admin.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/admin.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.registerAdminService = registerAdminService;
@@ -3298,9 +3477,9 @@ var require_admin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call.js
 var require_call = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ClientDuplexStreamImpl = exports2.ClientWritableStreamImpl = exports2.ClientReadableStreamImpl = exports2.ClientUnaryCallImpl = void 0;
@@ -3419,9 +3598,9 @@ ${callerStack}`;
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call-interface.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call-interface.js
 var require_call_interface = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call-interface.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call-interface.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.InterceptingListenerImpl = void 0;
@@ -3487,9 +3666,9 @@ var require_call_interface = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/client-interceptors.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/client-interceptors.js
 var require_client_interceptors = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/client-interceptors.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/client-interceptors.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.InterceptingCall = exports2.RequesterBuilder = exports2.ListenerBuilder = exports2.InterceptorConfigurationError = void 0;
@@ -3834,9 +4013,9 @@ var require_client_interceptors = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/client.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/client.js
 var require_client = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/client.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/client.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Client = void 0;
@@ -4208,9 +4387,9 @@ var require_client = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/make-client.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/make-client.js
 var require_make_client = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/make-client.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/make-client.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.makeClientConstructor = makeClientConstructor;
@@ -5175,9 +5354,9 @@ var require_pool = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/util/longbits.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/longbits.js
 var require_longbits = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/util/longbits.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/longbits.js"(exports2, module2) {
     "use strict";
     module2.exports = LongBits;
     var util = require_minimal();
@@ -5277,9 +5456,9 @@ var require_longbits = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/util/minimal.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/minimal.js
 var require_minimal = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/util/minimal.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/minimal.js"(exports2) {
     "use strict";
     var util = exports2;
     util.asPromise = require_aspromise();
@@ -5452,9 +5631,9 @@ var require_minimal = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/writer.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer.js
 var require_writer = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/writer.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer.js"(exports2, module2) {
     "use strict";
     module2.exports = Writer;
     var util = require_minimal();
@@ -5643,9 +5822,9 @@ var require_writer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/writer_buffer.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer_buffer.js
 var require_writer_buffer = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/writer_buffer.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer_buffer.js"(exports2, module2) {
     "use strict";
     module2.exports = BufferWriter;
     var Writer = require_writer();
@@ -5693,9 +5872,9 @@ var require_writer_buffer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/reader.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader.js
 var require_reader = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/reader.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader.js"(exports2, module2) {
     "use strict";
     module2.exports = Reader;
     var util = require_minimal();
@@ -5917,9 +6096,9 @@ var require_reader = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/reader_buffer.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader_buffer.js
 var require_reader_buffer = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/reader_buffer.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader_buffer.js"(exports2, module2) {
     "use strict";
     module2.exports = BufferReader;
     var Reader = require_reader();
@@ -5940,9 +6119,9 @@ var require_reader_buffer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/rpc/service.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc/service.js
 var require_service = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/rpc/service.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc/service.js"(exports2, module2) {
     "use strict";
     module2.exports = Service;
     var util = require_minimal();
@@ -6015,26 +6194,26 @@ var require_service = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/rpc.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc.js
 var require_rpc = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/rpc.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc.js"(exports2) {
     "use strict";
     var rpc = exports2;
     rpc.Service = require_service();
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/roots.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/roots.js
 var require_roots = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/roots.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/roots.js"(exports2, module2) {
     "use strict";
     module2.exports = {};
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/index-minimal.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-minimal.js
 var require_index_minimal = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/index-minimal.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-minimal.js"(exports2) {
     "use strict";
     var protobuf = exports2;
     protobuf.build = "minimal";
@@ -6222,436 +6401,9 @@ var require_path = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/types.js
-var require_types = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/types.js"(exports2) {
-    "use strict";
-    var types = exports2;
-    var util = require_util();
-    var s = [
-      "double",
-      // 0
-      "float",
-      // 1
-      "int32",
-      // 2
-      "uint32",
-      // 3
-      "sint32",
-      // 4
-      "fixed32",
-      // 5
-      "sfixed32",
-      // 6
-      "int64",
-      // 7
-      "uint64",
-      // 8
-      "sint64",
-      // 9
-      "fixed64",
-      // 10
-      "sfixed64",
-      // 11
-      "bool",
-      // 12
-      "string",
-      // 13
-      "bytes"
-      // 14
-    ];
-    function bake(values, offset) {
-      var i = 0, o = {};
-      offset |= 0;
-      while (i < values.length) o[s[i + offset]] = values[i++];
-      return o;
-    }
-    types.basic = bake([
-      /* double   */
-      1,
-      /* float    */
-      5,
-      /* int32    */
-      0,
-      /* uint32   */
-      0,
-      /* sint32   */
-      0,
-      /* fixed32  */
-      5,
-      /* sfixed32 */
-      5,
-      /* int64    */
-      0,
-      /* uint64   */
-      0,
-      /* sint64   */
-      0,
-      /* fixed64  */
-      1,
-      /* sfixed64 */
-      1,
-      /* bool     */
-      0,
-      /* string   */
-      2,
-      /* bytes    */
-      2
-    ]);
-    types.defaults = bake([
-      /* double   */
-      0,
-      /* float    */
-      0,
-      /* int32    */
-      0,
-      /* uint32   */
-      0,
-      /* sint32   */
-      0,
-      /* fixed32  */
-      0,
-      /* sfixed32 */
-      0,
-      /* int64    */
-      0,
-      /* uint64   */
-      0,
-      /* sint64   */
-      0,
-      /* fixed64  */
-      0,
-      /* sfixed64 */
-      0,
-      /* bool     */
-      false,
-      /* string   */
-      "",
-      /* bytes    */
-      util.emptyArray,
-      /* message  */
-      null
-    ]);
-    types.long = bake([
-      /* int64    */
-      0,
-      /* uint64   */
-      0,
-      /* sint64   */
-      0,
-      /* fixed64  */
-      1,
-      /* sfixed64 */
-      1
-    ], 7);
-    types.mapKey = bake([
-      /* int32    */
-      0,
-      /* uint32   */
-      0,
-      /* sint32   */
-      0,
-      /* fixed32  */
-      5,
-      /* sfixed32 */
-      5,
-      /* int64    */
-      0,
-      /* uint64   */
-      0,
-      /* sint64   */
-      0,
-      /* fixed64  */
-      1,
-      /* sfixed64 */
-      1,
-      /* bool     */
-      0,
-      /* string   */
-      2
-    ], 2);
-    types.packed = bake([
-      /* double   */
-      1,
-      /* float    */
-      5,
-      /* int32    */
-      0,
-      /* uint32   */
-      0,
-      /* sint32   */
-      0,
-      /* fixed32  */
-      5,
-      /* sfixed32 */
-      5,
-      /* int64    */
-      0,
-      /* uint64   */
-      0,
-      /* sint64   */
-      0,
-      /* fixed64  */
-      1,
-      /* sfixed64 */
-      1,
-      /* bool     */
-      0
-    ]);
-  }
-});
-
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/field.js
-var require_field = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/field.js"(exports2, module2) {
-    "use strict";
-    module2.exports = Field;
-    var ReflectionObject = require_object();
-    ((Field.prototype = Object.create(ReflectionObject.prototype)).constructor = Field).className = "Field";
-    var Enum = require_enum();
-    var types = require_types();
-    var util = require_util();
-    var Type;
-    var ruleRe = /^required|optional|repeated$/;
-    Field.fromJSON = function fromJSON(name, json) {
-      return new Field(name, json.id, json.type, json.rule, json.extend, json.options, json.comment);
-    };
-    function Field(name, id, type, rule, extend, options, comment) {
-      if (util.isObject(rule)) {
-        comment = extend;
-        options = rule;
-        rule = extend = void 0;
-      } else if (util.isObject(extend)) {
-        comment = options;
-        options = extend;
-        extend = void 0;
-      }
-      ReflectionObject.call(this, name, options);
-      if (!util.isInteger(id) || id < 0)
-        throw TypeError("id must be a non-negative integer");
-      if (!util.isString(type))
-        throw TypeError("type must be a string");
-      if (rule !== void 0 && !ruleRe.test(rule = rule.toString().toLowerCase()))
-        throw TypeError("rule must be a string rule");
-      if (extend !== void 0 && !util.isString(extend))
-        throw TypeError("extend must be a string");
-      if (rule === "proto3_optional") {
-        rule = "optional";
-      }
-      this.rule = rule && rule !== "optional" ? rule : void 0;
-      this.type = type;
-      this.id = id;
-      this.extend = extend || void 0;
-      this.required = rule === "required";
-      this.optional = !this.required;
-      this.repeated = rule === "repeated";
-      this.map = false;
-      this.message = null;
-      this.partOf = null;
-      this.typeDefault = null;
-      this.defaultValue = null;
-      this.long = util.Long ? types.long[type] !== void 0 : (
-        /* istanbul ignore next */
-        false
-      );
-      this.bytes = type === "bytes";
-      this.resolvedType = null;
-      this.extensionField = null;
-      this.declaringField = null;
-      this._packed = null;
-      this.comment = comment;
-    }
-    Object.defineProperty(Field.prototype, "packed", {
-      get: function() {
-        if (this._packed === null)
-          this._packed = this.getOption("packed") !== false;
-        return this._packed;
-      }
-    });
-    Field.prototype.setOption = function setOption(name, value, ifNotSet) {
-      if (name === "packed")
-        this._packed = null;
-      return ReflectionObject.prototype.setOption.call(this, name, value, ifNotSet);
-    };
-    Field.prototype.toJSON = function toJSON(toJSONOptions) {
-      var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
-      return util.toObject([
-        "rule",
-        this.rule !== "optional" && this.rule || void 0,
-        "type",
-        this.type,
-        "id",
-        this.id,
-        "extend",
-        this.extend,
-        "options",
-        this.options,
-        "comment",
-        keepComments ? this.comment : void 0
-      ]);
-    };
-    Field.prototype.resolve = function resolve() {
-      if (this.resolved)
-        return this;
-      if ((this.typeDefault = types.defaults[this.type]) === void 0) {
-        this.resolvedType = (this.declaringField ? this.declaringField.parent : this.parent).lookupTypeOrEnum(this.type);
-        if (this.resolvedType instanceof Type)
-          this.typeDefault = null;
-        else
-          this.typeDefault = this.resolvedType.values[Object.keys(this.resolvedType.values)[0]];
-      } else if (this.options && this.options.proto3_optional) {
-        this.typeDefault = null;
-      }
-      if (this.options && this.options["default"] != null) {
-        this.typeDefault = this.options["default"];
-        if (this.resolvedType instanceof Enum && typeof this.typeDefault === "string")
-          this.typeDefault = this.resolvedType.values[this.typeDefault];
-      }
-      if (this.options) {
-        if (this.options.packed === true || this.options.packed !== void 0 && this.resolvedType && !(this.resolvedType instanceof Enum))
-          delete this.options.packed;
-        if (!Object.keys(this.options).length)
-          this.options = void 0;
-      }
-      if (this.long) {
-        this.typeDefault = util.Long.fromNumber(this.typeDefault, this.type.charAt(0) === "u");
-        if (Object.freeze)
-          Object.freeze(this.typeDefault);
-      } else if (this.bytes && typeof this.typeDefault === "string") {
-        var buf;
-        if (util.base64.test(this.typeDefault))
-          util.base64.decode(this.typeDefault, buf = util.newBuffer(util.base64.length(this.typeDefault)), 0);
-        else
-          util.utf8.write(this.typeDefault, buf = util.newBuffer(util.utf8.length(this.typeDefault)), 0);
-        this.typeDefault = buf;
-      }
-      if (this.map)
-        this.defaultValue = util.emptyObject;
-      else if (this.repeated)
-        this.defaultValue = util.emptyArray;
-      else
-        this.defaultValue = this.typeDefault;
-      if (this.parent instanceof Type)
-        this.parent.ctor.prototype[this.name] = this.defaultValue;
-      return ReflectionObject.prototype.resolve.call(this);
-    };
-    Field.d = function decorateField(fieldId, fieldType, fieldRule, defaultValue) {
-      if (typeof fieldType === "function")
-        fieldType = util.decorateType(fieldType).name;
-      else if (fieldType && typeof fieldType === "object")
-        fieldType = util.decorateEnum(fieldType).name;
-      return function fieldDecorator(prototype, fieldName) {
-        util.decorateType(prototype.constructor).add(new Field(fieldName, fieldId, fieldType, fieldRule, { "default": defaultValue }));
-      };
-    };
-    Field._configure = function configure(Type_) {
-      Type = Type_;
-    };
-  }
-});
-
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/oneof.js
-var require_oneof = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/oneof.js"(exports2, module2) {
-    "use strict";
-    module2.exports = OneOf;
-    var ReflectionObject = require_object();
-    ((OneOf.prototype = Object.create(ReflectionObject.prototype)).constructor = OneOf).className = "OneOf";
-    var Field = require_field();
-    var util = require_util();
-    function OneOf(name, fieldNames, options, comment) {
-      if (!Array.isArray(fieldNames)) {
-        options = fieldNames;
-        fieldNames = void 0;
-      }
-      ReflectionObject.call(this, name, options);
-      if (!(fieldNames === void 0 || Array.isArray(fieldNames)))
-        throw TypeError("fieldNames must be an Array");
-      this.oneof = fieldNames || [];
-      this.fieldsArray = [];
-      this.comment = comment;
-    }
-    OneOf.fromJSON = function fromJSON(name, json) {
-      return new OneOf(name, json.oneof, json.options, json.comment);
-    };
-    OneOf.prototype.toJSON = function toJSON(toJSONOptions) {
-      var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
-      return util.toObject([
-        "options",
-        this.options,
-        "oneof",
-        this.oneof,
-        "comment",
-        keepComments ? this.comment : void 0
-      ]);
-    };
-    function addFieldsToParent(oneof) {
-      if (oneof.parent) {
-        for (var i = 0; i < oneof.fieldsArray.length; ++i)
-          if (!oneof.fieldsArray[i].parent)
-            oneof.parent.add(oneof.fieldsArray[i]);
-      }
-    }
-    OneOf.prototype.add = function add2(field) {
-      if (!(field instanceof Field))
-        throw TypeError("field must be a Field");
-      if (field.parent && field.parent !== this.parent)
-        field.parent.remove(field);
-      this.oneof.push(field.name);
-      this.fieldsArray.push(field);
-      field.partOf = this;
-      addFieldsToParent(this);
-      return this;
-    };
-    OneOf.prototype.remove = function remove(field) {
-      if (!(field instanceof Field))
-        throw TypeError("field must be a Field");
-      var index = this.fieldsArray.indexOf(field);
-      if (index < 0)
-        throw Error(field + " is not a member of " + this);
-      this.fieldsArray.splice(index, 1);
-      index = this.oneof.indexOf(field.name);
-      if (index > -1)
-        this.oneof.splice(index, 1);
-      field.partOf = null;
-      return this;
-    };
-    OneOf.prototype.onAdd = function onAdd(parent) {
-      ReflectionObject.prototype.onAdd.call(this, parent);
-      var self2 = this;
-      for (var i = 0; i < this.oneof.length; ++i) {
-        var field = parent.get(this.oneof[i]);
-        if (field && !field.partOf) {
-          field.partOf = self2;
-          self2.fieldsArray.push(field);
-        }
-      }
-      addFieldsToParent(this);
-    };
-    OneOf.prototype.onRemove = function onRemove(parent) {
-      for (var i = 0, field; i < this.fieldsArray.length; ++i)
-        if ((field = this.fieldsArray[i]).parent)
-          field.parent.remove(field);
-      ReflectionObject.prototype.onRemove.call(this, parent);
-    };
-    OneOf.d = function decorateOneOf() {
-      var fieldNames = new Array(arguments.length), index = 0;
-      while (index < arguments.length)
-        fieldNames[index] = arguments[index++];
-      return function oneOfDecorator(prototype, oneofName) {
-        util.decorateType(prototype.constructor).add(new OneOf(oneofName, fieldNames));
-        Object.defineProperty(prototype, oneofName, {
-          get: util.oneOfGetter(fieldNames),
-          set: util.oneOfSetter(fieldNames)
-        });
-      };
-    };
-  }
-});
-
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/namespace.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/namespace.js
 var require_namespace = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/namespace.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/namespace.js"(exports2, module2) {
     "use strict";
     module2.exports = Namespace;
     var ReflectionObject = require_object();
@@ -6694,9 +6446,17 @@ var require_namespace = __commonJS({
       ReflectionObject.call(this, name, options);
       this.nested = void 0;
       this._nestedArray = null;
+      this._lookupCache = {};
+      this._needsRecursiveFeatureResolution = true;
+      this._needsRecursiveResolve = true;
     }
     function clearCache(namespace) {
       namespace._nestedArray = null;
+      namespace._lookupCache = {};
+      var parent = namespace;
+      while (parent = parent.parent) {
+        parent._lookupCache = {};
+      }
       return namespace;
     }
     Object.defineProperty(Namespace.prototype, "nestedArray", {
@@ -6754,6 +6514,18 @@ var require_namespace = __commonJS({
         }
       }
       this.nested[object.name] = object;
+      if (!(this instanceof Type || this instanceof Service || this instanceof Enum || this instanceof Field)) {
+        if (!object._edition) {
+          object._edition = object._defaultEdition;
+        }
+      }
+      this._needsRecursiveFeatureResolution = true;
+      this._needsRecursiveResolve = true;
+      var parent = this;
+      while (parent = parent.parent) {
+        parent._needsRecursiveFeatureResolution = true;
+        parent._needsRecursiveResolve = true;
+      }
       object.onAdd(this);
       return clearCache(this);
     };
@@ -6790,13 +6562,27 @@ var require_namespace = __commonJS({
       return ptr;
     };
     Namespace.prototype.resolveAll = function resolveAll() {
+      if (!this._needsRecursiveResolve) return this;
+      this._resolveFeaturesRecursive(this._edition);
       var nested = this.nestedArray, i = 0;
+      this.resolve();
       while (i < nested.length)
         if (nested[i] instanceof Namespace)
           nested[i++].resolveAll();
         else
           nested[i++].resolve();
-      return this.resolve();
+      this._needsRecursiveResolve = false;
+      return this;
+    };
+    Namespace.prototype._resolveFeaturesRecursive = function _resolveFeaturesRecursive(edition) {
+      if (!this._needsRecursiveFeatureResolution) return this;
+      this._needsRecursiveFeatureResolution = false;
+      edition = this._edition || edition;
+      ReflectionObject.prototype._resolveFeaturesRecursive.call(this, edition);
+      this.nestedArray.forEach((nested) => {
+        nested._resolveFeaturesRecursive(edition);
+      });
+      return this;
     };
     Namespace.prototype.lookup = function lookup(path, filterTypes, parentAlreadyChecked) {
       if (typeof filterTypes === "boolean") {
@@ -6810,22 +6596,49 @@ var require_namespace = __commonJS({
         path = path.split(".");
       } else if (!path.length)
         return this;
+      var flatPath = path.join(".");
       if (path[0] === "")
         return this.root.lookup(path.slice(1), filterTypes);
+      var found = this.root._fullyQualifiedObjects && this.root._fullyQualifiedObjects["." + flatPath];
+      if (found && (!filterTypes || filterTypes.indexOf(found.constructor) > -1)) {
+        return found;
+      }
+      found = this._lookupImpl(path, flatPath);
+      if (found && (!filterTypes || filterTypes.indexOf(found.constructor) > -1)) {
+        return found;
+      }
+      if (parentAlreadyChecked)
+        return null;
+      var current = this;
+      while (current.parent) {
+        found = current.parent._lookupImpl(path, flatPath);
+        if (found && (!filterTypes || filterTypes.indexOf(found.constructor) > -1)) {
+          return found;
+        }
+        current = current.parent;
+      }
+      return null;
+    };
+    Namespace.prototype._lookupImpl = function lookup(path, flatPath) {
+      if (Object.prototype.hasOwnProperty.call(this._lookupCache, flatPath)) {
+        return this._lookupCache[flatPath];
+      }
       var found = this.get(path[0]);
+      var exact = null;
       if (found) {
         if (path.length === 1) {
-          if (!filterTypes || filterTypes.indexOf(found.constructor) > -1)
-            return found;
-        } else if (found instanceof Namespace && (found = found.lookup(path.slice(1), filterTypes, true)))
-          return found;
-      } else
+          exact = found;
+        } else if (found instanceof Namespace) {
+          path = path.slice(1);
+          exact = found._lookupImpl(path, path.join("."));
+        }
+      } else {
         for (var i = 0; i < this.nestedArray.length; ++i)
-          if (this._nestedArray[i] instanceof Namespace && (found = this._nestedArray[i].lookup(path, filterTypes, true)))
-            return found;
-      if (this.parent === null || parentAlreadyChecked)
-        return null;
-      return this.parent.lookup(path, filterTypes);
+          if (this._nestedArray[i] instanceof Namespace && (found = this._nestedArray[i]._lookupImpl(path, flatPath)))
+            exact = found;
+      }
+      this._lookupCache[flatPath] = exact;
+      return exact;
     };
     Namespace.prototype.lookupType = function lookupType(path) {
       var found = this.lookup(path, [Type]);
@@ -6859,9 +6672,9 @@ var require_namespace = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/mapfield.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/mapfield.js
 var require_mapfield = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/mapfield.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/mapfield.js"(exports2, module2) {
     "use strict";
     module2.exports = MapField;
     var Field = require_field();
@@ -6915,9 +6728,9 @@ var require_mapfield = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/method.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/method.js
 var require_method = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/method.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/method.js"(exports2, module2) {
     "use strict";
     module2.exports = Method;
     var ReflectionObject = require_object();
@@ -6983,9 +6796,9 @@ var require_method = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/service.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/service.js
 var require_service2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/service.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/service.js"(exports2, module2) {
     "use strict";
     module2.exports = Service;
     var Namespace = require_namespace();
@@ -7005,13 +6818,18 @@ var require_service2 = __commonJS({
           service.add(Method.fromJSON(names[i], json.methods[names[i]]));
       if (json.nested)
         service.addJSON(json.nested);
+      if (json.edition)
+        service._edition = json.edition;
       service.comment = json.comment;
+      service._defaultEdition = "proto3";
       return service;
     };
     Service.prototype.toJSON = function toJSON(toJSONOptions) {
       var inherited = Namespace.prototype.toJSON.call(this, toJSONOptions);
       var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
       return util.toObject([
+        "edition",
+        this._editionToJSON(),
         "options",
         inherited && inherited.options || void 0,
         "methods",
@@ -7036,10 +6854,21 @@ var require_service2 = __commonJS({
       return this.methods[name] || Namespace.prototype.get.call(this, name);
     };
     Service.prototype.resolveAll = function resolveAll() {
+      if (!this._needsRecursiveResolve) return this;
+      Namespace.prototype.resolve.call(this);
       var methods = this.methodsArray;
       for (var i = 0; i < methods.length; ++i)
         methods[i].resolve();
-      return Namespace.prototype.resolve.call(this);
+      return this;
+    };
+    Service.prototype._resolveFeaturesRecursive = function _resolveFeaturesRecursive(edition) {
+      if (!this._needsRecursiveFeatureResolution) return this;
+      edition = this._edition || edition;
+      Namespace.prototype._resolveFeaturesRecursive.call(this, edition);
+      this.methodsArray.forEach((method) => {
+        method._resolveFeaturesRecursive(edition);
+      });
+      return this;
     };
     Service.prototype.add = function add2(object) {
       if (this.get(object.name))
@@ -7077,9 +6906,9 @@ var require_service2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/message.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/message.js
 var require_message = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/message.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/message.js"(exports2, module2) {
     "use strict";
     module2.exports = Message;
     var util = require_minimal();
@@ -7118,9 +6947,9 @@ var require_message = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/decoder.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/decoder.js
 var require_decoder = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/decoder.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/decoder.js"(exports2, module2) {
     "use strict";
     module2.exports = decoder;
     var Enum = require_enum();
@@ -7130,11 +6959,9 @@ var require_decoder = __commonJS({
       return "missing required '" + field.name + "'";
     }
     function decoder(mtype) {
-      var gen = util.codegen(["r", "l"], mtype.name + "$decode")("if(!(r instanceof Reader))")("r=Reader.create(r)")("var c=l===undefined?r.len:r.pos+l,m=new this.ctor" + (mtype.fieldsArray.filter(function(field2) {
+      var gen = util.codegen(["r", "l", "e"], mtype.name + "$decode")("if(!(r instanceof Reader))")("r=Reader.create(r)")("var c=l===undefined?r.len:r.pos+l,m=new this.ctor" + (mtype.fieldsArray.filter(function(field2) {
         return field2.map;
-      }).length ? ",k,value" : ""))("while(r.pos<c){")("var t=r.uint32()");
-      if (mtype.group) gen("if((t&7)===4)")("break");
-      gen("switch(t>>>3){");
+      }).length ? ",k,value" : ""))("while(r.pos<c){")("var t=r.uint32()")("if(t===e)")("break")("switch(t>>>3){");
       var i = 0;
       for (; i < /* initializes */
       mtype.fieldsArray.length; ++i) {
@@ -7155,9 +6982,9 @@ var require_decoder = __commonJS({
         } else if (field.repeated) {
           gen("if(!(%s&&%s.length))", ref, ref)("%s=[]", ref);
           if (types.packed[type] !== void 0) gen("if((t&7)===2){")("var c2=r.uint32()+r.pos")("while(r.pos<c2)")("%s.push(r.%s())", ref, type)("}else");
-          if (types.basic[type] === void 0) gen(field.resolvedType.group ? "%s.push(types[%i].decode(r))" : "%s.push(types[%i].decode(r,r.uint32()))", ref, i);
+          if (types.basic[type] === void 0) gen(field.delimited ? "%s.push(types[%i].decode(r,undefined,((t&~7)|4)))" : "%s.push(types[%i].decode(r,r.uint32()))", ref, i);
           else gen("%s.push(r.%s())", ref, type);
-        } else if (types.basic[type] === void 0) gen(field.resolvedType.group ? "%s=types[%i].decode(r)" : "%s=types[%i].decode(r,r.uint32())", ref, i);
+        } else if (types.basic[type] === void 0) gen(field.delimited ? "%s=types[%i].decode(r,undefined,((t&~7)|4))" : "%s=types[%i].decode(r,r.uint32())", ref, i);
         else gen("%s=r.%s()", ref, type);
         gen("break")("}");
       }
@@ -7171,9 +6998,9 @@ var require_decoder = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/verifier.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/verifier.js
 var require_verifier = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/verifier.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/verifier.js"(exports2, module2) {
     "use strict";
     module2.exports = verifier;
     var Enum = require_enum();
@@ -7276,9 +7103,9 @@ var require_verifier = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/converter.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/converter.js
 var require_converter = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/converter.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/converter.js"(exports2) {
     "use strict";
     var converter = exports2;
     var Enum = require_enum();
@@ -7480,9 +7307,9 @@ var require_converter = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/wrappers.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/wrappers.js
 var require_wrappers = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/wrappers.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/wrappers.js"(exports2) {
     "use strict";
     var wrappers = exports2;
     var Message = require_message();
@@ -7531,9 +7358,9 @@ var require_wrappers = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/type.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/type.js
 var require_type = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/type.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/type.js"(exports2, module2) {
     "use strict";
     module2.exports = Type;
     var Namespace = require_namespace();
@@ -7684,12 +7511,17 @@ var require_type = __commonJS({
         type.group = true;
       if (json.comment)
         type.comment = json.comment;
+      if (json.edition)
+        type._edition = json.edition;
+      type._defaultEdition = "proto3";
       return type;
     };
     Type.prototype.toJSON = function toJSON(toJSONOptions) {
       var inherited = Namespace.prototype.toJSON.call(this, toJSONOptions);
       var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
       return util.toObject([
+        "edition",
+        this._editionToJSON(),
         "options",
         inherited && inherited.options || void 0,
         "oneofs",
@@ -7711,14 +7543,28 @@ var require_type = __commonJS({
       ]);
     };
     Type.prototype.resolveAll = function resolveAll() {
-      var fields = this.fieldsArray, i = 0;
-      while (i < fields.length)
-        fields[i++].resolve();
+      if (!this._needsRecursiveResolve) return this;
+      Namespace.prototype.resolveAll.call(this);
       var oneofs = this.oneofsArray;
       i = 0;
       while (i < oneofs.length)
         oneofs[i++].resolve();
-      return Namespace.prototype.resolveAll.call(this);
+      var fields = this.fieldsArray, i = 0;
+      while (i < fields.length)
+        fields[i++].resolve();
+      return this;
+    };
+    Type.prototype._resolveFeaturesRecursive = function _resolveFeaturesRecursive(edition) {
+      if (!this._needsRecursiveFeatureResolution) return this;
+      edition = this._edition || edition;
+      Namespace.prototype._resolveFeaturesRecursive.call(this, edition);
+      this.oneofsArray.forEach((oneof) => {
+        oneof._resolveFeatures(edition);
+      });
+      this.fieldsArray.forEach((field) => {
+        field._resolveFeatures(edition);
+      });
+      return this;
     };
     Type.prototype.get = function get(name) {
       return this.fields[name] || this.oneofs && this.oneofs[name] || this.nested && this.nested[name] || null;
@@ -7848,9 +7694,9 @@ var require_type = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/root.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/root.js
 var require_root = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/root.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/root.js"(exports2, module2) {
     "use strict";
     module2.exports = Root;
     var Namespace = require_namespace();
@@ -7866,13 +7712,15 @@ var require_root = __commonJS({
       Namespace.call(this, "", options);
       this.deferred = [];
       this.files = [];
+      this._edition = "proto2";
+      this._fullyQualifiedObjects = {};
     }
     Root.fromJSON = function fromJSON(json, root) {
       if (!root)
         root = new Root();
       if (json.options)
         root.setOptions(json.options);
-      return root.addJSON(json.nested);
+      return root.addJSON(json.nested).resolveAll();
     };
     Root.prototype.resolvePath = util.path.resolve;
     Root.prototype.fetch = util.fetch;
@@ -7884,14 +7732,20 @@ var require_root = __commonJS({
         options = void 0;
       }
       var self2 = this;
-      if (!callback)
+      if (!callback) {
         return util.asPromise(load, self2, filename, options);
+      }
       var sync = callback === SYNC;
       function finish(err, root) {
-        if (!callback)
+        if (!callback) {
           return;
-        if (sync)
+        }
+        if (sync) {
           throw err;
+        }
+        if (root) {
+          root.resolveAll();
+        }
         var cb = callback;
         callback = null;
         cb(err, root);
@@ -7927,18 +7781,20 @@ var require_root = __commonJS({
         } catch (err) {
           finish(err);
         }
-        if (!sync && !queued)
+        if (!sync && !queued) {
           finish(null, self2);
+        }
       }
       function fetch(filename2, weak) {
         filename2 = getBundledFileName(filename2) || filename2;
-        if (self2.files.indexOf(filename2) > -1)
+        if (self2.files.indexOf(filename2) > -1) {
           return;
+        }
         self2.files.push(filename2);
         if (filename2 in common) {
-          if (sync)
+          if (sync) {
             process2(filename2, common[filename2]);
-          else {
+          } else {
             ++queued;
             setTimeout(function() {
               --queued;
@@ -7961,8 +7817,9 @@ var require_root = __commonJS({
           ++queued;
           self2.fetch(filename2, function(err, source2) {
             --queued;
-            if (!callback)
+            if (!callback) {
               return;
+            }
             if (err) {
               if (!weak)
                 finish(err);
@@ -7975,16 +7832,20 @@ var require_root = __commonJS({
         }
       }
       var queued = 0;
-      if (util.isString(filename))
+      if (util.isString(filename)) {
         filename = [filename];
+      }
       for (var i = 0, resolved; i < filename.length; ++i)
         if (resolved = self2.resolvePath("", filename[i]))
           fetch(resolved);
-      if (sync)
+      if (sync) {
+        self2.resolveAll();
         return self2;
-      if (!queued)
+      }
+      if (!queued) {
         finish(null, self2);
-      return void 0;
+      }
+      return self2;
     };
     Root.prototype.loadSync = function loadSync(filename, options) {
       if (!util.isNode)
@@ -7992,6 +7853,7 @@ var require_root = __commonJS({
       return this.load(filename, options, SYNC);
     };
     Root.prototype.resolveAll = function resolveAll() {
+      if (!this._needsRecursiveResolve) return this;
       if (this.deferred.length)
         throw Error("unresolvable extensions: " + this.deferred.map(function(field) {
           return "'extend " + field.extend + "' in " + field.parent.fullName;
@@ -8039,6 +7901,9 @@ var require_root = __commonJS({
         if (exposeRe.test(object.name))
           object.parent[object.name] = object;
       }
+      if (object instanceof Type || object instanceof Enum || object instanceof Field) {
+        this._fullyQualifiedObjects[object.fullName] = object;
+      }
     };
     Root.prototype._handleRemove = function _handleRemove(object) {
       if (object instanceof Field) {
@@ -8068,6 +7933,7 @@ var require_root = __commonJS({
         if (exposeRe.test(object.name))
           delete object.parent[object.name];
       }
+      delete this._fullyQualifiedObjects[object.fullName];
     };
     Root._configure = function(Type_, parse_, common_) {
       Type = Type_;
@@ -8077,9 +7943,9 @@ var require_root = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/util.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util.js
 var require_util = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/util.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util.js"(exports2, module2) {
     "use strict";
     var util = module2.exports = require_minimal();
     var roots = require_roots();
@@ -8158,7 +8024,7 @@ var require_util = __commonJS({
       Object.defineProperty(object, "$type", { value: enm, enumerable: false });
       return enm;
     };
-    util.setProperty = function setProperty(dst, path, value) {
+    util.setProperty = function setProperty(dst, path, value, ifNotSet) {
       function setProp(dst2, path2, value2) {
         var part = path2.shift();
         if (part === "__proto__" || part === "prototype") {
@@ -8168,6 +8034,8 @@ var require_util = __commonJS({
           dst2[part] = setProp(dst2[part] || {}, path2, value2);
         } else {
           var prevValue = dst2[part];
+          if (prevValue && ifNotSet)
+            return dst2;
           if (prevValue)
             value2 = [].concat(prevValue).concat(value2);
           dst2[part] = value2;
@@ -8189,14 +8057,502 @@ var require_util = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/object.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/types.js
+var require_types = __commonJS({
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/types.js"(exports2) {
+    "use strict";
+    var types = exports2;
+    var util = require_util();
+    var s = [
+      "double",
+      // 0
+      "float",
+      // 1
+      "int32",
+      // 2
+      "uint32",
+      // 3
+      "sint32",
+      // 4
+      "fixed32",
+      // 5
+      "sfixed32",
+      // 6
+      "int64",
+      // 7
+      "uint64",
+      // 8
+      "sint64",
+      // 9
+      "fixed64",
+      // 10
+      "sfixed64",
+      // 11
+      "bool",
+      // 12
+      "string",
+      // 13
+      "bytes"
+      // 14
+    ];
+    function bake(values, offset) {
+      var i = 0, o = {};
+      offset |= 0;
+      while (i < values.length) o[s[i + offset]] = values[i++];
+      return o;
+    }
+    types.basic = bake([
+      /* double   */
+      1,
+      /* float    */
+      5,
+      /* int32    */
+      0,
+      /* uint32   */
+      0,
+      /* sint32   */
+      0,
+      /* fixed32  */
+      5,
+      /* sfixed32 */
+      5,
+      /* int64    */
+      0,
+      /* uint64   */
+      0,
+      /* sint64   */
+      0,
+      /* fixed64  */
+      1,
+      /* sfixed64 */
+      1,
+      /* bool     */
+      0,
+      /* string   */
+      2,
+      /* bytes    */
+      2
+    ]);
+    types.defaults = bake([
+      /* double   */
+      0,
+      /* float    */
+      0,
+      /* int32    */
+      0,
+      /* uint32   */
+      0,
+      /* sint32   */
+      0,
+      /* fixed32  */
+      0,
+      /* sfixed32 */
+      0,
+      /* int64    */
+      0,
+      /* uint64   */
+      0,
+      /* sint64   */
+      0,
+      /* fixed64  */
+      0,
+      /* sfixed64 */
+      0,
+      /* bool     */
+      false,
+      /* string   */
+      "",
+      /* bytes    */
+      util.emptyArray,
+      /* message  */
+      null
+    ]);
+    types.long = bake([
+      /* int64    */
+      0,
+      /* uint64   */
+      0,
+      /* sint64   */
+      0,
+      /* fixed64  */
+      1,
+      /* sfixed64 */
+      1
+    ], 7);
+    types.mapKey = bake([
+      /* int32    */
+      0,
+      /* uint32   */
+      0,
+      /* sint32   */
+      0,
+      /* fixed32  */
+      5,
+      /* sfixed32 */
+      5,
+      /* int64    */
+      0,
+      /* uint64   */
+      0,
+      /* sint64   */
+      0,
+      /* fixed64  */
+      1,
+      /* sfixed64 */
+      1,
+      /* bool     */
+      0,
+      /* string   */
+      2
+    ], 2);
+    types.packed = bake([
+      /* double   */
+      1,
+      /* float    */
+      5,
+      /* int32    */
+      0,
+      /* uint32   */
+      0,
+      /* sint32   */
+      0,
+      /* fixed32  */
+      5,
+      /* sfixed32 */
+      5,
+      /* int64    */
+      0,
+      /* uint64   */
+      0,
+      /* sint64   */
+      0,
+      /* fixed64  */
+      1,
+      /* sfixed64 */
+      1,
+      /* bool     */
+      0
+    ]);
+  }
+});
+
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/field.js
+var require_field = __commonJS({
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/field.js"(exports2, module2) {
+    "use strict";
+    module2.exports = Field;
+    var ReflectionObject = require_object();
+    ((Field.prototype = Object.create(ReflectionObject.prototype)).constructor = Field).className = "Field";
+    var Enum = require_enum();
+    var types = require_types();
+    var util = require_util();
+    var Type;
+    var ruleRe = /^required|optional|repeated$/;
+    Field.fromJSON = function fromJSON(name, json) {
+      var field = new Field(name, json.id, json.type, json.rule, json.extend, json.options, json.comment);
+      if (json.edition)
+        field._edition = json.edition;
+      field._defaultEdition = "proto3";
+      return field;
+    };
+    function Field(name, id, type, rule, extend, options, comment) {
+      if (util.isObject(rule)) {
+        comment = extend;
+        options = rule;
+        rule = extend = void 0;
+      } else if (util.isObject(extend)) {
+        comment = options;
+        options = extend;
+        extend = void 0;
+      }
+      ReflectionObject.call(this, name, options);
+      if (!util.isInteger(id) || id < 0)
+        throw TypeError("id must be a non-negative integer");
+      if (!util.isString(type))
+        throw TypeError("type must be a string");
+      if (rule !== void 0 && !ruleRe.test(rule = rule.toString().toLowerCase()))
+        throw TypeError("rule must be a string rule");
+      if (extend !== void 0 && !util.isString(extend))
+        throw TypeError("extend must be a string");
+      if (rule === "proto3_optional") {
+        rule = "optional";
+      }
+      this.rule = rule && rule !== "optional" ? rule : void 0;
+      this.type = type;
+      this.id = id;
+      this.extend = extend || void 0;
+      this.repeated = rule === "repeated";
+      this.map = false;
+      this.message = null;
+      this.partOf = null;
+      this.typeDefault = null;
+      this.defaultValue = null;
+      this.long = util.Long ? types.long[type] !== void 0 : (
+        /* istanbul ignore next */
+        false
+      );
+      this.bytes = type === "bytes";
+      this.resolvedType = null;
+      this.extensionField = null;
+      this.declaringField = null;
+      this.comment = comment;
+    }
+    Object.defineProperty(Field.prototype, "required", {
+      get: function() {
+        return this._features.field_presence === "LEGACY_REQUIRED";
+      }
+    });
+    Object.defineProperty(Field.prototype, "optional", {
+      get: function() {
+        return !this.required;
+      }
+    });
+    Object.defineProperty(Field.prototype, "delimited", {
+      get: function() {
+        return this.resolvedType instanceof Type && this._features.message_encoding === "DELIMITED";
+      }
+    });
+    Object.defineProperty(Field.prototype, "packed", {
+      get: function() {
+        return this._features.repeated_field_encoding === "PACKED";
+      }
+    });
+    Object.defineProperty(Field.prototype, "hasPresence", {
+      get: function() {
+        if (this.repeated || this.map) {
+          return false;
+        }
+        return this.partOf || // oneofs
+        this.declaringField || this.extensionField || // extensions
+        this._features.field_presence !== "IMPLICIT";
+      }
+    });
+    Field.prototype.setOption = function setOption(name, value, ifNotSet) {
+      return ReflectionObject.prototype.setOption.call(this, name, value, ifNotSet);
+    };
+    Field.prototype.toJSON = function toJSON(toJSONOptions) {
+      var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
+      return util.toObject([
+        "edition",
+        this._editionToJSON(),
+        "rule",
+        this.rule !== "optional" && this.rule || void 0,
+        "type",
+        this.type,
+        "id",
+        this.id,
+        "extend",
+        this.extend,
+        "options",
+        this.options,
+        "comment",
+        keepComments ? this.comment : void 0
+      ]);
+    };
+    Field.prototype.resolve = function resolve() {
+      if (this.resolved)
+        return this;
+      if ((this.typeDefault = types.defaults[this.type]) === void 0) {
+        this.resolvedType = (this.declaringField ? this.declaringField.parent : this.parent).lookupTypeOrEnum(this.type);
+        if (this.resolvedType instanceof Type)
+          this.typeDefault = null;
+        else
+          this.typeDefault = this.resolvedType.values[Object.keys(this.resolvedType.values)[0]];
+      } else if (this.options && this.options.proto3_optional) {
+        this.typeDefault = null;
+      }
+      if (this.options && this.options["default"] != null) {
+        this.typeDefault = this.options["default"];
+        if (this.resolvedType instanceof Enum && typeof this.typeDefault === "string")
+          this.typeDefault = this.resolvedType.values[this.typeDefault];
+      }
+      if (this.options) {
+        if (this.options.packed !== void 0 && this.resolvedType && !(this.resolvedType instanceof Enum))
+          delete this.options.packed;
+        if (!Object.keys(this.options).length)
+          this.options = void 0;
+      }
+      if (this.long) {
+        this.typeDefault = util.Long.fromNumber(this.typeDefault, this.type.charAt(0) === "u");
+        if (Object.freeze)
+          Object.freeze(this.typeDefault);
+      } else if (this.bytes && typeof this.typeDefault === "string") {
+        var buf;
+        if (util.base64.test(this.typeDefault))
+          util.base64.decode(this.typeDefault, buf = util.newBuffer(util.base64.length(this.typeDefault)), 0);
+        else
+          util.utf8.write(this.typeDefault, buf = util.newBuffer(util.utf8.length(this.typeDefault)), 0);
+        this.typeDefault = buf;
+      }
+      if (this.map)
+        this.defaultValue = util.emptyObject;
+      else if (this.repeated)
+        this.defaultValue = util.emptyArray;
+      else
+        this.defaultValue = this.typeDefault;
+      if (this.parent instanceof Type)
+        this.parent.ctor.prototype[this.name] = this.defaultValue;
+      return ReflectionObject.prototype.resolve.call(this);
+    };
+    Field.prototype._inferLegacyProtoFeatures = function _inferLegacyProtoFeatures(edition) {
+      if (edition !== "proto2" && edition !== "proto3") {
+        return {};
+      }
+      var features = {};
+      if (this.rule === "required") {
+        features.field_presence = "LEGACY_REQUIRED";
+      }
+      if (this.parent && types.defaults[this.type] === void 0) {
+        var type = this.parent.get(this.type.split(".").pop());
+        if (type && type instanceof Type && type.group) {
+          features.message_encoding = "DELIMITED";
+        }
+      }
+      if (this.getOption("packed") === true) {
+        features.repeated_field_encoding = "PACKED";
+      } else if (this.getOption("packed") === false) {
+        features.repeated_field_encoding = "EXPANDED";
+      }
+      return features;
+    };
+    Field.prototype._resolveFeatures = function _resolveFeatures(edition) {
+      return ReflectionObject.prototype._resolveFeatures.call(this, this._edition || edition);
+    };
+    Field.d = function decorateField(fieldId, fieldType, fieldRule, defaultValue) {
+      if (typeof fieldType === "function")
+        fieldType = util.decorateType(fieldType).name;
+      else if (fieldType && typeof fieldType === "object")
+        fieldType = util.decorateEnum(fieldType).name;
+      return function fieldDecorator(prototype, fieldName) {
+        util.decorateType(prototype.constructor).add(new Field(fieldName, fieldId, fieldType, fieldRule, { "default": defaultValue }));
+      };
+    };
+    Field._configure = function configure(Type_) {
+      Type = Type_;
+    };
+  }
+});
+
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/oneof.js
+var require_oneof = __commonJS({
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/oneof.js"(exports2, module2) {
+    "use strict";
+    module2.exports = OneOf;
+    var ReflectionObject = require_object();
+    ((OneOf.prototype = Object.create(ReflectionObject.prototype)).constructor = OneOf).className = "OneOf";
+    var Field = require_field();
+    var util = require_util();
+    function OneOf(name, fieldNames, options, comment) {
+      if (!Array.isArray(fieldNames)) {
+        options = fieldNames;
+        fieldNames = void 0;
+      }
+      ReflectionObject.call(this, name, options);
+      if (!(fieldNames === void 0 || Array.isArray(fieldNames)))
+        throw TypeError("fieldNames must be an Array");
+      this.oneof = fieldNames || [];
+      this.fieldsArray = [];
+      this.comment = comment;
+    }
+    OneOf.fromJSON = function fromJSON(name, json) {
+      return new OneOf(name, json.oneof, json.options, json.comment);
+    };
+    OneOf.prototype.toJSON = function toJSON(toJSONOptions) {
+      var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
+      return util.toObject([
+        "options",
+        this.options,
+        "oneof",
+        this.oneof,
+        "comment",
+        keepComments ? this.comment : void 0
+      ]);
+    };
+    function addFieldsToParent(oneof) {
+      if (oneof.parent) {
+        for (var i = 0; i < oneof.fieldsArray.length; ++i)
+          if (!oneof.fieldsArray[i].parent)
+            oneof.parent.add(oneof.fieldsArray[i]);
+      }
+    }
+    OneOf.prototype.add = function add2(field) {
+      if (!(field instanceof Field))
+        throw TypeError("field must be a Field");
+      if (field.parent && field.parent !== this.parent)
+        field.parent.remove(field);
+      this.oneof.push(field.name);
+      this.fieldsArray.push(field);
+      field.partOf = this;
+      addFieldsToParent(this);
+      return this;
+    };
+    OneOf.prototype.remove = function remove(field) {
+      if (!(field instanceof Field))
+        throw TypeError("field must be a Field");
+      var index = this.fieldsArray.indexOf(field);
+      if (index < 0)
+        throw Error(field + " is not a member of " + this);
+      this.fieldsArray.splice(index, 1);
+      index = this.oneof.indexOf(field.name);
+      if (index > -1)
+        this.oneof.splice(index, 1);
+      field.partOf = null;
+      return this;
+    };
+    OneOf.prototype.onAdd = function onAdd(parent) {
+      ReflectionObject.prototype.onAdd.call(this, parent);
+      var self2 = this;
+      for (var i = 0; i < this.oneof.length; ++i) {
+        var field = parent.get(this.oneof[i]);
+        if (field && !field.partOf) {
+          field.partOf = self2;
+          self2.fieldsArray.push(field);
+        }
+      }
+      addFieldsToParent(this);
+    };
+    OneOf.prototype.onRemove = function onRemove(parent) {
+      for (var i = 0, field; i < this.fieldsArray.length; ++i)
+        if ((field = this.fieldsArray[i]).parent)
+          field.parent.remove(field);
+      ReflectionObject.prototype.onRemove.call(this, parent);
+    };
+    Object.defineProperty(OneOf.prototype, "isProto3Optional", {
+      get: function() {
+        if (this.fieldsArray == null || this.fieldsArray.length !== 1) {
+          return false;
+        }
+        var field = this.fieldsArray[0];
+        return field.options != null && field.options["proto3_optional"] === true;
+      }
+    });
+    OneOf.d = function decorateOneOf() {
+      var fieldNames = new Array(arguments.length), index = 0;
+      while (index < arguments.length)
+        fieldNames[index] = arguments[index++];
+      return function oneOfDecorator(prototype, oneofName) {
+        util.decorateType(prototype.constructor).add(new OneOf(oneofName, fieldNames));
+        Object.defineProperty(prototype, oneofName, {
+          get: util.oneOfGetter(fieldNames),
+          set: util.oneOfSetter(fieldNames)
+        });
+      };
+    };
+  }
+});
+
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/object.js
 var require_object = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/object.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/object.js"(exports2, module2) {
     "use strict";
     module2.exports = ReflectionObject;
     ReflectionObject.className = "ReflectionObject";
+    var OneOf = require_oneof();
     var util = require_util();
     var Root;
+    var editions2023Defaults = { enum_type: "OPEN", field_presence: "EXPLICIT", json_format: "ALLOW", message_encoding: "LENGTH_PREFIXED", repeated_field_encoding: "PACKED", utf8_validation: "VERIFY" };
+    var proto2Defaults = { enum_type: "CLOSED", field_presence: "EXPLICIT", json_format: "LEGACY_BEST_EFFORT", message_encoding: "LENGTH_PREFIXED", repeated_field_encoding: "EXPANDED", utf8_validation: "NONE" };
+    var proto3Defaults = { enum_type: "OPEN", field_presence: "IMPLICIT", json_format: "ALLOW", message_encoding: "LENGTH_PREFIXED", repeated_field_encoding: "PACKED", utf8_validation: "VERIFY" };
     function ReflectionObject(name, options) {
       if (!util.isString(name))
         throw TypeError("name must be a string");
@@ -8205,6 +8561,10 @@ var require_object = __commonJS({
       this.options = options;
       this.parsedOptions = null;
       this.name = name;
+      this._edition = null;
+      this._defaultEdition = "proto2";
+      this._features = {};
+      this._featuresResolved = false;
       this.parent = null;
       this.resolved = false;
       this.comment = null;
@@ -8269,14 +8629,67 @@ var require_object = __commonJS({
         this.resolved = true;
       return this;
     };
+    ReflectionObject.prototype._resolveFeaturesRecursive = function _resolveFeaturesRecursive(edition) {
+      return this._resolveFeatures(this._edition || edition);
+    };
+    ReflectionObject.prototype._resolveFeatures = function _resolveFeatures(edition) {
+      if (this._featuresResolved) {
+        return;
+      }
+      var defaults = {};
+      if (!edition) {
+        throw new Error("Unknown edition for " + this.fullName);
+      }
+      var protoFeatures = Object.assign(
+        this.options ? Object.assign({}, this.options.features) : {},
+        this._inferLegacyProtoFeatures(edition)
+      );
+      if (this._edition) {
+        if (edition === "proto2") {
+          defaults = Object.assign({}, proto2Defaults);
+        } else if (edition === "proto3") {
+          defaults = Object.assign({}, proto3Defaults);
+        } else if (edition === "2023") {
+          defaults = Object.assign({}, editions2023Defaults);
+        } else {
+          throw new Error("Unknown edition: " + edition);
+        }
+        this._features = Object.assign(defaults, protoFeatures || {});
+        this._featuresResolved = true;
+        return;
+      }
+      if (this.partOf instanceof OneOf) {
+        var lexicalParentFeaturesCopy = Object.assign({}, this.partOf._features);
+        this._features = Object.assign(lexicalParentFeaturesCopy, protoFeatures || {});
+      } else if (this.declaringField) {
+      } else if (this.parent) {
+        var parentFeaturesCopy = Object.assign({}, this.parent._features);
+        this._features = Object.assign(parentFeaturesCopy, protoFeatures || {});
+      } else {
+        throw new Error("Unable to find a parent for " + this.fullName);
+      }
+      if (this.extensionField) {
+        this.extensionField._features = this._features;
+      }
+      this._featuresResolved = true;
+    };
+    ReflectionObject.prototype._inferLegacyProtoFeatures = function _inferLegacyProtoFeatures() {
+      return {};
+    };
     ReflectionObject.prototype.getOption = function getOption(name) {
       if (this.options)
         return this.options[name];
       return void 0;
     };
     ReflectionObject.prototype.setOption = function setOption(name, value, ifNotSet) {
-      if (!ifNotSet || !this.options || this.options[name] === void 0)
-        (this.options || (this.options = {}))[name] = value;
+      if (!this.options)
+        this.options = {};
+      if (/^features\./.test(name)) {
+        util.setProperty(this.options, name, value, ifNotSet);
+      } else if (!ifNotSet || this.options[name] === void 0) {
+        if (this.getOption(name) !== value) this.resolved = false;
+        this.options[name] = value;
+      }
       return this;
     };
     ReflectionObject.prototype.setParsedOption = function setParsedOption(name, value, propName) {
@@ -8315,15 +8728,21 @@ var require_object = __commonJS({
         return className + " " + fullName;
       return className;
     };
+    ReflectionObject.prototype._editionToJSON = function _editionToJSON() {
+      if (!this._edition || this._edition === "proto3") {
+        return void 0;
+      }
+      return this._edition;
+    };
     ReflectionObject._configure = function(Root_) {
       Root = Root_;
     };
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/enum.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/enum.js
 var require_enum = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/enum.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/enum.js"(exports2, module2) {
     "use strict";
     module2.exports = Enum;
     var ReflectionObject = require_object();
@@ -8339,6 +8758,7 @@ var require_enum = __commonJS({
       this.comment = comment;
       this.comments = comments || {};
       this.valuesOptions = valuesOptions;
+      this._valuesFeatures = {};
       this.reserved = void 0;
       if (values) {
         for (var keys = Object.keys(values), i = 0; i < keys.length; ++i)
@@ -8346,14 +8766,28 @@ var require_enum = __commonJS({
             this.valuesById[this.values[keys[i]] = values[keys[i]]] = keys[i];
       }
     }
+    Enum.prototype._resolveFeatures = function _resolveFeatures(edition) {
+      edition = this._edition || edition;
+      ReflectionObject.prototype._resolveFeatures.call(this, edition);
+      Object.keys(this.values).forEach((key) => {
+        var parentFeaturesCopy = Object.assign({}, this._features);
+        this._valuesFeatures[key] = Object.assign(parentFeaturesCopy, this.valuesOptions && this.valuesOptions[key] && this.valuesOptions[key].features);
+      });
+      return this;
+    };
     Enum.fromJSON = function fromJSON(name, json) {
       var enm = new Enum(name, json.values, json.options, json.comment, json.comments);
       enm.reserved = json.reserved;
+      if (json.edition)
+        enm._edition = json.edition;
+      enm._defaultEdition = "proto3";
       return enm;
     };
     Enum.prototype.toJSON = function toJSON(toJSONOptions) {
       var keepComments = toJSONOptions ? Boolean(toJSONOptions.keepComments) : false;
       return util.toObject([
+        "edition",
+        this._editionToJSON(),
         "options",
         this.options,
         "valuesOptions",
@@ -8415,16 +8849,16 @@ var require_enum = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/encoder.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/encoder.js
 var require_encoder = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/encoder.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/encoder.js"(exports2, module2) {
     "use strict";
     module2.exports = encoder;
     var Enum = require_enum();
     var types = require_types();
     var util = require_util();
     function genTypePartial(gen, field, fieldIndex, ref) {
-      return field.resolvedType.group ? gen("types[%i].encode(%s,w.uint32(%i)).uint32(%i)", fieldIndex, ref, (field.id << 3 | 3) >>> 0, (field.id << 3 | 4) >>> 0) : gen("types[%i].encode(%s,w.uint32(%i).fork()).ldelim()", fieldIndex, ref, (field.id << 3 | 2) >>> 0);
+      return field.delimited ? gen("types[%i].encode(%s,w.uint32(%i)).uint32(%i)", fieldIndex, ref, (field.id << 3 | 3) >>> 0, (field.id << 3 | 4) >>> 0) : gen("types[%i].encode(%s,w.uint32(%i).fork()).ldelim()", fieldIndex, ref, (field.id << 3 | 2) >>> 0);
     }
     function encoder(mtype) {
       var gen = util.codegen(["m", "w"], mtype.name + "$encode")("if(!w)")("w=Writer.create()");
@@ -8464,9 +8898,9 @@ var require_encoder = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/index-light.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-light.js
 var require_index_light = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/index-light.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-light.js"(exports2, module2) {
     "use strict";
     var protobuf = module2.exports = require_index_minimal();
     protobuf.build = "light";
@@ -8510,9 +8944,9 @@ var require_index_light = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/tokenize.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/tokenize.js
 var require_tokenize = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/tokenize.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/tokenize.js"(exports2, module2) {
     "use strict";
     module2.exports = tokenize;
     var delimRe = /[\s{}=;:[\],'"()<>]/g;
@@ -8757,9 +9191,9 @@ var require_tokenize = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/parse.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/parse.js
 var require_parse = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/parse.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/parse.js"(exports2, module2) {
     "use strict";
     module2.exports = parse;
     parse.filename = null;
@@ -8773,6 +9207,7 @@ var require_parse = __commonJS({
     var Enum = require_enum();
     var Service = require_service2();
     var Method = require_method();
+    var ReflectionObject = require_object();
     var types = require_types();
     var util = require_util();
     var base10Re = /^[1-9][0-9]*$/;
@@ -8784,7 +9219,6 @@ var require_parse = __commonJS({
     var numberRe = /^(?![eE])[0-9]*(?:\.[0-9]*)?(?:[eE][+-]?[0-9]+)?$/;
     var nameRe = /^[a-zA-Z_][a-zA-Z_0-9]*$/;
     var typeRefRe = /^(?:\.?[a-zA-Z_][a-zA-Z_0-9]*)(?:\.[a-zA-Z_][a-zA-Z_0-9]*)*$/;
-    var fqTypeRefRe = /^(?:\.[a-zA-Z_][a-zA-Z_0-9]*)+$/;
     function parse(source, root, options) {
       if (!(root instanceof Root)) {
         options = root;
@@ -8794,11 +9228,22 @@ var require_parse = __commonJS({
         options = parse.defaults;
       var preferTrailingComment = options.preferTrailingComment || false;
       var tn = tokenize(source, options.alternateCommentMode || false), next = tn.next, push = tn.push, peek = tn.peek, skip = tn.skip, cmnt = tn.cmnt;
-      var head = true, pkg, imports, weakImports, syntax, isProto3 = false;
+      var head = true, pkg, imports, weakImports, edition = "proto2";
       var ptr = root;
+      var topLevelObjects = [];
+      var topLevelOptions = {};
       var applyCase = options.keepCase ? function(name) {
         return name;
       } : util.camelCase;
+      function resolveFileFeatures() {
+        topLevelObjects.forEach((obj) => {
+          obj._edition = edition;
+          Object.keys(topLevelOptions).forEach((opt) => {
+            if (obj.getOption(opt) !== void 0) return;
+            obj.setOption(opt, topLevelOptions[opt], true);
+          });
+        });
+      }
       function illegal(token2, name, insideTryCatch) {
         var filename = parse.filename;
         if (!insideTryCatch)
@@ -8845,10 +9290,23 @@ var require_parse = __commonJS({
       function readRanges(target, acceptStrings) {
         var token2, start;
         do {
-          if (acceptStrings && ((token2 = peek()) === '"' || token2 === "'"))
-            target.push(readString());
-          else
-            target.push([start = parseId(next()), skip("to", true) ? parseId(next()) : start]);
+          if (acceptStrings && ((token2 = peek()) === '"' || token2 === "'")) {
+            var str = readString();
+            target.push(str);
+            if (edition >= 2023) {
+              throw illegal(str, "id");
+            }
+          } else {
+            try {
+              target.push([start = parseId(next()), skip("to", true) ? parseId(next()) : start]);
+            } catch (err) {
+              if (acceptStrings && typeRefRe.test(token2) && edition >= 2023) {
+                target.push(token2);
+              } else {
+                throw err;
+              }
+            }
+          }
         } while (skip(",", true));
         var dummy = { options: void 0 };
         dummy.setOption = function(name, value) {
@@ -8947,11 +9405,17 @@ var require_parse = __commonJS({
       }
       function parseSyntax() {
         skip("=");
-        syntax = readString();
-        isProto3 = syntax === "proto3";
-        if (!isProto3 && syntax !== "proto2")
-          throw illegal(syntax, "syntax");
-        root.setOption("syntax", syntax);
+        edition = readString();
+        if (edition < 2023)
+          throw illegal(edition, "syntax");
+        skip(";");
+      }
+      function parseEdition() {
+        skip("=");
+        edition = readString();
+        const supportedEditions = ["2023"];
+        if (!supportedEditions.includes(edition))
+          throw illegal(edition, "edition");
         skip(";");
       }
       function parseCommon(parent, token2) {
@@ -9008,12 +9472,17 @@ var require_parse = __commonJS({
               parseMapField(type, token3);
               break;
             case "required":
+              if (edition !== "proto2")
+                throw illegal(token3);
+            /* eslint-disable no-fallthrough */
             case "repeated":
               parseField(type, token3);
               break;
             case "optional":
-              if (isProto3) {
+              if (edition === "proto3") {
                 parseField(type, "proto3_optional");
+              } else if (edition !== "proto2") {
+                throw illegal(token3);
               } else {
                 parseField(type, "optional");
               }
@@ -9028,14 +9497,18 @@ var require_parse = __commonJS({
               readRanges(type.reserved || (type.reserved = []), true);
               break;
             default:
-              if (!isProto3 || !typeRefRe.test(token3))
+              if (edition === "proto2" || !typeRefRe.test(token3)) {
                 throw illegal(token3);
+              }
               push(token3);
               parseField(type, "optional");
               break;
           }
         });
         parent.add(type);
+        if (parent === ptr) {
+          topLevelObjects.push(type);
+        }
       }
       function parseField(parent, rule, extend) {
         var type = next();
@@ -9071,15 +9544,14 @@ var require_parse = __commonJS({
         } else {
           parent.add(field);
         }
-        if (!isProto3 && field.repeated && (types.packed[type] !== void 0 || types.basic[type] === void 0))
-          field.setOption(
-            "packed",
-            false,
-            /* ifNotSet */
-            true
-          );
+        if (parent === ptr) {
+          topLevelObjects.push(field);
+        }
       }
       function parseGroup(parent, rule) {
+        if (edition >= 2023) {
+          throw illegal("group");
+        }
         var name = next();
         if (!nameRe.test(name))
           throw illegal(name, "name");
@@ -9103,7 +9575,7 @@ var require_parse = __commonJS({
               parseField(type, token2);
               break;
             case "optional":
-              if (isProto3) {
+              if (edition === "proto3") {
                 parseField(type, "proto3_optional");
               } else {
                 parseField(type, "optional");
@@ -9114,6 +9586,9 @@ var require_parse = __commonJS({
               break;
             case "enum":
               parseEnum(type, token2);
+              break;
+            case "reserved":
+              readRanges(type.reserved || (type.reserved = []), true);
               break;
             /* istanbul ignore next */
             default:
@@ -9175,12 +9650,16 @@ var require_parse = __commonJS({
               break;
             case "reserved":
               readRanges(enm.reserved || (enm.reserved = []), true);
+              if (enm.reserved === void 0) enm.reserved = [];
               break;
             default:
               parseEnumValue(enm, token3);
           }
         });
         parent.add(enm);
+        if (parent === ptr) {
+          topLevelObjects.push(enm);
+        }
       }
       function parseEnumValue(parent, token2) {
         if (!nameRe.test(token2))
@@ -9189,10 +9668,14 @@ var require_parse = __commonJS({
         var value = parseId(next(), true), dummy = {
           options: void 0
         };
+        dummy.getOption = function(name) {
+          return this.options[name];
+        };
         dummy.setOption = function(name, value2) {
-          if (this.options === void 0)
-            this.options = {};
-          this.options[name] = value2;
+          ReflectionObject.prototype.setOption.call(dummy, name, value2);
+        };
+        dummy.setParsedOption = function() {
+          return void 0;
         };
         ifBlock(dummy, function parseEnumValue_block(token3) {
           if (token3 === "option") {
@@ -9203,28 +9686,39 @@ var require_parse = __commonJS({
         }, function parseEnumValue_line() {
           parseInlineOptions(dummy);
         });
-        parent.add(token2, value, dummy.comment, dummy.options);
+        parent.add(token2, value, dummy.comment, dummy.parsedOptions || dummy.options);
       }
       function parseOption(parent, token2) {
-        var isCustom = skip("(", true);
-        if (!typeRefRe.test(token2 = next()))
-          throw illegal(token2, "name");
-        var name = token2;
-        var option = name;
+        var option;
         var propName;
-        if (isCustom) {
-          skip(")");
-          name = "(" + name + ")";
-          option = name;
-          token2 = peek();
-          if (fqTypeRefRe.test(token2)) {
-            propName = token2.slice(1);
-            name += token2;
-            next();
-          }
+        var isOption = true;
+        if (token2 === "option") {
+          token2 = next();
         }
-        skip("=");
+        while (token2 !== "=") {
+          if (token2 === "(") {
+            var parensValue = next();
+            skip(")");
+            token2 = "(" + parensValue + ")";
+          }
+          if (isOption) {
+            isOption = false;
+            if (token2.includes(".") && !token2.includes("(")) {
+              var tokens = token2.split(".");
+              option = tokens[0] + ".";
+              token2 = tokens[1];
+              continue;
+            }
+            option = token2;
+          } else {
+            propName = propName ? propName += token2 : token2;
+          }
+          token2 = next();
+        }
+        var name = propName ? option.concat(propName) : option;
         var optionValue = parseOptionValue(parent, name);
+        propName = propName && propName[0] === "." ? propName.slice(1) : propName;
+        option = option && option[option.length - 1] === "." ? option.slice(0, -1) : option;
         setParsedOption(parent, option, optionValue, propName);
       }
       function parseOptionValue(parent, name) {
@@ -9240,9 +9734,9 @@ var require_parse = __commonJS({
             var value;
             var propName = token;
             skip(":", true);
-            if (peek() === "{")
+            if (peek() === "{") {
               value = parseOptionValue(parent, name + "." + token);
-            else if (peek() === "[") {
+            } else if (peek() === "[") {
               value = [];
               var lastValue;
               if (skip("[", true)) {
@@ -9273,6 +9767,10 @@ var require_parse = __commonJS({
         return simpleValue;
       }
       function setOption(parent, name, value) {
+        if (ptr === parent && /^features\./.test(name)) {
+          topLevelOptions[name] = value;
+          return;
+        }
         if (parent.setOption)
           parent.setOption(name, value);
       }
@@ -9294,14 +9792,18 @@ var require_parse = __commonJS({
           throw illegal(token2, "service name");
         var service = new Service(token2);
         ifBlock(service, function parseService_block(token3) {
-          if (parseCommon(service, token3))
+          if (parseCommon(service, token3)) {
             return;
+          }
           if (token3 === "rpc")
             parseMethod(service, token3);
           else
             throw illegal(token3);
         });
         parent.add(service);
+        if (parent === ptr) {
+          topLevelObjects.push(service);
+        }
       }
       function parseMethod(parent, token2) {
         var commentText = cmnt();
@@ -9346,14 +9848,14 @@ var require_parse = __commonJS({
               parseField(parent, token3, reference);
               break;
             case "optional":
-              if (isProto3) {
+              if (edition === "proto3") {
                 parseField(parent, "proto3_optional", reference);
               } else {
                 parseField(parent, "optional", reference);
               }
               break;
             default:
-              if (!isProto3 || !typeRefRe.test(token3))
+              if (edition === "proto2" || !typeRefRe.test(token3))
                 throw illegal(token3);
               push(token3);
               parseField(parent, "optional", reference);
@@ -9379,9 +9881,14 @@ var require_parse = __commonJS({
               throw illegal(token);
             parseSyntax();
             break;
+          case "edition":
+            if (!head)
+              throw illegal(token);
+            parseEdition();
+            break;
           case "option":
             parseOption(ptr, token);
-            skip(";");
+            skip(";", true);
             break;
           default:
             if (parseCommon(ptr, token)) {
@@ -9391,21 +9898,21 @@ var require_parse = __commonJS({
             throw illegal(token);
         }
       }
+      resolveFileFeatures();
       parse.filename = null;
       return {
         "package": pkg,
         "imports": imports,
         weakImports,
-        syntax,
         root
       };
     }
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/common.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/common.js
 var require_common = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/common.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/common.js"(exports2, module2) {
     "use strict";
     module2.exports = common;
     var commonRe = /\/|\./;
@@ -9735,9 +10242,9 @@ var require_common = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/index.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index.js
 var require_src = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/src/index.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index.js"(exports2, module2) {
     "use strict";
     var protobuf = module2.exports = require_index_light();
     protobuf.build = "full";
@@ -9748,33 +10255,67 @@ var require_src = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/index.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/index.js
 var require_protobufjs = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/index.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/index.js"(exports2, module2) {
     "use strict";
     module2.exports = require_src();
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/descriptor.json
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/descriptor.json
 var require_descriptor = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/descriptor.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/descriptor.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
           nested: {
             protobuf: {
+              options: {
+                go_package: "google.golang.org/protobuf/types/descriptorpb",
+                java_package: "com.google.protobuf",
+                java_outer_classname: "DescriptorProtos",
+                csharp_namespace: "Google.Protobuf.Reflection",
+                objc_class_prefix: "GPB",
+                cc_enable_arenas: true,
+                optimize_for: "SPEED"
+              },
               nested: {
                 FileDescriptorSet: {
+                  edition: "proto2",
                   fields: {
                     file: {
                       rule: "repeated",
                       type: "FileDescriptorProto",
                       id: 1
                     }
+                  },
+                  extensions: [
+                    [
+                      536e6,
+                      536e6
+                    ]
+                  ]
+                },
+                Edition: {
+                  edition: "proto2",
+                  values: {
+                    EDITION_UNKNOWN: 0,
+                    EDITION_LEGACY: 900,
+                    EDITION_PROTO2: 998,
+                    EDITION_PROTO3: 999,
+                    EDITION_2023: 1e3,
+                    EDITION_2024: 1001,
+                    EDITION_1_TEST_ONLY: 1,
+                    EDITION_2_TEST_ONLY: 2,
+                    EDITION_99997_TEST_ONLY: 99997,
+                    EDITION_99998_TEST_ONLY: 99998,
+                    EDITION_99999_TEST_ONLY: 99999,
+                    EDITION_MAX: 2147483647
                   }
                 },
                 FileDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -9792,18 +10333,17 @@ var require_descriptor = __commonJS({
                     publicDependency: {
                       rule: "repeated",
                       type: "int32",
-                      id: 10,
-                      options: {
-                        packed: false
-                      }
+                      id: 10
                     },
                     weakDependency: {
                       rule: "repeated",
                       type: "int32",
-                      id: 11,
-                      options: {
-                        packed: false
-                      }
+                      id: 11
+                    },
+                    optionDependency: {
+                      rule: "repeated",
+                      type: "string",
+                      id: 15
                     },
                     messageType: {
                       rule: "repeated",
@@ -9836,10 +10376,15 @@ var require_descriptor = __commonJS({
                     syntax: {
                       type: "string",
                       id: 12
+                    },
+                    edition: {
+                      type: "Edition",
+                      id: 14
                     }
                   }
                 },
                 DescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -9888,6 +10433,10 @@ var require_descriptor = __commonJS({
                       rule: "repeated",
                       type: "string",
                       id: 10
+                    },
+                    visibility: {
+                      type: "SymbolVisibility",
+                      id: 11
                     }
                   },
                   nested: {
@@ -9900,6 +10449,10 @@ var require_descriptor = __commonJS({
                         end: {
                           type: "int32",
                           id: 2
+                        },
+                        options: {
+                          type: "ExtensionRangeOptions",
+                          id: 3
                         }
                       }
                     },
@@ -9917,7 +10470,82 @@ var require_descriptor = __commonJS({
                     }
                   }
                 },
+                ExtensionRangeOptions: {
+                  edition: "proto2",
+                  fields: {
+                    uninterpretedOption: {
+                      rule: "repeated",
+                      type: "UninterpretedOption",
+                      id: 999
+                    },
+                    declaration: {
+                      rule: "repeated",
+                      type: "Declaration",
+                      id: 2,
+                      options: {
+                        retention: "RETENTION_SOURCE"
+                      }
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 50
+                    },
+                    verification: {
+                      type: "VerificationState",
+                      id: 3,
+                      options: {
+                        default: "UNVERIFIED",
+                        retention: "RETENTION_SOURCE"
+                      }
+                    }
+                  },
+                  extensions: [
+                    [
+                      1e3,
+                      536870911
+                    ]
+                  ],
+                  nested: {
+                    Declaration: {
+                      fields: {
+                        number: {
+                          type: "int32",
+                          id: 1
+                        },
+                        fullName: {
+                          type: "string",
+                          id: 2
+                        },
+                        type: {
+                          type: "string",
+                          id: 3
+                        },
+                        reserved: {
+                          type: "bool",
+                          id: 5
+                        },
+                        repeated: {
+                          type: "bool",
+                          id: 6
+                        }
+                      },
+                      reserved: [
+                        [
+                          4,
+                          4
+                        ]
+                      ]
+                    },
+                    VerificationState: {
+                      values: {
+                        DECLARATION: 0,
+                        UNVERIFIED: 1
+                      }
+                    }
+                  }
+                },
                 FieldDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -9958,6 +10586,10 @@ var require_descriptor = __commonJS({
                     options: {
                       type: "FieldOptions",
                       id: 8
+                    },
+                    proto3Optional: {
+                      type: "bool",
+                      id: 17
                     }
                   },
                   nested: {
@@ -9986,13 +10618,14 @@ var require_descriptor = __commonJS({
                     Label: {
                       values: {
                         LABEL_OPTIONAL: 1,
-                        LABEL_REQUIRED: 2,
-                        LABEL_REPEATED: 3
+                        LABEL_REPEATED: 3,
+                        LABEL_REQUIRED: 2
                       }
                     }
                   }
                 },
                 OneofDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -10005,6 +10638,7 @@ var require_descriptor = __commonJS({
                   }
                 },
                 EnumDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -10018,10 +10652,39 @@ var require_descriptor = __commonJS({
                     options: {
                       type: "EnumOptions",
                       id: 3
+                    },
+                    reservedRange: {
+                      rule: "repeated",
+                      type: "EnumReservedRange",
+                      id: 4
+                    },
+                    reservedName: {
+                      rule: "repeated",
+                      type: "string",
+                      id: 5
+                    },
+                    visibility: {
+                      type: "SymbolVisibility",
+                      id: 6
+                    }
+                  },
+                  nested: {
+                    EnumReservedRange: {
+                      fields: {
+                        start: {
+                          type: "int32",
+                          id: 1
+                        },
+                        end: {
+                          type: "int32",
+                          id: 2
+                        }
+                      }
                     }
                   }
                 },
                 EnumValueDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -10038,6 +10701,7 @@ var require_descriptor = __commonJS({
                   }
                 },
                 ServiceDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -10055,6 +10719,7 @@ var require_descriptor = __commonJS({
                   }
                 },
                 MethodDescriptorProto: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       type: "string",
@@ -10083,6 +10748,7 @@ var require_descriptor = __commonJS({
                   }
                 },
                 FileOptions: {
+                  edition: "proto2",
                   fields: {
                     javaPackage: {
                       type: "string",
@@ -10136,7 +10802,10 @@ var require_descriptor = __commonJS({
                     },
                     ccEnableArenas: {
                       type: "bool",
-                      id: 31
+                      id: 31,
+                      options: {
+                        default: true
+                      }
                     },
                     objcClassPrefix: {
                       type: "string",
@@ -10145,6 +10814,30 @@ var require_descriptor = __commonJS({
                     csharpNamespace: {
                       type: "string",
                       id: 37
+                    },
+                    swiftPrefix: {
+                      type: "string",
+                      id: 39
+                    },
+                    phpClassPrefix: {
+                      type: "string",
+                      id: 40
+                    },
+                    phpNamespace: {
+                      type: "string",
+                      id: 41
+                    },
+                    phpMetadataNamespace: {
+                      type: "string",
+                      id: 44
+                    },
+                    rubyPackage: {
+                      type: "string",
+                      id: 45
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 50
                     },
                     uninterpretedOption: {
                       rule: "repeated",
@@ -10159,6 +10852,11 @@ var require_descriptor = __commonJS({
                     ]
                   ],
                   reserved: [
+                    [
+                      42,
+                      42
+                    ],
+                    "php_generic_services",
                     [
                       38,
                       38
@@ -10175,6 +10873,7 @@ var require_descriptor = __commonJS({
                   }
                 },
                 MessageOptions: {
+                  edition: "proto2",
                   fields: {
                     messageSetWireFormat: {
                       type: "bool",
@@ -10192,6 +10891,17 @@ var require_descriptor = __commonJS({
                       type: "bool",
                       id: 7
                     },
+                    deprecatedLegacyJsonFieldConflicts: {
+                      type: "bool",
+                      id: 11,
+                      options: {
+                        deprecated: true
+                      }
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 12
+                    },
                     uninterpretedOption: {
                       rule: "repeated",
                       type: "UninterpretedOption",
@@ -10206,12 +10916,29 @@ var require_descriptor = __commonJS({
                   ],
                   reserved: [
                     [
+                      4,
+                      4
+                    ],
+                    [
+                      5,
+                      5
+                    ],
+                    [
+                      6,
+                      6
+                    ],
+                    [
                       8,
                       8
+                    ],
+                    [
+                      9,
+                      9
                     ]
                   ]
                 },
                 FieldOptions: {
+                  edition: "proto2",
                   fields: {
                     ctype: {
                       type: "CType",
@@ -10235,13 +10962,46 @@ var require_descriptor = __commonJS({
                       type: "bool",
                       id: 5
                     },
+                    unverifiedLazy: {
+                      type: "bool",
+                      id: 15
+                    },
                     deprecated: {
                       type: "bool",
                       id: 3
                     },
                     weak: {
                       type: "bool",
-                      id: 10
+                      id: 10,
+                      options: {
+                        deprecated: true
+                      }
+                    },
+                    debugRedact: {
+                      type: "bool",
+                      id: 16
+                    },
+                    retention: {
+                      type: "OptionRetention",
+                      id: 17
+                    },
+                    targets: {
+                      rule: "repeated",
+                      type: "OptionTargetType",
+                      id: 19
+                    },
+                    editionDefaults: {
+                      rule: "repeated",
+                      type: "EditionDefault",
+                      id: 20
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 21
+                    },
+                    featureSupport: {
+                      type: "FeatureSupport",
+                      id: 22
                     },
                     uninterpretedOption: {
                       rule: "repeated",
@@ -10259,6 +11019,10 @@ var require_descriptor = __commonJS({
                     [
                       4,
                       4
+                    ],
+                    [
+                      18,
+                      18
                     ]
                   ],
                   nested: {
@@ -10275,51 +11039,67 @@ var require_descriptor = __commonJS({
                         JS_STRING: 1,
                         JS_NUMBER: 2
                       }
+                    },
+                    OptionRetention: {
+                      values: {
+                        RETENTION_UNKNOWN: 0,
+                        RETENTION_RUNTIME: 1,
+                        RETENTION_SOURCE: 2
+                      }
+                    },
+                    OptionTargetType: {
+                      values: {
+                        TARGET_TYPE_UNKNOWN: 0,
+                        TARGET_TYPE_FILE: 1,
+                        TARGET_TYPE_EXTENSION_RANGE: 2,
+                        TARGET_TYPE_MESSAGE: 3,
+                        TARGET_TYPE_FIELD: 4,
+                        TARGET_TYPE_ONEOF: 5,
+                        TARGET_TYPE_ENUM: 6,
+                        TARGET_TYPE_ENUM_ENTRY: 7,
+                        TARGET_TYPE_SERVICE: 8,
+                        TARGET_TYPE_METHOD: 9
+                      }
+                    },
+                    EditionDefault: {
+                      fields: {
+                        edition: {
+                          type: "Edition",
+                          id: 3
+                        },
+                        value: {
+                          type: "string",
+                          id: 2
+                        }
+                      }
+                    },
+                    FeatureSupport: {
+                      fields: {
+                        editionIntroduced: {
+                          type: "Edition",
+                          id: 1
+                        },
+                        editionDeprecated: {
+                          type: "Edition",
+                          id: 2
+                        },
+                        deprecationWarning: {
+                          type: "string",
+                          id: 3
+                        },
+                        editionRemoved: {
+                          type: "Edition",
+                          id: 4
+                        }
+                      }
                     }
                   }
                 },
                 OneofOptions: {
+                  edition: "proto2",
                   fields: {
-                    uninterpretedOption: {
-                      rule: "repeated",
-                      type: "UninterpretedOption",
-                      id: 999
-                    }
-                  },
-                  extensions: [
-                    [
-                      1e3,
-                      536870911
-                    ]
-                  ]
-                },
-                EnumOptions: {
-                  fields: {
-                    allowAlias: {
-                      type: "bool",
-                      id: 2
-                    },
-                    deprecated: {
-                      type: "bool",
-                      id: 3
-                    },
-                    uninterpretedOption: {
-                      rule: "repeated",
-                      type: "UninterpretedOption",
-                      id: 999
-                    }
-                  },
-                  extensions: [
-                    [
-                      1e3,
-                      536870911
-                    ]
-                  ]
-                },
-                EnumValueOptions: {
-                  fields: {
-                    deprecated: {
-                      type: "bool",
+                    features: {
+                      type: "FeatureSet",
                       id: 1
                     },
                     uninterpretedOption: {
@@ -10335,8 +11115,86 @@ var require_descriptor = __commonJS({
                     ]
                   ]
                 },
-                ServiceOptions: {
+                EnumOptions: {
+                  edition: "proto2",
                   fields: {
+                    allowAlias: {
+                      type: "bool",
+                      id: 2
+                    },
+                    deprecated: {
+                      type: "bool",
+                      id: 3
+                    },
+                    deprecatedLegacyJsonFieldConflicts: {
+                      type: "bool",
+                      id: 6,
+                      options: {
+                        deprecated: true
+                      }
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 7
+                    },
+                    uninterpretedOption: {
+                      rule: "repeated",
+                      type: "UninterpretedOption",
+                      id: 999
+                    }
+                  },
+                  extensions: [
+                    [
+                      1e3,
+                      536870911
+                    ]
+                  ],
+                  reserved: [
+                    [
+                      5,
+                      5
+                    ]
+                  ]
+                },
+                EnumValueOptions: {
+                  edition: "proto2",
+                  fields: {
+                    deprecated: {
+                      type: "bool",
+                      id: 1
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 2
+                    },
+                    debugRedact: {
+                      type: "bool",
+                      id: 3
+                    },
+                    featureSupport: {
+                      type: "FieldOptions.FeatureSupport",
+                      id: 4
+                    },
+                    uninterpretedOption: {
+                      rule: "repeated",
+                      type: "UninterpretedOption",
+                      id: 999
+                    }
+                  },
+                  extensions: [
+                    [
+                      1e3,
+                      536870911
+                    ]
+                  ]
+                },
+                ServiceOptions: {
+                  edition: "proto2",
+                  fields: {
+                    features: {
+                      type: "FeatureSet",
+                      id: 34
+                    },
                     deprecated: {
                       type: "bool",
                       id: 33
@@ -10355,10 +11213,22 @@ var require_descriptor = __commonJS({
                   ]
                 },
                 MethodOptions: {
+                  edition: "proto2",
                   fields: {
                     deprecated: {
                       type: "bool",
                       id: 33
+                    },
+                    idempotencyLevel: {
+                      type: "IdempotencyLevel",
+                      id: 34,
+                      options: {
+                        default: "IDEMPOTENCY_UNKNOWN"
+                      }
+                    },
+                    features: {
+                      type: "FeatureSet",
+                      id: 35
                     },
                     uninterpretedOption: {
                       rule: "repeated",
@@ -10371,9 +11241,19 @@ var require_descriptor = __commonJS({
                       1e3,
                       536870911
                     ]
-                  ]
+                  ],
+                  nested: {
+                    IdempotencyLevel: {
+                      values: {
+                        IDEMPOTENCY_UNKNOWN: 0,
+                        NO_SIDE_EFFECTS: 1,
+                        IDEMPOTENT: 2
+                      }
+                    }
+                  }
                 },
                 UninterpretedOption: {
+                  edition: "proto2",
                   fields: {
                     name: {
                       rule: "repeated",
@@ -10422,7 +11302,240 @@ var require_descriptor = __commonJS({
                     }
                   }
                 },
+                FeatureSet: {
+                  edition: "proto2",
+                  fields: {
+                    fieldPresence: {
+                      type: "FieldPresence",
+                      id: 1,
+                      options: {
+                        retention: "RETENTION_RUNTIME",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2023",
+                        "edition_defaults.edition": "EDITION_2023",
+                        "edition_defaults.value": "EXPLICIT"
+                      }
+                    },
+                    enumType: {
+                      type: "EnumType",
+                      id: 2,
+                      options: {
+                        retention: "RETENTION_RUNTIME",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2023",
+                        "edition_defaults.edition": "EDITION_PROTO3",
+                        "edition_defaults.value": "OPEN"
+                      }
+                    },
+                    repeatedFieldEncoding: {
+                      type: "RepeatedFieldEncoding",
+                      id: 3,
+                      options: {
+                        retention: "RETENTION_RUNTIME",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2023",
+                        "edition_defaults.edition": "EDITION_PROTO3",
+                        "edition_defaults.value": "PACKED"
+                      }
+                    },
+                    utf8Validation: {
+                      type: "Utf8Validation",
+                      id: 4,
+                      options: {
+                        retention: "RETENTION_RUNTIME",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2023",
+                        "edition_defaults.edition": "EDITION_PROTO3",
+                        "edition_defaults.value": "VERIFY"
+                      }
+                    },
+                    messageEncoding: {
+                      type: "MessageEncoding",
+                      id: 5,
+                      options: {
+                        retention: "RETENTION_RUNTIME",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2023",
+                        "edition_defaults.edition": "EDITION_LEGACY",
+                        "edition_defaults.value": "LENGTH_PREFIXED"
+                      }
+                    },
+                    jsonFormat: {
+                      type: "JsonFormat",
+                      id: 6,
+                      options: {
+                        retention: "RETENTION_RUNTIME",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2023",
+                        "edition_defaults.edition": "EDITION_PROTO3",
+                        "edition_defaults.value": "ALLOW"
+                      }
+                    },
+                    enforceNamingStyle: {
+                      type: "EnforceNamingStyle",
+                      id: 7,
+                      options: {
+                        retention: "RETENTION_SOURCE",
+                        targets: "TARGET_TYPE_METHOD",
+                        "feature_support.edition_introduced": "EDITION_2024",
+                        "edition_defaults.edition": "EDITION_2024",
+                        "edition_defaults.value": "STYLE2024"
+                      }
+                    },
+                    defaultSymbolVisibility: {
+                      type: "VisibilityFeature.DefaultSymbolVisibility",
+                      id: 8,
+                      options: {
+                        retention: "RETENTION_SOURCE",
+                        targets: "TARGET_TYPE_FILE",
+                        "feature_support.edition_introduced": "EDITION_2024",
+                        "edition_defaults.edition": "EDITION_2024",
+                        "edition_defaults.value": "EXPORT_TOP_LEVEL"
+                      }
+                    }
+                  },
+                  extensions: [
+                    [
+                      1e3,
+                      9994
+                    ],
+                    [
+                      9995,
+                      9999
+                    ],
+                    [
+                      1e4,
+                      1e4
+                    ]
+                  ],
+                  reserved: [
+                    [
+                      999,
+                      999
+                    ]
+                  ],
+                  nested: {
+                    FieldPresence: {
+                      values: {
+                        FIELD_PRESENCE_UNKNOWN: 0,
+                        EXPLICIT: 1,
+                        IMPLICIT: 2,
+                        LEGACY_REQUIRED: 3
+                      }
+                    },
+                    EnumType: {
+                      values: {
+                        ENUM_TYPE_UNKNOWN: 0,
+                        OPEN: 1,
+                        CLOSED: 2
+                      }
+                    },
+                    RepeatedFieldEncoding: {
+                      values: {
+                        REPEATED_FIELD_ENCODING_UNKNOWN: 0,
+                        PACKED: 1,
+                        EXPANDED: 2
+                      }
+                    },
+                    Utf8Validation: {
+                      values: {
+                        UTF8_VALIDATION_UNKNOWN: 0,
+                        VERIFY: 2,
+                        NONE: 3
+                      }
+                    },
+                    MessageEncoding: {
+                      values: {
+                        MESSAGE_ENCODING_UNKNOWN: 0,
+                        LENGTH_PREFIXED: 1,
+                        DELIMITED: 2
+                      }
+                    },
+                    JsonFormat: {
+                      values: {
+                        JSON_FORMAT_UNKNOWN: 0,
+                        ALLOW: 1,
+                        LEGACY_BEST_EFFORT: 2
+                      }
+                    },
+                    EnforceNamingStyle: {
+                      values: {
+                        ENFORCE_NAMING_STYLE_UNKNOWN: 0,
+                        STYLE2024: 1,
+                        STYLE_LEGACY: 2
+                      }
+                    },
+                    VisibilityFeature: {
+                      fields: {},
+                      reserved: [
+                        [
+                          1,
+                          536870911
+                        ]
+                      ],
+                      nested: {
+                        DefaultSymbolVisibility: {
+                          values: {
+                            DEFAULT_SYMBOL_VISIBILITY_UNKNOWN: 0,
+                            EXPORT_ALL: 1,
+                            EXPORT_TOP_LEVEL: 2,
+                            LOCAL_ALL: 3,
+                            STRICT: 4
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                FeatureSetDefaults: {
+                  edition: "proto2",
+                  fields: {
+                    defaults: {
+                      rule: "repeated",
+                      type: "FeatureSetEditionDefault",
+                      id: 1
+                    },
+                    minimumEdition: {
+                      type: "Edition",
+                      id: 4
+                    },
+                    maximumEdition: {
+                      type: "Edition",
+                      id: 5
+                    }
+                  },
+                  nested: {
+                    FeatureSetEditionDefault: {
+                      fields: {
+                        edition: {
+                          type: "Edition",
+                          id: 3
+                        },
+                        overridableFeatures: {
+                          type: "FeatureSet",
+                          id: 4
+                        },
+                        fixedFeatures: {
+                          type: "FeatureSet",
+                          id: 5
+                        }
+                      },
+                      reserved: [
+                        [
+                          1,
+                          1
+                        ],
+                        [
+                          2,
+                          2
+                        ],
+                        "features"
+                      ]
+                    }
+                  }
+                },
                 SourceCodeInfo: {
+                  edition: "proto2",
                   fields: {
                     location: {
                       rule: "repeated",
@@ -10430,18 +11543,30 @@ var require_descriptor = __commonJS({
                       id: 1
                     }
                   },
+                  extensions: [
+                    [
+                      536e6,
+                      536e6
+                    ]
+                  ],
                   nested: {
                     Location: {
                       fields: {
                         path: {
                           rule: "repeated",
                           type: "int32",
-                          id: 1
+                          id: 1,
+                          options: {
+                            packed: true
+                          }
                         },
                         span: {
                           rule: "repeated",
                           type: "int32",
-                          id: 2
+                          id: 2,
+                          options: {
+                            packed: true
+                          }
                         },
                         leadingComments: {
                           type: "string",
@@ -10461,6 +11586,7 @@ var require_descriptor = __commonJS({
                   }
                 },
                 GeneratedCodeInfo: {
+                  edition: "proto2",
                   fields: {
                     annotation: {
                       rule: "repeated",
@@ -10474,7 +11600,10 @@ var require_descriptor = __commonJS({
                         path: {
                           rule: "repeated",
                           type: "int32",
-                          id: 1
+                          id: 1,
+                          options: {
+                            packed: true
+                          }
                         },
                         sourceFile: {
                           type: "string",
@@ -10487,9 +11616,30 @@ var require_descriptor = __commonJS({
                         end: {
                           type: "int32",
                           id: 4
+                        },
+                        semantic: {
+                          type: "Semantic",
+                          id: 5
+                        }
+                      },
+                      nested: {
+                        Semantic: {
+                          values: {
+                            NONE: 0,
+                            SET: 1,
+                            ALIAS: 2
+                          }
                         }
                       }
                     }
+                  }
+                },
+                SymbolVisibility: {
+                  edition: "proto2",
+                  values: {
+                    VISIBILITY_UNSET: 0,
+                    VISIBILITY_LOCAL: 1,
+                    VISIBILITY_EXPORT: 2
                   }
                 }
               }
@@ -10501,9 +11651,9 @@ var require_descriptor = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/ext/descriptor/index.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/ext/descriptor/index.js
 var require_descriptor2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/ext/descriptor/index.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/ext/descriptor/index.js"(exports2, module2) {
     "use strict";
     var $protobuf = require_protobufjs();
     module2.exports = exports2 = $protobuf.descriptor = $protobuf.Root.fromJSON(require_descriptor()).lookup(".google.protobuf");
@@ -10526,20 +11676,21 @@ var require_descriptor2 = __commonJS({
           filePackage = root;
           if ((fileDescriptor = descriptor.file[j])["package"] && fileDescriptor["package"].length)
             filePackage = root.define(fileDescriptor["package"]);
+          var edition = editionFromDescriptor(fileDescriptor);
           if (fileDescriptor.name && fileDescriptor.name.length)
             root.files.push(filePackage.filename = fileDescriptor.name);
           if (fileDescriptor.messageType)
             for (i = 0; i < fileDescriptor.messageType.length; ++i)
-              filePackage.add(Type.fromDescriptor(fileDescriptor.messageType[i], fileDescriptor.syntax));
+              filePackage.add(Type.fromDescriptor(fileDescriptor.messageType[i], edition));
           if (fileDescriptor.enumType)
             for (i = 0; i < fileDescriptor.enumType.length; ++i)
-              filePackage.add(Enum.fromDescriptor(fileDescriptor.enumType[i]));
+              filePackage.add(Enum.fromDescriptor(fileDescriptor.enumType[i], edition));
           if (fileDescriptor.extension)
             for (i = 0; i < fileDescriptor.extension.length; ++i)
-              filePackage.add(Field.fromDescriptor(fileDescriptor.extension[i]));
+              filePackage.add(Field.fromDescriptor(fileDescriptor.extension[i], edition));
           if (fileDescriptor.service)
             for (i = 0; i < fileDescriptor.service.length; ++i)
-              filePackage.add(Service.fromDescriptor(fileDescriptor.service[i]));
+              filePackage.add(Service.fromDescriptor(fileDescriptor.service[i], edition));
           var opts = fromDescriptorOptions(fileDescriptor.options, exports2.FileOptions);
           if (opts) {
             var ks = Object.keys(opts);
@@ -10548,62 +11699,63 @@ var require_descriptor2 = __commonJS({
           }
         }
       }
-      return root;
+      return root.resolveAll();
     };
-    Root.prototype.toDescriptor = function toDescriptor(syntax) {
+    Root.prototype.toDescriptor = function toDescriptor(edition) {
       var set = exports2.FileDescriptorSet.create();
-      Root_toDescriptorRecursive(this, set.file, syntax);
+      Root_toDescriptorRecursive(this, set.file, edition);
       return set;
     };
-    function Root_toDescriptorRecursive(ns, files, syntax) {
+    function Root_toDescriptorRecursive(ns, files, edition) {
       var file = exports2.FileDescriptorProto.create({ name: ns.filename || (ns.fullName.substring(1).replace(/\./g, "_") || "root") + ".proto" });
-      if (syntax)
-        file.syntax = syntax;
+      editionToDescriptor(edition, file);
       if (!(ns instanceof Root))
         file["package"] = ns.fullName.substring(1);
       for (var i = 0, nested; i < ns.nestedArray.length; ++i)
         if ((nested = ns._nestedArray[i]) instanceof Type)
-          file.messageType.push(nested.toDescriptor(syntax));
+          file.messageType.push(nested.toDescriptor(edition));
         else if (nested instanceof Enum)
           file.enumType.push(nested.toDescriptor());
         else if (nested instanceof Field)
-          file.extension.push(nested.toDescriptor(syntax));
+          file.extension.push(nested.toDescriptor(edition));
         else if (nested instanceof Service)
           file.service.push(nested.toDescriptor());
         else if (nested instanceof /* plain */
         Namespace)
-          Root_toDescriptorRecursive(nested, files, syntax);
+          Root_toDescriptorRecursive(nested, files, edition);
       file.options = toDescriptorOptions(ns.options, exports2.FileOptions);
       if (file.messageType.length + file.enumType.length + file.extension.length + file.service.length)
         files.push(file);
     }
     var unnamedMessageIndex = 0;
-    Type.fromDescriptor = function fromDescriptor(descriptor, syntax) {
+    Type.fromDescriptor = function fromDescriptor(descriptor, edition, nested) {
       if (typeof descriptor.length === "number")
         descriptor = exports2.DescriptorProto.decode(descriptor);
       var type = new Type(descriptor.name.length ? descriptor.name : "Type" + unnamedMessageIndex++, fromDescriptorOptions(descriptor.options, exports2.MessageOptions)), i;
+      if (!nested)
+        type._edition = edition;
       if (descriptor.oneofDecl)
         for (i = 0; i < descriptor.oneofDecl.length; ++i)
           type.add(OneOf.fromDescriptor(descriptor.oneofDecl[i]));
       if (descriptor.field)
         for (i = 0; i < descriptor.field.length; ++i) {
-          var field = Field.fromDescriptor(descriptor.field[i], syntax);
+          var field = Field.fromDescriptor(descriptor.field[i], edition, true);
           type.add(field);
           if (descriptor.field[i].hasOwnProperty("oneofIndex"))
             type.oneofsArray[descriptor.field[i].oneofIndex].add(field);
         }
       if (descriptor.extension)
         for (i = 0; i < descriptor.extension.length; ++i)
-          type.add(Field.fromDescriptor(descriptor.extension[i], syntax));
+          type.add(Field.fromDescriptor(descriptor.extension[i], edition, true));
       if (descriptor.nestedType)
         for (i = 0; i < descriptor.nestedType.length; ++i) {
-          type.add(Type.fromDescriptor(descriptor.nestedType[i], syntax));
+          type.add(Type.fromDescriptor(descriptor.nestedType[i], edition, true));
           if (descriptor.nestedType[i].options && descriptor.nestedType[i].options.mapEntry)
             type.setOption("map_entry", true);
         }
       if (descriptor.enumType)
         for (i = 0; i < descriptor.enumType.length; ++i)
-          type.add(Enum.fromDescriptor(descriptor.enumType[i]));
+          type.add(Enum.fromDescriptor(descriptor.enumType[i], edition, true));
       if (descriptor.extensionRange && descriptor.extensionRange.length) {
         type.extensions = [];
         for (i = 0; i < descriptor.extensionRange.length; ++i)
@@ -10620,13 +11772,13 @@ var require_descriptor2 = __commonJS({
       }
       return type;
     };
-    Type.prototype.toDescriptor = function toDescriptor(syntax) {
+    Type.prototype.toDescriptor = function toDescriptor(edition) {
       var descriptor = exports2.DescriptorProto.create({ name: this.name }), i;
       for (i = 0; i < this.fieldsArray.length; ++i) {
         var fieldDescriptor;
-        descriptor.field.push(fieldDescriptor = this._fieldsArray[i].toDescriptor(syntax));
+        descriptor.field.push(fieldDescriptor = this._fieldsArray[i].toDescriptor(edition));
         if (this._fieldsArray[i] instanceof MapField) {
-          var keyType = toDescriptorType(this._fieldsArray[i].keyType, this._fieldsArray[i].resolvedKeyType), valueType = toDescriptorType(this._fieldsArray[i].type, this._fieldsArray[i].resolvedType), valueTypeName = valueType === /* type */
+          var keyType = toDescriptorType(this._fieldsArray[i].keyType, this._fieldsArray[i].resolvedKeyType, false), valueType = toDescriptorType(this._fieldsArray[i].type, this._fieldsArray[i].resolvedType, false), valueTypeName = valueType === /* type */
           11 || valueType === /* enum */
           14 ? this._fieldsArray[i].resolvedType && shortname(this.parent, this._fieldsArray[i].resolvedType) || this._fieldsArray[i].type : void 0;
           descriptor.nestedType.push(exports2.DescriptorProto.create({
@@ -10644,9 +11796,9 @@ var require_descriptor2 = __commonJS({
         descriptor.oneofDecl.push(this._oneofsArray[i].toDescriptor());
       for (i = 0; i < this.nestedArray.length; ++i) {
         if (this._nestedArray[i] instanceof Field)
-          descriptor.field.push(this._nestedArray[i].toDescriptor(syntax));
+          descriptor.field.push(this._nestedArray[i].toDescriptor(edition));
         else if (this._nestedArray[i] instanceof Type)
-          descriptor.nestedType.push(this._nestedArray[i].toDescriptor(syntax));
+          descriptor.nestedType.push(this._nestedArray[i].toDescriptor(edition));
         else if (this._nestedArray[i] instanceof Enum)
           descriptor.enumType.push(this._nestedArray[i].toDescriptor());
       }
@@ -10663,7 +11815,7 @@ var require_descriptor2 = __commonJS({
       return descriptor;
     };
     var numberRe = /^(?![eE])[0-9]*(?:\.[0-9]*)?(?:[eE][+-]?[0-9]+)?$/;
-    Field.fromDescriptor = function fromDescriptor(descriptor, syntax) {
+    Field.fromDescriptor = function fromDescriptor(descriptor, edition, nested) {
       if (typeof descriptor.length === "number")
         descriptor = exports2.DescriptorProto.decode(descriptor);
       if (typeof descriptor.number !== "number")
@@ -10699,7 +11851,11 @@ var require_descriptor2 = __commonJS({
         fieldRule,
         extendee
       );
+      if (!nested)
+        field._edition = edition;
       field.options = fromDescriptorOptions(descriptor.options, exports2.FieldOptions);
+      if (descriptor.proto3_optional)
+        field.options.proto3_optional = true;
       if (descriptor.defaultValue && descriptor.defaultValue.length) {
         var defaultValue = descriptor.defaultValue;
         switch (defaultValue) {
@@ -10720,22 +11876,22 @@ var require_descriptor2 = __commonJS({
         field.setOption("default", defaultValue);
       }
       if (packableDescriptorType(descriptor.type)) {
-        if (syntax === "proto3") {
+        if (edition === "proto3") {
           if (descriptor.options && !descriptor.options.packed)
             field.setOption("packed", false);
-        } else if (!(descriptor.options && descriptor.options.packed))
-          field.setOption("packed", false);
+        } else if ((!edition || edition === "proto2") && descriptor.options && descriptor.options.packed)
+          field.setOption("packed", true);
       }
       return field;
     };
-    Field.prototype.toDescriptor = function toDescriptor(syntax) {
+    Field.prototype.toDescriptor = function toDescriptor(edition) {
       var descriptor = exports2.FieldDescriptorProto.create({ name: this.name, number: this.id });
       if (this.map) {
         descriptor.type = 11;
         descriptor.typeName = $protobuf.util.ucFirst(this.name);
         descriptor.label = 3;
       } else {
-        switch (descriptor.type = toDescriptorType(this.type, this.resolve().resolvedType)) {
+        switch (descriptor.type = toDescriptorType(this.type, this.resolve().resolvedType, this.delimited)) {
           case 10:
           // group
           case 11:
@@ -10744,16 +11900,12 @@ var require_descriptor2 = __commonJS({
             descriptor.typeName = this.resolvedType ? shortname(this.parent, this.resolvedType) : this.type;
             break;
         }
-        switch (this.rule) {
-          case "repeated":
-            descriptor.label = 3;
-            break;
-          case "required":
-            descriptor.label = 2;
-            break;
-          default:
-            descriptor.label = 1;
-            break;
+        if (this.rule === "repeated") {
+          descriptor.label = 3;
+        } else if (this.required && edition === "proto2") {
+          descriptor.label = 2;
+        } else {
+          descriptor.label = 1;
         }
       }
       descriptor.extendee = this.extensionField ? this.extensionField.parent.fullName : this.extend;
@@ -10765,16 +11917,18 @@ var require_descriptor2 = __commonJS({
         descriptor.options = toDescriptorOptions(this.options, exports2.FieldOptions);
         if (this.options["default"] != null)
           descriptor.defaultValue = String(this.options["default"]);
+        if (this.options.proto3_optional)
+          descriptor.proto3_optional = true;
       }
-      if (syntax === "proto3") {
+      if (edition === "proto3") {
         if (!this.packed)
           (descriptor.options || (descriptor.options = exports2.FieldOptions.create())).packed = false;
-      } else if (this.packed)
+      } else if ((!edition || edition === "proto2") && this.packed)
         (descriptor.options || (descriptor.options = exports2.FieldOptions.create())).packed = true;
       return descriptor;
     };
     var unnamedEnumIndex = 0;
-    Enum.fromDescriptor = function fromDescriptor(descriptor) {
+    Enum.fromDescriptor = function fromDescriptor(descriptor, edition, nested) {
       if (typeof descriptor.length === "number")
         descriptor = exports2.EnumDescriptorProto.decode(descriptor);
       var values = {};
@@ -10783,11 +11937,14 @@ var require_descriptor2 = __commonJS({
           var name = descriptor.value[i].name, value = descriptor.value[i].number || 0;
           values[name && name.length ? name : "NAME" + value] = value;
         }
-      return new Enum(
+      var enm = new Enum(
         descriptor.name && descriptor.name.length ? descriptor.name : "Enum" + unnamedEnumIndex++,
         values,
         fromDescriptorOptions(descriptor.options, exports2.EnumOptions)
       );
+      if (!nested)
+        enm._edition = edition;
+      return enm;
     };
     Enum.prototype.toDescriptor = function toDescriptor() {
       var values = [];
@@ -10816,10 +11973,12 @@ var require_descriptor2 = __commonJS({
       });
     };
     var unnamedServiceIndex = 0;
-    Service.fromDescriptor = function fromDescriptor(descriptor) {
+    Service.fromDescriptor = function fromDescriptor(descriptor, edition, nested) {
       if (typeof descriptor.length === "number")
         descriptor = exports2.ServiceDescriptorProto.decode(descriptor);
       var service = new Service(descriptor.name && descriptor.name.length ? descriptor.name : "Service" + unnamedServiceIndex++, fromDescriptorOptions(descriptor.options, exports2.ServiceOptions));
+      if (!nested)
+        service._edition = edition;
       if (descriptor.method)
         for (var i = 0; i < descriptor.method.length; ++i)
           service.add(Method.fromDescriptor(descriptor.method[i]));
@@ -10929,7 +12088,7 @@ var require_descriptor2 = __commonJS({
       }
       return false;
     }
-    function toDescriptorType(type, resolvedType) {
+    function toDescriptorType(type, resolvedType, delimited) {
       switch (type) {
         // 0 is reserved for errors
         case "double":
@@ -10966,38 +12125,53 @@ var require_descriptor2 = __commonJS({
       if (resolvedType instanceof Enum)
         return 14;
       if (resolvedType instanceof Type)
-        return resolvedType.group ? 10 : 11;
+        return delimited ? 10 : 11;
       throw Error("illegal type: " + type);
+    }
+    function fromDescriptorOptionsRecursive(obj, type) {
+      var val = {};
+      for (var i = 0, field, key; i < type.fieldsArray.length; ++i) {
+        if ((key = (field = type._fieldsArray[i]).name) === "uninterpretedOption") continue;
+        if (!Object.prototype.hasOwnProperty.call(obj, key)) continue;
+        var newKey = underScore(key);
+        if (field.resolvedType instanceof Type) {
+          val[newKey] = fromDescriptorOptionsRecursive(obj[key], field.resolvedType);
+        } else if (field.resolvedType instanceof Enum) {
+          val[newKey] = field.resolvedType.valuesById[obj[key]];
+        } else {
+          val[newKey] = obj[key];
+        }
+      }
+      return val;
     }
     function fromDescriptorOptions(options, type) {
       if (!options)
         return void 0;
-      var out = [];
-      for (var i = 0, field, key, val; i < type.fieldsArray.length; ++i)
-        if ((key = (field = type._fieldsArray[i]).name) !== "uninterpretedOption") {
-          if (options.hasOwnProperty(key)) {
-            val = options[key];
-            if (field.resolvedType instanceof Enum && typeof val === "number" && field.resolvedType.valuesById[val] !== void 0)
-              val = field.resolvedType.valuesById[val];
-            out.push(underScore(key), val);
-          }
+      return fromDescriptorOptionsRecursive(type.toObject(options), type);
+    }
+    function toDescriptorOptionsRecursive(obj, type) {
+      var val = {};
+      var keys = Object.keys(obj);
+      for (var i = 0; i < keys.length; ++i) {
+        var key = keys[i];
+        var newKey = $protobuf.util.camelCase(key);
+        if (!Object.prototype.hasOwnProperty.call(type.fields, newKey)) continue;
+        var field = type.fields[newKey];
+        if (field.resolvedType instanceof Type) {
+          val[newKey] = toDescriptorOptionsRecursive(obj[key], field.resolvedType);
+        } else {
+          val[newKey] = obj[key];
         }
-      return out.length ? $protobuf.util.toObject(out) : void 0;
+        if (field.repeated && !Array.isArray(val[newKey])) {
+          val[newKey] = [val[newKey]];
+        }
+      }
+      return val;
     }
     function toDescriptorOptions(options, type) {
       if (!options)
         return void 0;
-      var out = [];
-      for (var i = 0, ks = Object.keys(options), key, val; i < ks.length; ++i) {
-        val = options[key = ks[i]];
-        if (key === "default")
-          continue;
-        var field = type.fields[key];
-        if (!field && !(field = type.fields[key = $protobuf.util.camelCase(key)]))
-          continue;
-        out.push(key, val);
-      }
-      return out.length ? type.fromObject($protobuf.util.toObject(out)) : void 0;
+      return type.fromObject(toDescriptorOptionsRecursive(options, type));
     }
     function shortname(from, to) {
       var fromPath = from.fullName.split("."), toPath = to.fullName.split("."), i = 0, j = 0, k = toPath.length - 1;
@@ -11017,12 +12191,41 @@ var require_descriptor2 = __commonJS({
         return "_" + $1.toLowerCase();
       });
     }
+    function editionFromDescriptor(fileDescriptor) {
+      if (fileDescriptor.syntax === "editions") {
+        switch (fileDescriptor.edition) {
+          case exports2.Edition.EDITION_2023:
+            return "2023";
+          default:
+            throw new Error("Unsupported edition " + fileDescriptor.edition);
+        }
+      }
+      if (fileDescriptor.syntax === "proto3") {
+        return "proto3";
+      }
+      return "proto2";
+    }
+    function editionToDescriptor(edition, fileDescriptor) {
+      if (!edition) return;
+      if (edition === "proto2" || edition === "proto3") {
+        fileDescriptor.syntax = edition;
+      } else {
+        fileDescriptor.syntax = "editions";
+        switch (edition) {
+          case "2023":
+            fileDescriptor.edition = exports2.Edition.EDITION_2023;
+            break;
+          default:
+            throw new Error("Unsupported edition " + edition);
+        }
+      }
+    }
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/api.json
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/api.json
 var require_api = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/api.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/api.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -11144,9 +12347,9 @@ var require_api = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/source_context.json
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/source_context.json
 var require_source_context = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/source_context.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/source_context.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -11170,9 +12373,9 @@ var require_source_context = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/type.json
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/type.json
 var require_type2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/google/protobuf/type.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/type.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -11378,9 +12581,9 @@ var require_type2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+proto-loader@0.7.13/node_modules/@grpc/proto-loader/build/src/util.js
+// node_modules/.pnpm/@grpc+proto-loader@0.7.15/node_modules/@grpc/proto-loader/build/src/util.js
 var require_util2 = __commonJS({
-  "node_modules/.pnpm/@grpc+proto-loader@0.7.13/node_modules/@grpc/proto-loader/build/src/util.js"(exports2) {
+  "node_modules/.pnpm/@grpc+proto-loader@0.7.15/node_modules/@grpc/proto-loader/build/src/util.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.addCommonProtos = exports2.loadProtosWithOptionsSync = exports2.loadProtosWithOptions = void 0;
@@ -11448,28 +12651,28 @@ var require_util2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/long@5.3.1/node_modules/long/umd/index.js
+// node_modules/.pnpm/long@5.3.2/node_modules/long/umd/index.js
 var require_umd = __commonJS({
-  "node_modules/.pnpm/long@5.3.1/node_modules/long/umd/index.js"(exports2, module2) {
+  "node_modules/.pnpm/long@5.3.2/node_modules/long/umd/index.js"(exports2, module2) {
     "use strict";
     (function(global2, factory) {
-      function unwrapDefault(exports3) {
-        return "default" in exports3 ? exports3.default : exports3;
+      function preferDefault(exports3) {
+        return exports3.default || exports3;
       }
       if (typeof define === "function" && define.amd) {
         define([], function() {
           var exports3 = {};
           factory(exports3);
-          return unwrapDefault(exports3);
+          return preferDefault(exports3);
         });
       } else if (typeof exports2 === "object") {
         factory(exports2);
-        if (typeof module2 === "object") module2.exports = unwrapDefault(exports2);
+        if (typeof module2 === "object") module2.exports = preferDefault(exports2);
       } else {
         (function() {
           var exports3 = {};
           factory(exports3);
-          global2.Long = unwrapDefault(exports3);
+          global2.Long = preferDefault(exports3);
         })();
       }
     })(
@@ -12406,13 +13609,13 @@ var require_umd = __commonJS({
           );
         };
         if (typeof BigInt === "function") {
-          Long2.fromBigInt = function fromBigInt2(value, unsigned) {
+          Long2.fromBigInt = function fromBigInt(value, unsigned) {
             var lowBits = Number(BigInt.asIntN(32, value));
             var highBits = Number(BigInt.asIntN(32, value >> BigInt(32)));
             return fromBits2(lowBits, highBits, unsigned);
           };
           Long2.fromValue = function fromValueWithBigInt(value, unsigned) {
-            if (typeof value === "bigint") return fromBigInt(value, unsigned);
+            if (typeof value === "bigint") return Long2.fromBigInt(value, unsigned);
             return fromValue2(value, unsigned);
           };
           LongPrototype2.toBigInt = function toBigInt() {
@@ -12427,9 +13630,9 @@ var require_umd = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+proto-loader@0.7.13/node_modules/@grpc/proto-loader/build/src/index.js
+// node_modules/.pnpm/@grpc+proto-loader@0.7.15/node_modules/@grpc/proto-loader/build/src/index.js
 var require_src2 = __commonJS({
-  "node_modules/.pnpm/@grpc+proto-loader@0.7.13/node_modules/@grpc/proto-loader/build/src/index.js"(exports2) {
+  "node_modules/.pnpm/@grpc+proto-loader@0.7.15/node_modules/@grpc/proto-loader/build/src/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.loadFileDescriptorSetFromObject = exports2.loadFileDescriptorSetFromBuffer = exports2.fromJSON = exports2.loadSync = exports2.load = exports2.IdempotencyLevel = exports2.isAnyExtension = exports2.Long = void 0;
@@ -12615,9 +13818,9 @@ var require_src2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channelz.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channelz.js
 var require_channelz = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channelz.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channelz.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.registerChannelzSocket = exports2.registerChannelzServer = exports2.registerChannelzSubchannel = exports2.registerChannelzChannel = exports2.ChannelzCallTrackerStub = exports2.ChannelzCallTracker = exports2.ChannelzChildrenTrackerStub = exports2.ChannelzChildrenTracker = exports2.ChannelzTrace = exports2.ChannelzTraceStub = void 0;
@@ -12861,9 +14064,17 @@ var require_channelz = __commonJS({
       const result = [];
       return result.concat(...bytePairs);
     }
+    function isIPv6MappedIPv4(ipAddress) {
+      return (0, net_1.isIPv6)(ipAddress) && ipAddress.toLowerCase().startsWith("::ffff:") && (0, net_1.isIPv4)(ipAddress.substring(7));
+    }
+    function ipv4AddressStringToBuffer(ipAddress) {
+      return Buffer.from(Uint8Array.from(ipAddress.split(".").map((segment) => Number.parseInt(segment))));
+    }
     function ipAddressStringToBuffer(ipAddress) {
       if ((0, net_1.isIPv4)(ipAddress)) {
-        return Buffer.from(Uint8Array.from(ipAddress.split(".").map((segment) => Number.parseInt(segment))));
+        return ipv4AddressStringToBuffer(ipAddress);
+      } else if (isIPv6MappedIPv4(ipAddress)) {
+        return ipv4AddressStringToBuffer(ipAddress.substring(7));
       } else if ((0, net_1.isIPv6)(ipAddress)) {
         let leftSection;
         let rightSection;
@@ -13191,9 +14402,9 @@ var require_channelz = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel.js
 var require_subchannel = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Subchannel = void 0;
@@ -13222,7 +14433,6 @@ var require_subchannel = __commonJS({
         this.channelTarget = channelTarget;
         this.subchannelAddress = subchannelAddress;
         this.options = options;
-        this.credentials = credentials2;
         this.connector = connector;
         this.connectivityState = connectivity_state_1.ConnectivityState.IDLE;
         this.transport = null;
@@ -13255,7 +14465,7 @@ var require_subchannel = __commonJS({
         this.channelzRef = (0, channelz_1.registerChannelzSubchannel)(this.subchannelAddressString, () => this.getChannelzInfo(), this.channelzEnabled);
         this.channelzTrace.addTrace("CT_INFO", "Subchannel created");
         this.trace("Subchannel constructed with options " + JSON.stringify(options, void 0, 2));
-        credentials2._ref();
+        this.secureConnector = credentials2._createSecureConnector(channelTarget, options);
       }
       getChannelzInfo() {
         return {
@@ -13295,7 +14505,7 @@ var require_subchannel = __commonJS({
           const adjustedKeepaliveTime = Math.min(this.keepaliveTime, KEEPALIVE_MAX_TIME_MS);
           options = Object.assign(Object.assign({}, options), { "grpc.keepalive_time_ms": adjustedKeepaliveTime });
         }
-        this.connector.connect(this.subchannelAddress, this.credentials, options).then((transport) => {
+        this.connector.connect(this.subchannelAddress, this.secureConnector, options).then((transport) => {
           if (this.transitionToState([connectivity_state_1.ConnectivityState.CONNECTING], connectivity_state_1.ConnectivityState.READY)) {
             this.transport = transport;
             if (this.channelzEnabled) {
@@ -13383,7 +14593,7 @@ var require_subchannel = __commonJS({
         if (this.refcount === 0) {
           this.channelzTrace.addTrace("CT_INFO", "Shutting down");
           (0, channelz_1.unregisterChannelzRef)(this.channelzRef);
-          this.credentials._unref();
+          this.secureConnector.destroy();
           process.nextTick(() => {
             this.transitionToState([connectivity_state_1.ConnectivityState.CONNECTING, connectivity_state_1.ConnectivityState.READY], connectivity_state_1.ConnectivityState.IDLE);
           });
@@ -13488,14 +14698,17 @@ var require_subchannel = __commonJS({
           this.keepaliveTime = newKeepaliveTime;
         }
       }
+      getCallCredentials() {
+        return this.secureConnector.getCallCredentials();
+      }
     };
     exports2.Subchannel = Subchannel;
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/environment.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/environment.js
 var require_environment = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/environment.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/environment.js"(exports2) {
     "use strict";
     var _a;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -13504,9 +14717,9 @@ var require_environment = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver-dns.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver-dns.js
 var require_resolver_dns = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver-dns.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver-dns.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DEFAULT_PORT = void 0;
@@ -13780,18 +14993,18 @@ var require_resolver_dns = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/http_proxy.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/http_proxy.js
 var require_http_proxy = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/http_proxy.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/http_proxy.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
+    exports2.parseCIDR = parseCIDR;
     exports2.mapProxyName = mapProxyName;
     exports2.getProxiedConnection = getProxiedConnection;
     var logging_1 = require_logging();
     var constants_1 = require_constants();
-    var resolver_1 = require_resolver();
+    var net_1 = require("net");
     var http = require("http");
-    var tls = require("tls");
     var logging = require_logging();
     var subchannel_address_1 = require_subchannel_address();
     var uri_parser_1 = require_uri_parser();
@@ -13864,6 +15077,40 @@ var require_http_proxy = __commonJS({
         return [];
       }
     }
+    function parseCIDR(cidrString) {
+      const splitRange = cidrString.split("/");
+      if (splitRange.length !== 2) {
+        return null;
+      }
+      const prefixLength = parseInt(splitRange[1], 10);
+      if (!(0, net_1.isIPv4)(splitRange[0]) || Number.isNaN(prefixLength) || prefixLength < 0 || prefixLength > 32) {
+        return null;
+      }
+      return {
+        ip: ipToInt(splitRange[0]),
+        prefixLength
+      };
+    }
+    function ipToInt(ip) {
+      return ip.split(".").reduce((acc, octet) => (acc << 8) + parseInt(octet, 10), 0);
+    }
+    function isIpInCIDR(cidr, serverHost) {
+      const ip = cidr.ip;
+      const mask = -1 << 32 - cidr.prefixLength;
+      const hostIP = ipToInt(serverHost);
+      return (hostIP & mask) === (ip & mask);
+    }
+    function hostMatchesNoProxyList(serverHost) {
+      for (const host of getNoProxyHostList()) {
+        const parsedCIDR = parseCIDR(host);
+        if ((0, net_1.isIPv4)(serverHost) && parsedCIDR && isIpInCIDR(parsedCIDR, serverHost)) {
+          return true;
+        } else if (serverHost.endsWith(host)) {
+          return true;
+        }
+      }
+      return false;
+    }
     function mapProxyName(target, options) {
       var _a;
       const noProxyResult = {
@@ -13885,11 +15132,9 @@ var require_http_proxy = __commonJS({
         return noProxyResult;
       }
       const serverHost = hostPort.host;
-      for (const host of getNoProxyHostList()) {
-        if (host === serverHost) {
-          trace("Not using proxy for target in no_proxy list: " + (0, uri_parser_1.uriToString)(target));
-          return noProxyResult;
-        }
+      if (hostMatchesNoProxyList(serverHost)) {
+        trace("Not using proxy for target in no_proxy list: " + (0, uri_parser_1.uriToString)(target));
+        return noProxyResult;
       }
       const extraOptions = {
         "grpc.http_connect_target": (0, uri_parser_1.uriToString)(target)
@@ -13905,19 +15150,19 @@ var require_http_proxy = __commonJS({
         extraOptions
       };
     }
-    function getProxiedConnection(address, channelOptions, connectionOptions) {
+    function getProxiedConnection(address, channelOptions) {
       var _a;
       if (!("grpc.http_connect_target" in channelOptions)) {
-        return Promise.resolve({});
+        return Promise.resolve(null);
       }
       const realTarget = channelOptions["grpc.http_connect_target"];
       const parsedTarget = (0, uri_parser_1.parseUri)(realTarget);
       if (parsedTarget === null) {
-        return Promise.resolve({});
+        return Promise.resolve(null);
       }
       const splitHostPost = (0, uri_parser_1.splitHostPort)(parsedTarget.path);
       if (splitHostPost === null) {
-        return Promise.resolve({});
+        return Promise.resolve(null);
       }
       const hostPort = `${splitHostPost.host}:${(_a = splitHostPost.port) !== null && _a !== void 0 ? _a : resolver_dns_1.DEFAULT_PORT}`;
       const options = {
@@ -13942,7 +15187,6 @@ var require_http_proxy = __commonJS({
       return new Promise((resolve, reject) => {
         const request = http.request(options);
         request.once("connect", (res, socket, head) => {
-          var _a2;
           request.removeAllListeners();
           socket.removeAllListeners();
           if (res.statusCode === 200) {
@@ -13950,25 +15194,8 @@ var require_http_proxy = __commonJS({
             if (head.length > 0) {
               socket.unshift(head);
             }
-            if ("secureContext" in connectionOptions) {
-              const targetPath = (0, resolver_1.getDefaultAuthority)(parsedTarget);
-              const hostPort2 = (0, uri_parser_1.splitHostPort)(targetPath);
-              const remoteHost = (_a2 = hostPort2 === null || hostPort2 === void 0 ? void 0 : hostPort2.host) !== null && _a2 !== void 0 ? _a2 : targetPath;
-              const cts = tls.connect(Object.assign({ host: remoteHost, servername: remoteHost, socket }, connectionOptions), () => {
-                trace("Successfully established a TLS connection to " + options.path + " through proxy " + proxyAddressString);
-                resolve({ socket: cts, realTarget: parsedTarget });
-              });
-              cts.on("error", (error) => {
-                trace("Failed to establish a TLS connection to " + options.path + " through proxy " + proxyAddressString + " with error " + error.message);
-                reject();
-              });
-            } else {
-              trace("Successfully established a plaintext connection to " + options.path + " through proxy " + proxyAddressString);
-              resolve({
-                socket,
-                realTarget: parsedTarget
-              });
-            }
+            trace("Successfully established a plaintext connection to " + options.path + " through proxy " + proxyAddressString);
+            resolve(socket);
           } else {
             (0, logging_1.log)(constants_1.LogVerbosity.ERROR, "Failed to connect to " + options.path + " through proxy " + proxyAddressString + " with status " + res.statusCode);
             reject();
@@ -13985,9 +15212,9 @@ var require_http_proxy = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/stream-decoder.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/stream-decoder.js
 var require_stream_decoder = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/stream-decoder.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/stream-decoder.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.StreamDecoder = void 0;
@@ -14070,9 +15297,9 @@ var require_stream_decoder = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-call.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-call.js
 var require_subchannel_call = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-call.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-call.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Http2SubchannelCall = void 0;
@@ -14473,9 +15700,9 @@ var require_subchannel_call = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call-number.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call-number.js
 var require_call_number = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/call-number.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/call-number.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getNextCallNumber = getNextCallNumber;
@@ -14486,14 +15713,13 @@ var require_call_number = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/transport.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/transport.js
 var require_transport = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/transport.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/transport.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Http2SubchannelConnector = void 0;
     var http2 = require("http2");
-    var tls_1 = require("tls");
     var channelz_1 = require_channelz();
     var constants_1 = require_constants();
     var http_proxy_1 = require_http_proxy();
@@ -14570,8 +15796,8 @@ var require_transport = __commonJS({
           this.trace("connection closed with error " + error.message);
           this.handleDisconnect();
         });
-        session.socket.once("close", () => {
-          this.trace("connection closed");
+        session.socket.once("close", (hadError) => {
+          this.trace("connection closed. hadError=" + hadError);
           this.handleDisconnect();
         });
         if (logging.isTracerEnabled(TRACER_NAME)) {
@@ -14860,122 +16086,119 @@ var require_transport = __commonJS({
       trace(text) {
         logging.trace(constants_1.LogVerbosity.DEBUG, TRACER_NAME, (0, uri_parser_1.uriToString)(this.channelTarget) + " " + text);
       }
-      createSession(address, credentials2, options, proxyConnectionResult) {
+      createSession(secureConnectResult, address, options) {
         if (this.isShutdown) {
           return Promise.reject();
         }
+        if (secureConnectResult.socket.closed) {
+          return Promise.reject("Connection closed before starting HTTP/2 handshake");
+        }
         return new Promise((resolve, reject) => {
-          var _a, _b, _c, _d;
-          let remoteName;
-          if (proxyConnectionResult.realTarget) {
-            remoteName = (0, uri_parser_1.uriToString)(proxyConnectionResult.realTarget);
-            this.trace("creating HTTP/2 session through proxy to " + (0, uri_parser_1.uriToString)(proxyConnectionResult.realTarget));
-          } else {
-            remoteName = null;
-            this.trace("creating HTTP/2 session to " + (0, subchannel_address_1.subchannelAddressToString)(address));
-          }
-          const targetAuthority = (0, resolver_1.getDefaultAuthority)((_a = proxyConnectionResult.realTarget) !== null && _a !== void 0 ? _a : this.channelTarget);
-          let connectionOptions = credentials2._getConnectionOptions();
-          if (!connectionOptions) {
-            reject("Credentials not loaded");
-            return;
-          }
-          connectionOptions.maxSendHeaderBlockLength = Number.MAX_SAFE_INTEGER;
-          if ("grpc-node.max_session_memory" in options) {
-            connectionOptions.maxSessionMemory = options["grpc-node.max_session_memory"];
-          } else {
-            connectionOptions.maxSessionMemory = Number.MAX_SAFE_INTEGER;
-          }
-          let addressScheme = "http://";
-          if ("secureContext" in connectionOptions) {
-            addressScheme = "https://";
-            if (options["grpc.ssl_target_name_override"]) {
-              const sslTargetNameOverride = options["grpc.ssl_target_name_override"];
-              const originalCheckServerIdentity = (_b = connectionOptions.checkServerIdentity) !== null && _b !== void 0 ? _b : tls_1.checkServerIdentity;
-              connectionOptions.checkServerIdentity = (host, cert) => {
-                return originalCheckServerIdentity(sslTargetNameOverride, cert);
-              };
-              connectionOptions.servername = sslTargetNameOverride;
-            } else {
-              const authorityHostname = (_d = (_c = (0, uri_parser_1.splitHostPort)(targetAuthority)) === null || _c === void 0 ? void 0 : _c.host) !== null && _d !== void 0 ? _d : "localhost";
-              connectionOptions.servername = authorityHostname;
+          let remoteName = null;
+          let realTarget = this.channelTarget;
+          if ("grpc.http_connect_target" in options) {
+            const parsedTarget = (0, uri_parser_1.parseUri)(options["grpc.http_connect_target"]);
+            if (parsedTarget) {
+              realTarget = parsedTarget;
+              remoteName = (0, uri_parser_1.uriToString)(parsedTarget);
             }
-            if (proxyConnectionResult.socket) {
-              connectionOptions.createConnection = (authority, option) => {
-                return proxyConnectionResult.socket;
-              };
-            }
-          } else {
-            connectionOptions.createConnection = (authority, option) => {
-              if (proxyConnectionResult.socket) {
-                return proxyConnectionResult.socket;
-              } else {
-                return net.connect(address);
-              }
-            };
           }
-          connectionOptions = Object.assign(Object.assign(Object.assign({}, connectionOptions), address), { enableTrace: options["grpc-node.tls_enable_trace"] === 1 });
-          const session = http2.connect(addressScheme + targetAuthority, connectionOptions);
-          this.session = session;
-          let errorMessage = "Failed to connect";
-          let reportedError = false;
-          session.unref();
-          session.once("connect", () => {
-            session.removeAllListeners();
-            resolve(new Http2Transport(session, address, options, remoteName));
-            this.session = null;
-          });
-          session.once("close", () => {
+          const scheme = secureConnectResult.secure ? "https" : "http";
+          const targetPath = (0, resolver_1.getDefaultAuthority)(realTarget);
+          const closeHandler = () => {
+            var _a;
+            (_a = this.session) === null || _a === void 0 ? void 0 : _a.destroy();
             this.session = null;
             setImmediate(() => {
               if (!reportedError) {
                 reportedError = true;
-                reject(`${errorMessage} (${(/* @__PURE__ */ new Date()).toISOString()})`);
+                reject(`${errorMessage.trim()} (${(/* @__PURE__ */ new Date()).toISOString()})`);
               }
             });
-          });
-          session.once("error", (error) => {
+          };
+          const errorHandler = (error) => {
+            var _a;
+            (_a = this.session) === null || _a === void 0 ? void 0 : _a.destroy();
             errorMessage = error.message;
             this.trace("connection failed with error " + errorMessage);
             if (!reportedError) {
               reportedError = true;
               reject(`${errorMessage} (${(/* @__PURE__ */ new Date()).toISOString()})`);
             }
+          };
+          const sessionOptions = {
+            createConnection: (authority, option) => {
+              return secureConnectResult.socket;
+            }
+          };
+          if (options["grpc-node.flow_control_window"] !== void 0) {
+            sessionOptions.settings = {
+              initialWindowSize: options["grpc-node.flow_control_window"]
+            };
+          }
+          const session = http2.connect(`${scheme}://${targetPath}`, sessionOptions);
+          this.session = session;
+          let errorMessage = "Failed to connect";
+          let reportedError = false;
+          session.unref();
+          session.once("remoteSettings", () => {
+            session.removeAllListeners();
+            secureConnectResult.socket.removeListener("close", closeHandler);
+            secureConnectResult.socket.removeListener("error", errorHandler);
+            resolve(new Http2Transport(session, address, options, remoteName));
+            this.session = null;
           });
+          session.once("close", closeHandler);
+          session.once("error", errorHandler);
+          secureConnectResult.socket.once("close", closeHandler);
+          secureConnectResult.socket.once("error", errorHandler);
         });
       }
-      connect(address, credentials2, options) {
-        var _a, _b, _c;
+      tcpConnect(address, options) {
+        return (0, http_proxy_1.getProxiedConnection)(address, options).then((proxiedSocket) => {
+          if (proxiedSocket) {
+            return proxiedSocket;
+          } else {
+            return new Promise((resolve, reject) => {
+              const closeCallback = () => {
+                reject(new Error("Socket closed"));
+              };
+              const errorCallback = (error) => {
+                reject(error);
+              };
+              const socket = net.connect(address, () => {
+                socket.removeListener("close", closeCallback);
+                socket.removeListener("error", errorCallback);
+                resolve(socket);
+              });
+              socket.once("close", closeCallback);
+              socket.once("error", errorCallback);
+            });
+          }
+        });
+      }
+      async connect(address, secureConnector, options) {
         if (this.isShutdown) {
           return Promise.reject();
         }
-        const connectionOptions = credentials2._getConnectionOptions();
-        if (!connectionOptions) {
-          return Promise.reject("Credentials not loaded");
+        let tcpConnection = null;
+        let secureConnectResult = null;
+        const addressString = (0, subchannel_address_1.subchannelAddressToString)(address);
+        try {
+          this.trace(addressString + " Waiting for secureConnector to be ready");
+          await secureConnector.waitForReady();
+          this.trace(addressString + " secureConnector is ready");
+          tcpConnection = await this.tcpConnect(address, options);
+          tcpConnection.setNoDelay();
+          this.trace(addressString + " Established TCP connection");
+          secureConnectResult = await secureConnector.connect(tcpConnection);
+          this.trace(addressString + " Established secure connection");
+          return this.createSession(secureConnectResult, address, options);
+        } catch (e) {
+          tcpConnection === null || tcpConnection === void 0 ? void 0 : tcpConnection.destroy();
+          secureConnectResult === null || secureConnectResult === void 0 ? void 0 : secureConnectResult.socket.destroy();
+          throw e;
         }
-        if ("secureContext" in connectionOptions) {
-          connectionOptions.ALPNProtocols = ["h2"];
-          if (options["grpc.ssl_target_name_override"]) {
-            const sslTargetNameOverride = options["grpc.ssl_target_name_override"];
-            const originalCheckServerIdentity = (_a = connectionOptions.checkServerIdentity) !== null && _a !== void 0 ? _a : tls_1.checkServerIdentity;
-            connectionOptions.checkServerIdentity = (host, cert) => {
-              return originalCheckServerIdentity(sslTargetNameOverride, cert);
-            };
-            connectionOptions.servername = sslTargetNameOverride;
-          } else {
-            if ("grpc.http_connect_target" in options) {
-              const targetPath = (0, resolver_1.getDefaultAuthority)((_b = (0, uri_parser_1.parseUri)(options["grpc.http_connect_target"])) !== null && _b !== void 0 ? _b : {
-                path: "localhost"
-              });
-              const hostPort = (0, uri_parser_1.splitHostPort)(targetPath);
-              connectionOptions.servername = (_c = hostPort === null || hostPort === void 0 ? void 0 : hostPort.host) !== null && _c !== void 0 ? _c : targetPath;
-            }
-          }
-          if (options["grpc-node.tls_enable_trace"]) {
-            connectionOptions.enableTrace = true;
-          }
-        }
-        return (0, http_proxy_1.getProxiedConnection)(address, options, connectionOptions).then((result) => this.createSession(address, credentials2, options, result));
       }
       shutdown() {
         var _a;
@@ -14988,9 +16211,9 @@ var require_transport = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-pool.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-pool.js
 var require_subchannel_pool = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-pool.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-pool.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SubchannelPool = void 0;
@@ -15086,9 +16309,9 @@ var require_subchannel_pool = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/filter-stack.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/filter-stack.js
 var require_filter_stack = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/filter-stack.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/filter-stack.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FilterStackFactory = exports2.FilterStack = void 0;
@@ -15157,9 +16380,9 @@ var require_filter_stack = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/compression-algorithms.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/compression-algorithms.js
 var require_compression_algorithms = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/compression-algorithms.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/compression-algorithms.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CompressionAlgorithms = void 0;
@@ -15172,9 +16395,9 @@ var require_compression_algorithms = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/filter.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/filter.js
 var require_filter = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/filter.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/filter.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BaseFilter = void 0;
@@ -15199,9 +16422,9 @@ var require_filter = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/compression-filter.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/compression-filter.js
 var require_compression_filter = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/compression-filter.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/compression-filter.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CompressionFilterFactory = exports2.CompressionFilter = void 0;
@@ -15456,9 +16679,9 @@ var require_compression_filter = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/deadline.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/deadline.js
 var require_deadline = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/deadline.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/deadline.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.minDeadline = minDeadline;
@@ -15527,9 +16750,9 @@ var require_deadline = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/control-plane-status.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/control-plane-status.js
 var require_control_plane_status = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/control-plane-status.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/control-plane-status.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.restrictControlPlaneStatusCode = restrictControlPlaneStatusCode;
@@ -15557,9 +16780,9 @@ var require_control_plane_status = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancing-call.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancing-call.js
 var require_load_balancing_call = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancing-call.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancing-call.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LoadBalancingCall = void 0;
@@ -15649,8 +16872,9 @@ var require_load_balancing_call = __commonJS({
         this.trace("Pick result: " + picker_1.PickResultType[pickResult.pickResultType] + " subchannel: " + subchannelString + " status: " + ((_a = pickResult.status) === null || _a === void 0 ? void 0 : _a.code) + " " + ((_b = pickResult.status) === null || _b === void 0 ? void 0 : _b.details));
         switch (pickResult.pickResultType) {
           case picker_1.PickResultType.COMPLETE:
-            this.credentials.generateMetadata({ method_name: this.methodName, service_url: this.serviceUrl }).then((credsMetadata) => {
-              var _a2, _b2, _c;
+            const combinedCallCredentials = this.credentials.compose(pickResult.subchannel.getCallCredentials());
+            combinedCallCredentials.generateMetadata({ method_name: this.methodName, service_url: this.serviceUrl }).then((credsMetadata) => {
+              var _a2;
               if (this.ended) {
                 this.trace("Credentials metadata generation finished after call ended");
                 return;
@@ -15700,8 +16924,7 @@ var require_load_balancing_call = __commonJS({
                 }, "NOT_STARTED");
                 return;
               }
-              (_b2 = (_a2 = this.callConfig).onCommitted) === null || _b2 === void 0 ? void 0 : _b2.call(_a2);
-              (_c = pickResult.onCallStarted) === null || _c === void 0 ? void 0 : _c.call(pickResult);
+              (_a2 = pickResult.onCallStarted) === null || _a2 === void 0 ? void 0 : _a2.call(pickResult);
               this.onCallEnded = pickResult.onCallEnded;
               this.trace("Created child call [" + this.child.getCallNumber() + "]");
               if (this.readPending) {
@@ -15793,12 +17016,13 @@ var require_load_balancing_call = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolving-call.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolving-call.js
 var require_resolving_call = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolving-call.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolving-call.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ResolvingCall = void 0;
+    var call_credentials_1 = require_call_credentials();
     var constants_1 = require_constants();
     var deadline_1 = require_deadline();
     var metadata_1 = require_metadata();
@@ -15806,11 +17030,10 @@ var require_resolving_call = __commonJS({
     var control_plane_status_1 = require_control_plane_status();
     var TRACER_NAME = "resolving_call";
     var ResolvingCall = class {
-      constructor(channel, method, options, filterStackFactory, credentials2, callNumber) {
+      constructor(channel, method, options, filterStackFactory, callNumber) {
         this.channel = channel;
         this.method = method;
         this.filterStackFactory = filterStackFactory;
-        this.credentials = credentials2;
         this.callNumber = callNumber;
         this.child = null;
         this.readPending = false;
@@ -15829,6 +17052,7 @@ var require_resolving_call = __commonJS({
         this.deadlineStartTime = null;
         this.configReceivedTime = null;
         this.childStartTime = null;
+        this.credentials = call_credentials_1.CallCredentials.createEmpty();
         this.deadline = options.deadline;
         this.host = options.host;
         if (options.parentCall) {
@@ -15961,7 +17185,7 @@ var require_resolving_call = __commonJS({
         this.filterStackFactory.push(config.dynamicFilterFactories);
         this.filterStack = this.filterStackFactory.createFilter();
         this.filterStack.sendMetadata(Promise.resolve(this.metadata)).then((filteredMetadata) => {
-          this.child = this.channel.createInnerCall(config, this.method, this.host, this.credentials, this.deadline);
+          this.child = this.channel.createRetryingCall(config, this.method, this.host, this.credentials, this.deadline);
           this.trace("Created child [" + this.child.getCallNumber() + "]");
           this.childStartTime = /* @__PURE__ */ new Date();
           this.child.start(filteredMetadata, {
@@ -16057,7 +17281,7 @@ var require_resolving_call = __commonJS({
         }
       }
       setCredentials(credentials2) {
-        this.credentials = this.credentials.compose(credentials2);
+        this.credentials = credentials2;
       }
       addStatusWatcher(watcher) {
         this.statusWatchers.push(watcher);
@@ -16070,9 +17294,9 @@ var require_resolving_call = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/retrying-call.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/retrying-call.js
 var require_retrying_call = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/retrying-call.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/retrying-call.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RetryingCall = exports2.MessageBufferTracker = exports2.RetryThrottler = void 0;
@@ -16092,10 +17316,10 @@ var require_retrying_call = __commonJS({
         }
       }
       addCallSucceeded() {
-        this.tokens = Math.max(this.tokens + this.tokenRatio, this.maxTokens);
+        this.tokens = Math.min(this.tokens + this.tokenRatio, this.maxTokens);
       }
       addCallFailed() {
-        this.tokens = Math.min(this.tokens - 1, 0);
+        this.tokens = Math.max(this.tokens - 1, 0);
       }
       canRetryCall() {
         return this.tokens > this.maxTokens / 2;
@@ -16169,7 +17393,10 @@ var require_retrying_call = __commonJS({
         this.initialRetryBackoffSec = 0;
         this.nextRetryBackoffSec = 0;
         const maxAttemptsLimit = (_a = channel.getOptions()["grpc-node.retry_max_attempts_limit"]) !== null && _a !== void 0 ? _a : DEFAULT_MAX_ATTEMPTS_LIMIT;
-        if (callConfig.methodConfig.retryPolicy) {
+        if (channel.getOptions()["grpc.enable_retries"] === 0) {
+          this.state = "NO_RETRY";
+          this.maxAttempts = 1;
+        } else if (callConfig.methodConfig.retryPolicy) {
           this.state = "RETRY";
           const retryPolicy = callConfig.methodConfig.retryPolicy;
           this.nextRetryBackoffSec = this.initialRetryBackoffSec = Number(retryPolicy.initialBackoff.substring(0, retryPolicy.initialBackoff.length - 1));
@@ -16246,7 +17473,12 @@ var require_retrying_call = __commonJS({
         if (this.state !== "COMMITTED") {
           return;
         }
-        const earliestNeededMessageIndex = this.underlyingCalls[this.committedCallIndex].nextMessageToSend;
+        let earliestNeededMessageIndex;
+        if (this.underlyingCalls[this.committedCallIndex].state === "COMPLETED") {
+          earliestNeededMessageIndex = this.getNextBufferIndex();
+        } else {
+          earliestNeededMessageIndex = this.underlyingCalls[this.committedCallIndex].nextMessageToSend;
+        }
         for (let messageIndex = this.writeBufferOffset; messageIndex < earliestNeededMessageIndex; messageIndex++) {
           const bufferEntry = this.getBufferEntry(messageIndex);
           if (bufferEntry.allocated) {
@@ -16257,14 +17489,13 @@ var require_retrying_call = __commonJS({
         this.writeBufferOffset = earliestNeededMessageIndex;
       }
       commitCall(index) {
+        var _a, _b;
         if (this.state === "COMMITTED") {
-          return;
-        }
-        if (this.underlyingCalls[index].state === "COMPLETED") {
           return;
         }
         this.trace("Committing call [" + this.underlyingCalls[index].call.getCallNumber() + "] at index " + index);
         this.state = "COMMITTED";
+        (_b = (_a = this.callConfig).onCommitted) === null || _b === void 0 ? void 0 : _b.call(_a);
         this.committedCallIndex = index;
         for (let i = 0; i < this.underlyingCalls.length; i++) {
           if (i === index) {
@@ -16343,6 +17574,9 @@ var require_retrying_call = __commonJS({
             callback(true);
             this.attempts += 1;
             this.startNewAttempt();
+          } else {
+            this.trace("Retry attempt denied by throttling policy");
+            callback(false);
           }
         }, retryDelayMs);
       }
@@ -16359,6 +17593,7 @@ var require_retrying_call = __commonJS({
         var _a, _b, _c;
         switch (this.state) {
           case "COMMITTED":
+          case "NO_RETRY":
           case "TRANSPARENT_ONLY":
             this.commitCall(callIndex);
             this.reportStatus(status2);
@@ -16425,6 +17660,11 @@ var require_retrying_call = __commonJS({
         this.underlyingCalls[callIndex].state = "COMPLETED";
         if (status2.code === constants_1.Status.OK) {
           (_a = this.retryThrottler) === null || _a === void 0 ? void 0 : _a.addCallSucceeded();
+          this.commitCall(callIndex);
+          this.reportStatus(status2);
+          return;
+        }
+        if (this.state === "NO_RETRY") {
           this.commitCall(callIndex);
           this.reportStatus(status2);
           return;
@@ -16658,9 +17898,9 @@ var require_retrying_call = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-interface.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-interface.js
 var require_subchannel_interface = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/subchannel-interface.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/subchannel-interface.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BaseSubchannelWrapper = void 0;
@@ -16730,17 +17970,20 @@ var require_subchannel_interface = __commonJS({
       realSubchannelEquals(other) {
         return this.getRealSubchannel() === other.getRealSubchannel();
       }
+      getCallCredentials() {
+        return this.child.getCallCredentials();
+      }
     };
     exports2.BaseSubchannelWrapper = BaseSubchannelWrapper;
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/internal-channel.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/internal-channel.js
 var require_internal_channel = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/internal-channel.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/internal-channel.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
-    exports2.InternalChannel = void 0;
+    exports2.InternalChannel = exports2.SUBCHANNEL_ARGS_EXCLUDE_KEY_PREFIX = void 0;
     var channel_credentials_1 = require_channel_credentials();
     var resolving_load_balancer_1 = require_resolving_load_balancer();
     var subchannel_pool_1 = require_subchannel_pool();
@@ -16809,6 +18052,7 @@ var require_internal_channel = __commonJS({
         };
       }
     };
+    exports2.SUBCHANNEL_ARGS_EXCLUDE_KEY_PREFIX = "grpc.internal.no_subchannel";
     var ChannelzInfoTracker = class {
       constructor(target) {
         this.target = target;
@@ -16882,13 +18126,19 @@ var require_internal_channel = __commonJS({
         const proxyMapResult = (0, http_proxy_1.mapProxyName)(defaultSchemeMapResult, options);
         this.target = proxyMapResult.target;
         this.options = Object.assign({}, this.options, proxyMapResult.extraOptions);
-        this.subchannelPool = (0, subchannel_pool_1.getSubchannelPool)(((_a = options["grpc.use_local_subchannel_pool"]) !== null && _a !== void 0 ? _a : 0) === 0);
-        this.retryBufferTracker = new retrying_call_1.MessageBufferTracker((_b = options["grpc.retry_buffer_size"]) !== null && _b !== void 0 ? _b : DEFAULT_RETRY_BUFFER_SIZE_BYTES, (_c = options["grpc.per_rpc_retry_buffer_size"]) !== null && _c !== void 0 ? _c : DEFAULT_PER_RPC_RETRY_BUFFER_SIZE_BYTES);
-        this.keepaliveTime = (_d = options["grpc.keepalive_time_ms"]) !== null && _d !== void 0 ? _d : -1;
-        this.idleTimeoutMs = Math.max((_e = options["grpc.client_idle_timeout_ms"]) !== null && _e !== void 0 ? _e : DEFAULT_IDLE_TIMEOUT_MS, MIN_IDLE_TIMEOUT_MS);
+        this.subchannelPool = (0, subchannel_pool_1.getSubchannelPool)(((_a = this.options["grpc.use_local_subchannel_pool"]) !== null && _a !== void 0 ? _a : 0) === 0);
+        this.retryBufferTracker = new retrying_call_1.MessageBufferTracker((_b = this.options["grpc.retry_buffer_size"]) !== null && _b !== void 0 ? _b : DEFAULT_RETRY_BUFFER_SIZE_BYTES, (_c = this.options["grpc.per_rpc_retry_buffer_size"]) !== null && _c !== void 0 ? _c : DEFAULT_PER_RPC_RETRY_BUFFER_SIZE_BYTES);
+        this.keepaliveTime = (_d = this.options["grpc.keepalive_time_ms"]) !== null && _d !== void 0 ? _d : -1;
+        this.idleTimeoutMs = Math.max((_e = this.options["grpc.client_idle_timeout_ms"]) !== null && _e !== void 0 ? _e : DEFAULT_IDLE_TIMEOUT_MS, MIN_IDLE_TIMEOUT_MS);
         const channelControlHelper = {
-          createSubchannel: (subchannelAddress, subchannelArgs, credentialsOverride) => {
-            const subchannel = this.subchannelPool.getOrCreateSubchannel(this.target, subchannelAddress, Object.assign({}, this.options, subchannelArgs), credentialsOverride !== null && credentialsOverride !== void 0 ? credentialsOverride : this.credentials);
+          createSubchannel: (subchannelAddress, subchannelArgs) => {
+            const finalSubchannelArgs = {};
+            for (const [key, value] of Object.entries(subchannelArgs)) {
+              if (!key.startsWith(exports2.SUBCHANNEL_ARGS_EXCLUDE_KEY_PREFIX)) {
+                finalSubchannelArgs[key] = value;
+              }
+            }
+            const subchannel = this.subchannelPool.getOrCreateSubchannel(this.target, subchannelAddress, finalSubchannelArgs, this.credentials);
             subchannel.throttleKeepalive(this.keepaliveTime);
             if (this.channelzEnabled) {
               this.channelzInfoTracker.trace.addTrace("CT_INFO", "Created subchannel or used existing subchannel", subchannel.getChannelzRef());
@@ -16922,7 +18172,8 @@ var require_internal_channel = __commonJS({
             }
           }
         };
-        this.resolvingLoadBalancer = new resolving_load_balancer_1.ResolvingLoadBalancer(this.target, channelControlHelper, credentials2, options, (serviceConfig, configSelector) => {
+        this.resolvingLoadBalancer = new resolving_load_balancer_1.ResolvingLoadBalancer(this.target, channelControlHelper, this.options, (serviceConfig, configSelector) => {
+          var _a2;
           if (serviceConfig.retryThrottling) {
             RETRY_THROTTLER_MAP.set(this.getTarget(), new retrying_call_1.RetryThrottler(serviceConfig.retryThrottling.maxTokens, serviceConfig.retryThrottling.tokenRatio, RETRY_THROTTLER_MAP.get(this.getTarget())));
           } else {
@@ -16931,6 +18182,7 @@ var require_internal_channel = __commonJS({
           if (this.channelzEnabled) {
             this.channelzInfoTracker.trace.addTrace("CT_INFO", "Address resolution succeeded");
           }
+          (_a2 = this.configSelector) === null || _a2 === void 0 ? void 0 : _a2.unref();
           this.configSelector = configSelector;
           this.currentResolutionError = null;
           process.nextTick(() => {
@@ -17051,7 +18303,7 @@ var require_internal_channel = __commonJS({
         if (this.configSelector) {
           return {
             type: "SUCCESS",
-            config: this.configSelector(method, metadata, this.randomChannelId)
+            config: this.configSelector.invoke(method, metadata, this.randomChannelId)
           };
         } else {
           if (this.currentResolutionError) {
@@ -17134,13 +18386,6 @@ var require_internal_channel = __commonJS({
         this.trace("createRetryingCall [" + callNumber + '] method="' + method + '"');
         return new retrying_call_1.RetryingCall(this, callConfig, method, host, credentials2, deadline, callNumber, this.retryBufferTracker, RETRY_THROTTLER_MAP.get(this.getTarget()));
       }
-      createInnerCall(callConfig, method, host, credentials2, deadline) {
-        if (this.options["grpc.enable_retries"] === 0) {
-          return this.createLoadBalancingCall(callConfig, method, host, credentials2, deadline);
-        } else {
-          return this.createRetryingCall(callConfig, method, host, credentials2, deadline);
-        }
-      }
       createResolvingCall(method, deadline, host, parentCall, propagateFlags) {
         const callNumber = (0, call_number_1.getNextCallNumber)();
         this.trace("createResolvingCall [" + callNumber + '] method="' + method + '", deadline=' + (0, deadline_1.deadlineToString)(deadline));
@@ -17150,7 +18395,7 @@ var require_internal_channel = __commonJS({
           host: host !== null && host !== void 0 ? host : this.defaultAuthority,
           parentCall
         };
-        const call = new resolving_call_1.ResolvingCall(this, method, finalOptions, this.filterStackFactory.clone(), this.credentials._getCallCredentials(), callNumber);
+        const call = new resolving_call_1.ResolvingCall(this, method, finalOptions, this.filterStackFactory.clone(), callNumber);
         this.onCallStart();
         call.addStatusWatcher((status2) => {
           this.onCallEnd(status2);
@@ -17158,6 +18403,7 @@ var require_internal_channel = __commonJS({
         return call;
       }
       close() {
+        var _a;
         this.resolvingLoadBalancer.destroy();
         this.updateState(connectivity_state_1.ConnectivityState.SHUTDOWN);
         this.currentPicker = new ShutdownPicker();
@@ -17179,6 +18425,8 @@ var require_internal_channel = __commonJS({
           (0, channelz_1.unregisterChannelzRef)(this.channelzRef);
         }
         this.subchannelPool.unrefUnusedSubchannels();
+        (_a = this.configSelector) === null || _a === void 0 ? void 0 : _a.unref();
+        this.configSelector = null;
       }
       getTarget() {
         return (0, uri_parser_1.uriToString)(this.target);
@@ -17244,9 +18492,9 @@ var require_internal_channel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channel.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channel.js
 var require_channel = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/channel.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/channel.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ChannelImplementation = void 0;
@@ -17301,9 +18549,9 @@ var require_channel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server-call.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server-call.js
 var require_server_call = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server-call.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server-call.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ServerDuplexStreamImpl = exports2.ServerWritableStreamImpl = exports2.ServerReadableStreamImpl = exports2.ServerUnaryCallImpl = void 0;
@@ -17486,9 +18734,9 @@ var require_server_call = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server-credentials.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server-credentials.js
 var require_server_credentials = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server-credentials.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server-credentials.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ServerCredentials = void 0;
@@ -17496,9 +18744,11 @@ var require_server_credentials = __commonJS({
     exports2.createServerCredentialsWithInterceptors = createServerCredentialsWithInterceptors;
     var tls_helpers_1 = require_tls_helpers();
     var ServerCredentials = class {
-      constructor() {
+      constructor(serverConstructorOptions, contextOptions) {
+        this.serverConstructorOptions = serverConstructorOptions;
         this.watchers = /* @__PURE__ */ new Set();
         this.latestContextOptions = null;
+        this.latestContextOptions = contextOptions !== null && contextOptions !== void 0 ? contextOptions : null;
       }
       _addWatcher(watcher) {
         this.watchers.add(watcher);
@@ -17515,8 +18765,14 @@ var require_server_credentials = __commonJS({
           watcher(this.latestContextOptions);
         }
       }
-      _getSettings() {
+      _isSecure() {
+        return this.serverConstructorOptions !== null;
+      }
+      _getSecureContextOptions() {
         return this.latestContextOptions;
+      }
+      _getConstructorOptions() {
+        return this.serverConstructorOptions;
       }
       _getInterceptors() {
         return [];
@@ -17552,18 +18808,19 @@ var require_server_credentials = __commonJS({
           key.push(pair.private_key);
         }
         return new SecureServerCredentials({
-          ca: (_a = rootCerts !== null && rootCerts !== void 0 ? rootCerts : (0, tls_helpers_1.getDefaultRootsData)()) !== null && _a !== void 0 ? _a : void 0,
-          cert,
-          key,
           requestCert: checkClientCertificate,
           ciphers: tls_helpers_1.CIPHER_SUITES
+        }, {
+          ca: (_a = rootCerts !== null && rootCerts !== void 0 ? rootCerts : (0, tls_helpers_1.getDefaultRootsData)()) !== null && _a !== void 0 ? _a : void 0,
+          cert,
+          key
         });
       }
     };
     exports2.ServerCredentials = ServerCredentials;
     var InsecureServerCredentials = class _InsecureServerCredentials extends ServerCredentials {
-      _isSecure() {
-        return false;
+      constructor() {
+        super(null);
       }
       _getSettings() {
         return null;
@@ -17573,15 +18830,9 @@ var require_server_credentials = __commonJS({
       }
     };
     var SecureServerCredentials = class _SecureServerCredentials extends ServerCredentials {
-      constructor(options) {
-        super();
-        this.options = options;
-      }
-      _isSecure() {
-        return true;
-      }
-      _getSettings() {
-        return this.options;
+      constructor(constructorOptions, contextOptions) {
+        super(constructorOptions, contextOptions);
+        this.options = Object.assign(Object.assign({}, constructorOptions), contextOptions);
       }
       /**
        * Checks equality by checking the options that are actually set by
@@ -17657,7 +18908,11 @@ var require_server_credentials = __commonJS({
     };
     var CertificateProviderServerCredentials = class _CertificateProviderServerCredentials extends ServerCredentials {
       constructor(identityCertificateProvider, caCertificateProvider, requireClientCertificate) {
-        super();
+        super({
+          requestCert: caCertificateProvider !== null,
+          rejectUnauthorized: requireClientCertificate,
+          ciphers: tls_helpers_1.CIPHER_SUITES
+        });
         this.identityCertificateProvider = identityCertificateProvider;
         this.caCertificateProvider = caCertificateProvider;
         this.requireClientCertificate = requireClientCertificate;
@@ -17682,9 +18937,6 @@ var require_server_credentials = __commonJS({
           this.identityCertificateProvider.removeIdentityCertificateListener(this.identityCertificateUpdateListener);
         }
       }
-      _isSecure() {
-        return true;
-      }
       _equals(other) {
         if (this === other) {
           return true;
@@ -17704,14 +18956,13 @@ var require_server_credentials = __commonJS({
         }
         return {
           ca: (_a = this.latestCaUpdate) === null || _a === void 0 ? void 0 : _a.caCertificate,
-          cert: this.latestIdentityUpdate.certificate,
-          key: this.latestIdentityUpdate.privateKey,
-          requestCert: this.latestIdentityUpdate !== null,
-          rejectUnauthorized: this.requireClientCertificate
+          cert: [this.latestIdentityUpdate.certificate],
+          key: [this.latestIdentityUpdate.privateKey]
         };
       }
       finalizeUpdate() {
-        this.updateSecureContextOptions(this.calculateSecureContextOptions());
+        const secureContextOptions = this.calculateSecureContextOptions();
+        this.updateSecureContextOptions(secureContextOptions);
       }
       handleCaCertificateUpdate(update) {
         this.latestCaUpdate = update;
@@ -17727,7 +18978,7 @@ var require_server_credentials = __commonJS({
     }
     var InterceptorServerCredentials = class _InterceptorServerCredentials extends ServerCredentials {
       constructor(childCredentials, interceptors) {
-        super();
+        super({});
         this.childCredentials = childCredentials;
         this.interceptors = interceptors;
       }
@@ -17760,6 +19011,12 @@ var require_server_credentials = __commonJS({
       _removeWatcher(watcher) {
         this.childCredentials._removeWatcher(watcher);
       }
+      _getConstructorOptions() {
+        return this.childCredentials._getConstructorOptions();
+      }
+      _getSecureContextOptions() {
+        return this.childCredentials._getSecureContextOptions();
+      }
     };
     function createServerCredentialsWithInterceptors(credentials2, interceptors) {
       return new InterceptorServerCredentials(credentials2, interceptors);
@@ -17767,9 +19024,9 @@ var require_server_credentials = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server-interceptors.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server-interceptors.js
 var require_server_interceptors = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server-interceptors.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server-interceptors.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BaseServerInterceptingCall = exports2.ServerInterceptingCall = exports2.ResponderBuilder = exports2.ServerListenerBuilder = void 0;
@@ -17966,6 +19223,7 @@ var require_server_interceptors = __commonJS({
         var _a, _b, _c, _d;
         this.nextCall = nextCall;
         this.processingMetadata = false;
+        this.sentMetadata = false;
         this.processingMessage = false;
         this.pendingMessage = null;
         this.pendingMessageCallback = null;
@@ -18005,6 +19263,7 @@ var require_server_interceptors = __commonJS({
       }
       sendMetadata(metadata) {
         this.processingMetadata = true;
+        this.sentMetadata = true;
         this.responder.sendMetadata(metadata, (interceptedMetadata) => {
           this.processingMetadata = false;
           this.nextCall.sendMetadata(interceptedMetadata);
@@ -18014,6 +19273,9 @@ var require_server_interceptors = __commonJS({
       }
       sendMessage(message, callback) {
         this.processingMessage = true;
+        if (!this.sentMetadata) {
+          this.sendMetadata(new metadata_1.Metadata());
+        }
         this.responder.sendMessage(message, (interceptedMessage) => {
           this.processingMessage = false;
           if (this.processingMetadata) {
@@ -18469,9 +19731,9 @@ var require_server_interceptors = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server.js
 var require_server = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/server.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/server.js"(exports2) {
     "use strict";
     var __runInitializers = exports2 && exports2.__runInitializers || function(thisArg, initializers, value) {
       var useValue = arguments.length > 2;
@@ -18532,6 +19794,9 @@ var require_server = __commonJS({
     var { HTTP2_HEADER_PATH } = http2.constants;
     var TRACER_NAME = "server";
     var kMaxAge = Buffer.from("max_age");
+    function serverCallTrace(text) {
+      logging.trace(constants_1.LogVerbosity.DEBUG, "server_call", text);
+    }
     function noop() {
     }
     function deprecate(message) {
@@ -18731,7 +19996,12 @@ var require_server = __commonJS({
         bind(port, creds) {
           throw new Error("Not implemented. Use bindAsync() instead");
         }
-        registerListenerToChannelz(boundAddress) {
+        /**
+         * This API is experimental, so API stability is not guaranteed across minor versions.
+         * @param boundAddress
+         * @returns
+         */
+        experimentalRegisterListenerToChannelz(boundAddress) {
           return (0, channelz_1.registerChannelzSocket)((0, subchannel_address_1.subchannelAddressToString)(boundAddress), () => {
             return {
               localAddress: boundAddress,
@@ -18753,15 +20023,21 @@ var require_server = __commonJS({
             };
           }, this.channelzEnabled);
         }
+        experimentalUnregisterListenerFromChannelz(channelzRef) {
+          (0, channelz_1.unregisterChannelzRef)(channelzRef);
+        }
         createHttp2Server(credentials2) {
           let http2Server;
           if (credentials2._isSecure()) {
-            const credentialsSettings = credentials2._getSettings();
-            const secureServerOptions = Object.assign(Object.assign(Object.assign({}, this.commonServerOptions), credentialsSettings), { enableTrace: this.options["grpc-node.tls_enable_trace"] === 1 });
-            let areCredentialsValid = credentialsSettings !== null;
+            const constructorOptions = credentials2._getConstructorOptions();
+            const contextOptions = credentials2._getSecureContextOptions();
+            const secureServerOptions = Object.assign(Object.assign(Object.assign(Object.assign({}, this.commonServerOptions), constructorOptions), contextOptions), { enableTrace: this.options["grpc-node.tls_enable_trace"] === 1 });
+            let areCredentialsValid = contextOptions !== null;
+            this.trace("Initial credentials valid: " + areCredentialsValid);
             http2Server = http2.createSecureServer(secureServerOptions);
-            http2Server.on("connection", (socket) => {
+            http2Server.prependListener("connection", (socket) => {
               if (!areCredentialsValid) {
+                this.trace("Dropped connection from " + JSON.stringify(socket.address()) + " due to unloaded credentials");
                 socket.destroy();
               }
             });
@@ -18772,9 +20048,16 @@ var require_server = __commonJS({
             });
             const credsWatcher = (options) => {
               if (options) {
-                http2Server.setSecureContext(options);
+                const secureServer = http2Server;
+                try {
+                  secureServer.setSecureContext(options);
+                } catch (e) {
+                  logging.log(constants_1.LogVerbosity.ERROR, "Failed to set secure context with error " + e.message);
+                  options = null;
+                }
               }
               areCredentialsValid = options !== null;
+              this.trace("Post-update credentials valid: " + areCredentialsValid);
             };
             credentials2._addWatcher(credsWatcher);
             http2Server.on("close", () => {
@@ -18812,11 +20095,12 @@ var require_server = __commonJS({
                   port: boundAddress.port
                 };
               }
-              const channelzRef = this.registerListenerToChannelz(boundSubchannelAddress);
+              const channelzRef = this.experimentalRegisterListenerToChannelz(boundSubchannelAddress);
               this.listenerChildrenTracker.refChild(channelzRef);
               this.http2Servers.set(http2Server, {
                 channelzRef,
-                sessions: /* @__PURE__ */ new Set()
+                sessions: /* @__PURE__ */ new Set(),
+                ownsChannelzRef: true
               });
               boundPortObject.listeningServers.add(http2Server);
               this.trace("Successfully bound " + (0, subchannel_address_1.subchannelAddressToString)(boundSubchannelAddress));
@@ -19009,19 +20293,25 @@ var require_server = __commonJS({
             };
           }, this.channelzEnabled);
         }
-        createConnectionInjector(credentials2) {
+        /**
+         * This API is experimental, so API stability is not guaranteed across minor versions.
+         * @param credentials
+         * @param channelzRef
+         * @returns
+         */
+        experimentalCreateConnectionInjectorWithChannelzRef(credentials2, channelzRef, ownsChannelzRef = false) {
           if (credentials2 === null || !(credentials2 instanceof server_credentials_1.ServerCredentials)) {
             throw new TypeError("creds must be a ServerCredentials object");
           }
-          const server = this.createHttp2Server(credentials2);
-          const channelzRef = this.registerInjectorToChannelz();
           if (this.channelzEnabled) {
             this.listenerChildrenTracker.refChild(channelzRef);
           }
+          const server = this.createHttp2Server(credentials2);
           const sessionsSet = /* @__PURE__ */ new Set();
           this.http2Servers.set(server, {
             channelzRef,
-            sessions: sessionsSet
+            sessions: sessionsSet,
+            ownsChannelzRef
           });
           return {
             injectConnection: (connection) => {
@@ -19046,11 +20336,18 @@ var require_server = __commonJS({
             }
           };
         }
+        createConnectionInjector(credentials2) {
+          if (credentials2 === null || !(credentials2 instanceof server_credentials_1.ServerCredentials)) {
+            throw new TypeError("creds must be a ServerCredentials object");
+          }
+          const channelzRef = this.registerInjectorToChannelz();
+          return this.experimentalCreateConnectionInjectorWithChannelzRef(credentials2, channelzRef, true);
+        }
         closeServer(server, callback) {
           this.trace("Closing server with address " + JSON.stringify(server.address()));
           const serverInfo = this.http2Servers.get(server);
           server.close(() => {
-            if (serverInfo) {
+            if (serverInfo && serverInfo.ownsChannelzRef) {
               this.listenerChildrenTracker.unrefChild(serverInfo.channelzRef);
               (0, channelz_1.unregisterChannelzRef)(serverInfo.channelzRef);
             }
@@ -19256,10 +20553,10 @@ var require_server = __commonJS({
           return true;
         }
         _retrieveHandler(path) {
-          this.trace("Received call to method " + path + " at address " + this.serverAddressString);
+          serverCallTrace("Received call to method " + path + " at address " + this.serverAddressString);
           const handler = this.handlers.get(path);
           if (handler === void 0) {
-            this.trace("No handler registered for method " + path + ". Sending UNIMPLEMENTED status.");
+            serverCallTrace("No handler registered for method " + path + ". Sending UNIMPLEMENTED status.");
             return null;
           }
           return handler;
@@ -19877,9 +21174,9 @@ var require_server = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/status-builder.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/status-builder.js
 var require_status_builder = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/status-builder.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/status-builder.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.StatusBuilder = void 0;
@@ -19931,9 +21228,9 @@ var require_status_builder = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/duration.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/duration.js
 var require_duration = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/duration.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/duration.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.msToDuration = msToDuration;
@@ -19966,9 +21263,9 @@ var require_duration = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-pick-first.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-pick-first.js
 var require_load_balancer_pick_first = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-pick-first.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-pick-first.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.LeafLoadBalancer = exports2.PickFirstLoadBalancer = exports2.PickFirstLoadBalancingConfig = void 0;
@@ -20039,6 +21336,9 @@ var require_load_balancer_pick_first = __commonJS({
       return result;
     }
     function interleaveAddressFamilies(addressList) {
+      if (addressList.length === 0) {
+        return [];
+      }
       const result = [];
       const ipv6Addresses = [];
       const ipv4Addresses = [];
@@ -20071,7 +21371,7 @@ var require_load_balancer_pick_first = __commonJS({
        * @param channelControlHelper `ChannelControlHelper` instance provided by
        *     this load balancer's owner.
        */
-      constructor(channelControlHelper, credentials2, options) {
+      constructor(channelControlHelper) {
         this.channelControlHelper = channelControlHelper;
         this.children = [];
         this.currentState = connectivity_state_1.ConnectivityState.IDLE;
@@ -20082,12 +21382,13 @@ var require_load_balancer_pick_first = __commonJS({
         };
         this.pickedSubchannelHealthListener = () => this.calculateAndReportNewState();
         this.stickyTransientFailureMode = false;
+        this.reportHealthStatus = false;
         this.lastError = null;
         this.latestAddressList = null;
+        this.latestOptions = {};
         this.connectionDelayTimeout = setTimeout(() => {
         }, 0);
         clearTimeout(this.connectionDelayTimeout);
-        this.reportHealthStatus = options[REPORT_HEALTH_STATUS_OPTION_NAME];
       }
       allChildrenHaveReportedTF() {
         return this.children.every((child) => child.hasReportedTransientFailure);
@@ -20096,23 +21397,31 @@ var require_load_balancer_pick_first = __commonJS({
         this.children.every((child) => child.hasReportedTransientFailure = false);
       }
       calculateAndReportNewState() {
+        var _a;
         if (this.currentPick) {
           if (this.reportHealthStatus && !this.currentPick.isHealthy()) {
+            const errorMessage = `Picked subchannel ${this.currentPick.getAddress()} is unhealthy`;
             this.updateState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE, new picker_1.UnavailablePicker({
-              details: `Picked subchannel ${this.currentPick.getAddress()} is unhealthy`
-            }));
+              details: errorMessage
+            }), errorMessage);
           } else {
-            this.updateState(connectivity_state_1.ConnectivityState.READY, new PickFirstPicker(this.currentPick));
+            this.updateState(connectivity_state_1.ConnectivityState.READY, new PickFirstPicker(this.currentPick), null);
           }
+        } else if (((_a = this.latestAddressList) === null || _a === void 0 ? void 0 : _a.length) === 0) {
+          const errorMessage = `No connection established. Last error: ${this.lastError}`;
+          this.updateState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE, new picker_1.UnavailablePicker({
+            details: errorMessage
+          }), errorMessage);
         } else if (this.children.length === 0) {
-          this.updateState(connectivity_state_1.ConnectivityState.IDLE, new picker_1.QueuePicker(this));
+          this.updateState(connectivity_state_1.ConnectivityState.IDLE, new picker_1.QueuePicker(this), null);
         } else {
           if (this.stickyTransientFailureMode) {
+            const errorMessage = `No connection established. Last error: ${this.lastError}`;
             this.updateState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE, new picker_1.UnavailablePicker({
-              details: `No connection established. Last error: ${this.lastError}`
-            }));
+              details: errorMessage
+            }), errorMessage);
           } else {
-            this.updateState(connectivity_state_1.ConnectivityState.CONNECTING, new picker_1.QueuePicker(this));
+            this.updateState(connectivity_state_1.ConnectivityState.CONNECTING, new picker_1.QueuePicker(this), null);
           }
         }
       }
@@ -20226,10 +21535,10 @@ var require_load_balancer_pick_first = __commonJS({
         clearTimeout(this.connectionDelayTimeout);
         this.calculateAndReportNewState();
       }
-      updateState(newState, picker) {
+      updateState(newState, picker, errorMessage) {
         trace(connectivity_state_1.ConnectivityState[this.currentState] + " -> " + connectivity_state_1.ConnectivityState[newState]);
         this.currentState = newState;
-        this.channelControlHelper.updateState(newState, picker);
+        this.channelControlHelper.updateState(newState, picker, errorMessage);
       }
       resetSubchannelList() {
         for (const child of this.children) {
@@ -20240,10 +21549,10 @@ var require_load_balancer_pick_first = __commonJS({
         this.currentSubchannelIndex = 0;
         this.children = [];
       }
-      connectToAddressList(addressList) {
+      connectToAddressList(addressList, options) {
         trace("connectToAddressList([" + addressList.map((address) => (0, subchannel_address_1.subchannelAddressToString)(address)) + "])");
         const newChildrenList = addressList.map((address) => ({
-          subchannel: this.channelControlHelper.createSubchannel(address, {}, null),
+          subchannel: this.channelControlHelper.createSubchannel(address, options),
           hasReportedTransientFailure: false
         }));
         for (const { subchannel } of newChildrenList) {
@@ -20269,25 +21578,27 @@ var require_load_balancer_pick_first = __commonJS({
         this.startNextSubchannelConnecting(0);
         this.calculateAndReportNewState();
       }
-      updateAddressList(endpointList, lbConfig) {
+      updateAddressList(endpointList, lbConfig, options) {
         if (!(lbConfig instanceof PickFirstLoadBalancingConfig)) {
           return;
         }
+        this.reportHealthStatus = options[REPORT_HEALTH_STATUS_OPTION_NAME];
         if (lbConfig.getShuffleAddressList()) {
           endpointList = shuffled(endpointList);
         }
         const rawAddressList = [].concat(...endpointList.map((endpoint) => endpoint.addresses));
         trace("updateAddressList([" + rawAddressList.map((address) => (0, subchannel_address_1.subchannelAddressToString)(address)) + "])");
         if (rawAddressList.length === 0) {
-          throw new Error("No addresses in endpoint list passed to pick_first");
+          this.lastError = "No addresses resolved";
         }
         const addressList = interleaveAddressFamilies(rawAddressList);
         this.latestAddressList = addressList;
-        this.connectToAddressList(addressList);
+        this.latestOptions = options;
+        this.connectToAddressList(addressList, options);
       }
       exitIdle() {
         if (this.currentState === connectivity_state_1.ConnectivityState.IDLE && this.latestAddressList) {
-          this.connectToAddressList(this.latestAddressList);
+          this.connectToAddressList(this.latestAddressList, this.latestOptions);
         }
       }
       resetBackoff() {
@@ -20303,21 +21614,22 @@ var require_load_balancer_pick_first = __commonJS({
     exports2.PickFirstLoadBalancer = PickFirstLoadBalancer;
     var LEAF_CONFIG = new PickFirstLoadBalancingConfig(false);
     var LeafLoadBalancer = class {
-      constructor(endpoint, channelControlHelper, credentials2, options) {
+      constructor(endpoint, channelControlHelper, options) {
         this.endpoint = endpoint;
+        this.options = options;
         this.latestState = connectivity_state_1.ConnectivityState.IDLE;
         const childChannelControlHelper = (0, load_balancer_1.createChildChannelControlHelper)(channelControlHelper, {
-          updateState: (connectivityState, picker) => {
+          updateState: (connectivityState, picker, errorMessage) => {
             this.latestState = connectivityState;
             this.latestPicker = picker;
-            channelControlHelper.updateState(connectivityState, picker);
+            channelControlHelper.updateState(connectivityState, picker, errorMessage);
           }
         });
-        this.pickFirstBalancer = new PickFirstLoadBalancer(childChannelControlHelper, credentials2, Object.assign(Object.assign({}, options), { [REPORT_HEALTH_STATUS_OPTION_NAME]: true }));
+        this.pickFirstBalancer = new PickFirstLoadBalancer(childChannelControlHelper);
         this.latestPicker = new picker_1.QueuePicker(this.pickFirstBalancer);
       }
       startConnecting() {
-        this.pickFirstBalancer.updateAddressList([this.endpoint], LEAF_CONFIG);
+        this.pickFirstBalancer.updateAddressList([this.endpoint], LEAF_CONFIG, Object.assign(Object.assign({}, this.options), { [REPORT_HEALTH_STATUS_OPTION_NAME]: true }));
       }
       /**
        * Update the endpoint associated with this LeafLoadBalancer to a new
@@ -20325,7 +21637,8 @@ var require_load_balancer_pick_first = __commonJS({
        * attempt is not already in progress.
        * @param newEndpoint
        */
-      updateEndpoint(newEndpoint) {
+      updateEndpoint(newEndpoint, newOptions) {
+        this.options = newOptions;
         this.endpoint = newEndpoint;
         if (this.latestState !== connectivity_state_1.ConnectivityState.IDLE) {
           this.startConnecting();
@@ -20355,9 +21668,9 @@ var require_load_balancer_pick_first = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/certificate-provider.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/certificate-provider.js
 var require_certificate_provider = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/certificate-provider.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/certificate-provider.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FileWatcherCertificateProvider = void 0;
@@ -20375,9 +21688,9 @@ var require_certificate_provider = __commonJS({
         this.config = config;
         this.refreshTimer = null;
         this.fileResultPromise = null;
-        this.latestCaUpdate = null;
+        this.latestCaUpdate = void 0;
         this.caListeners = /* @__PURE__ */ new Set();
-        this.latestIdentityUpdate = null;
+        this.latestIdentityUpdate = void 0;
         this.identityListeners = /* @__PURE__ */ new Set();
         this.lastUpdateTime = null;
         if (config.certificateFile === void 0 !== (config.privateKeyFile === void 0)) {
@@ -20401,7 +21714,7 @@ var require_certificate_provider = __commonJS({
           if (!this.refreshTimer) {
             return;
           }
-          trace("File watcher read certificates certificate" + (certificateResult ? "!=" : "==") + "null, privateKey" + (privateKeyResult ? "!=" : "==") + "null, CA certificate" + (caCertificateResult ? "!=" : "==") + "null");
+          trace("File watcher read certificates certificate " + certificateResult.status + ", privateKey " + privateKeyResult.status + ", CA certificate " + caCertificateResult.status);
           this.lastUpdateTime = /* @__PURE__ */ new Date();
           this.fileResultPromise = null;
           if (certificateResult.status === "fulfilled" && privateKeyResult.status === "fulfilled") {
@@ -20416,6 +21729,8 @@ var require_certificate_provider = __commonJS({
             this.latestCaUpdate = {
               caCertificate: caCertificateResult.value
             };
+          } else {
+            this.latestCaUpdate = null;
           }
           for (const listener of this.identityListeners) {
             listener(this.latestIdentityUpdate);
@@ -20433,8 +21748,8 @@ var require_certificate_provider = __commonJS({
             this.updateCertificates();
           }
           if (timeSinceLastUpdate > this.config.refreshIntervalMs * 2) {
-            this.latestCaUpdate = null;
-            this.latestIdentityUpdate = null;
+            this.latestCaUpdate = void 0;
+            this.latestIdentityUpdate = void 0;
           }
           this.refreshTimer = setInterval(() => this.updateCertificates(), this.config.refreshIntervalMs);
           trace("File watcher started watching");
@@ -20452,7 +21767,9 @@ var require_certificate_provider = __commonJS({
       addCaCertificateListener(listener) {
         this.caListeners.add(listener);
         this.maybeStartWatchingFiles();
-        process.nextTick(listener, this.latestCaUpdate);
+        if (this.latestCaUpdate !== void 0) {
+          process.nextTick(listener, this.latestCaUpdate);
+        }
       }
       removeCaCertificateListener(listener) {
         this.caListeners.delete(listener);
@@ -20461,7 +21778,9 @@ var require_certificate_provider = __commonJS({
       addIdentityCertificateListener(listener) {
         this.identityListeners.add(listener);
         this.maybeStartWatchingFiles();
-        process.nextTick(listener, this.latestIdentityUpdate);
+        if (this.latestIdentityUpdate !== void 0) {
+          process.nextTick(listener, this.latestIdentityUpdate);
+        }
       }
       removeIdentityCertificateListener(listener) {
         this.identityListeners.delete(listener);
@@ -20472,12 +21791,12 @@ var require_certificate_provider = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/experimental.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/experimental.js
 var require_experimental = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/experimental.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/experimental.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
-    exports2.createCertificateProviderChannelCredentials = exports2.FileWatcherCertificateProvider = exports2.createCertificateProviderServerCredentials = exports2.createServerCredentialsWithInterceptors = exports2.BaseSubchannelWrapper = exports2.registerAdminService = exports2.FilterStackFactory = exports2.BaseFilter = exports2.PickResultType = exports2.QueuePicker = exports2.UnavailablePicker = exports2.ChildLoadBalancerHandler = exports2.EndpointMap = exports2.endpointHasAddress = exports2.endpointToString = exports2.subchannelAddressToString = exports2.LeafLoadBalancer = exports2.isLoadBalancerNameRegistered = exports2.parseLoadBalancingConfig = exports2.selectLbConfigFromList = exports2.registerLoadBalancerType = exports2.createChildChannelControlHelper = exports2.BackoffTimeout = exports2.parseDuration = exports2.durationToMs = exports2.splitHostPort = exports2.uriToString = exports2.createResolver = exports2.registerResolver = exports2.log = exports2.trace = void 0;
+    exports2.SUBCHANNEL_ARGS_EXCLUDE_KEY_PREFIX = exports2.createCertificateProviderChannelCredentials = exports2.FileWatcherCertificateProvider = exports2.createCertificateProviderServerCredentials = exports2.createServerCredentialsWithInterceptors = exports2.BaseSubchannelWrapper = exports2.registerAdminService = exports2.FilterStackFactory = exports2.BaseFilter = exports2.PickResultType = exports2.QueuePicker = exports2.UnavailablePicker = exports2.ChildLoadBalancerHandler = exports2.EndpointMap = exports2.endpointHasAddress = exports2.endpointToString = exports2.subchannelAddressToString = exports2.LeafLoadBalancer = exports2.isLoadBalancerNameRegistered = exports2.parseLoadBalancingConfig = exports2.selectLbConfigFromList = exports2.registerLoadBalancerType = exports2.createChildChannelControlHelper = exports2.BackoffTimeout = exports2.parseDuration = exports2.durationToMs = exports2.splitHostPort = exports2.uriToString = exports2.createResolver = exports2.registerResolver = exports2.log = exports2.trace = void 0;
     var logging_1 = require_logging();
     Object.defineProperty(exports2, "trace", { enumerable: true, get: function() {
       return logging_1.trace;
@@ -20588,12 +21907,16 @@ var require_experimental = __commonJS({
     Object.defineProperty(exports2, "createCertificateProviderChannelCredentials", { enumerable: true, get: function() {
       return channel_credentials_1.createCertificateProviderChannelCredentials;
     } });
+    var internal_channel_1 = require_internal_channel();
+    Object.defineProperty(exports2, "SUBCHANNEL_ARGS_EXCLUDE_KEY_PREFIX", { enumerable: true, get: function() {
+      return internal_channel_1.SUBCHANNEL_ARGS_EXCLUDE_KEY_PREFIX;
+    } });
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver-uds.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver-uds.js
 var require_resolver_uds = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver-uds.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver-uds.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.setup = setup;
@@ -20630,9 +21953,9 @@ var require_resolver_uds = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver-ip.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver-ip.js
 var require_resolver_ip = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/resolver-ip.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/resolver-ip.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.setup = setup;
@@ -20719,9 +22042,9 @@ var require_resolver_ip = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-round-robin.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-round-robin.js
 var require_load_balancer_round_robin = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-round-robin.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-round-robin.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RoundRobinLoadBalancer = void 0;
@@ -20774,19 +22097,20 @@ var require_load_balancer_round_robin = __commonJS({
       }
     };
     var RoundRobinLoadBalancer = class {
-      constructor(channelControlHelper, credentials2, options) {
+      constructor(channelControlHelper) {
         this.channelControlHelper = channelControlHelper;
-        this.credentials = credentials2;
-        this.options = options;
         this.children = [];
         this.currentState = connectivity_state_1.ConnectivityState.IDLE;
         this.currentReadyPicker = null;
         this.updatesPaused = false;
         this.lastError = null;
         this.childChannelControlHelper = (0, load_balancer_1.createChildChannelControlHelper)(channelControlHelper, {
-          updateState: (connectivityState, picker) => {
+          updateState: (connectivityState, picker, errorMessage) => {
             if (this.currentState === connectivity_state_1.ConnectivityState.READY && connectivityState !== connectivity_state_1.ConnectivityState.READY) {
               this.channelControlHelper.requestReresolution();
+            }
+            if (errorMessage) {
+              this.lastError = errorMessage;
             }
             this.calculateAndUpdateState();
           }
@@ -20812,15 +22136,16 @@ var require_load_balancer_round_robin = __commonJS({
           this.updateState(connectivity_state_1.ConnectivityState.READY, new RoundRobinPicker(readyChildren.map((child) => ({
             endpoint: child.getEndpoint(),
             picker: child.getPicker()
-          })), index));
+          })), index), null);
         } else if (this.countChildrenWithState(connectivity_state_1.ConnectivityState.CONNECTING) > 0) {
-          this.updateState(connectivity_state_1.ConnectivityState.CONNECTING, new picker_1.QueuePicker(this));
+          this.updateState(connectivity_state_1.ConnectivityState.CONNECTING, new picker_1.QueuePicker(this), null);
         } else if (this.countChildrenWithState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE) > 0) {
+          const errorMessage = `round_robin: No connection established. Last error: ${this.lastError}`;
           this.updateState(connectivity_state_1.ConnectivityState.TRANSIENT_FAILURE, new picker_1.UnavailablePicker({
-            details: `No connection established. Last error: ${this.lastError}`
-          }));
+            details: errorMessage
+          }), errorMessage);
         } else {
-          this.updateState(connectivity_state_1.ConnectivityState.IDLE, new picker_1.QueuePicker(this));
+          this.updateState(connectivity_state_1.ConnectivityState.IDLE, new picker_1.QueuePicker(this), null);
         }
         for (const child of this.children) {
           if (child.getConnectivityState() === connectivity_state_1.ConnectivityState.IDLE) {
@@ -20828,7 +22153,7 @@ var require_load_balancer_round_robin = __commonJS({
           }
         }
       }
-      updateState(newState, picker) {
+      updateState(newState, picker, errorMessage) {
         trace(connectivity_state_1.ConnectivityState[this.currentState] + " -> " + connectivity_state_1.ConnectivityState[newState]);
         if (newState === connectivity_state_1.ConnectivityState.READY) {
           this.currentReadyPicker = picker;
@@ -20836,18 +22161,18 @@ var require_load_balancer_round_robin = __commonJS({
           this.currentReadyPicker = null;
         }
         this.currentState = newState;
-        this.channelControlHelper.updateState(newState, picker);
+        this.channelControlHelper.updateState(newState, picker, errorMessage);
       }
       resetSubchannelList() {
         for (const child of this.children) {
           child.destroy();
         }
       }
-      updateAddressList(endpointList, lbConfig) {
+      updateAddressList(endpointList, lbConfig, options) {
         this.resetSubchannelList();
         trace("Connect to endpoint list " + endpointList.map(subchannel_address_1.endpointToString));
         this.updatesPaused = true;
-        this.children = endpointList.map((endpoint) => new load_balancer_pick_first_1.LeafLoadBalancer(endpoint, this.childChannelControlHelper, this.credentials, this.options));
+        this.children = endpointList.map((endpoint) => new load_balancer_pick_first_1.LeafLoadBalancer(endpoint, this.childChannelControlHelper, options));
         for (const child of this.children) {
           child.startConnecting();
         }
@@ -20872,9 +22197,9 @@ var require_load_balancer_round_robin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-outlier-detection.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-outlier-detection.js
 var require_load_balancer_outlier_detection = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/load-balancer-outlier-detection.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/load-balancer-outlier-detection.js"(exports2) {
     "use strict";
     var _a;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -21114,13 +22439,13 @@ var require_load_balancer_outlier_detection = __commonJS({
       }
     };
     var OutlierDetectionLoadBalancer = class {
-      constructor(channelControlHelper, credentials2, options) {
+      constructor(channelControlHelper) {
         this.entryMap = new subchannel_address_1.EndpointMap();
         this.latestConfig = null;
         this.timerStartTime = null;
         this.childBalancer = new load_balancer_child_handler_1.ChildLoadBalancerHandler((0, experimental_1.createChildChannelControlHelper)(channelControlHelper, {
-          createSubchannel: (subchannelAddress, subchannelArgs, credentialsOverride) => {
-            const originalSubchannel = channelControlHelper.createSubchannel(subchannelAddress, subchannelArgs, credentialsOverride);
+          createSubchannel: (subchannelAddress, subchannelArgs) => {
+            const originalSubchannel = channelControlHelper.createSubchannel(subchannelAddress, subchannelArgs);
             const mapEntry = this.entryMap.getForSubchannelAddress(subchannelAddress);
             const subchannelWrapper = new OutlierDetectionSubchannelWrapper(originalSubchannel, mapEntry);
             if ((mapEntry === null || mapEntry === void 0 ? void 0 : mapEntry.currentEjectionTimestamp) !== null) {
@@ -21129,14 +22454,14 @@ var require_load_balancer_outlier_detection = __commonJS({
             mapEntry === null || mapEntry === void 0 ? void 0 : mapEntry.subchannelWrappers.push(subchannelWrapper);
             return subchannelWrapper;
           },
-          updateState: (connectivityState, picker) => {
+          updateState: (connectivityState, picker, errorMessage) => {
             if (connectivityState === connectivity_state_1.ConnectivityState.READY) {
-              channelControlHelper.updateState(connectivityState, new OutlierDetectionPicker(picker, this.isCountingEnabled()));
+              channelControlHelper.updateState(connectivityState, new OutlierDetectionPicker(picker, this.isCountingEnabled()), errorMessage);
             } else {
-              channelControlHelper.updateState(connectivityState, picker);
+              channelControlHelper.updateState(connectivityState, picker, errorMessage);
             }
           }
-        }), credentials2, options);
+        }));
         this.ejectionTimer = setInterval(() => {
         }, 0);
         clearInterval(this.ejectionTimer);
@@ -21301,10 +22626,11 @@ var require_load_balancer_outlier_detection = __commonJS({
           }
         }
       }
-      updateAddressList(endpointList, lbConfig, attributes) {
+      updateAddressList(endpointList, lbConfig, options) {
         if (!(lbConfig instanceof OutlierDetectionLoadBalancingConfig)) {
           return;
         }
+        trace("Received update with config: " + JSON.stringify(lbConfig.toJsonObject(), void 0, 2));
         for (const endpoint of endpointList) {
           if (!this.entryMap.has(endpoint)) {
             trace("Adding map entry for " + (0, subchannel_address_1.endpointToString)(endpoint));
@@ -21318,7 +22644,7 @@ var require_load_balancer_outlier_detection = __commonJS({
         }
         this.entryMap.deleteMissing(endpointList);
         const childPolicy = lbConfig.getChildPolicy();
-        this.childBalancer.updateAddressList(endpointList, childPolicy, attributes);
+        this.childBalancer.updateAddressList(endpointList, childPolicy, options);
         if (lbConfig.getSuccessRateEjectionConfig() || lbConfig.getFailurePercentageEjectionConfig()) {
           if (this.timerStartTime) {
             trace("Previous timer existed. Replacing timer");
@@ -21365,9 +22691,9 @@ var require_load_balancer_outlier_detection = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/index.js
+// node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/index.js
 var require_src3 = __commonJS({
-  "node_modules/.pnpm/@grpc+grpc-js@1.12.6/node_modules/@grpc/grpc-js/build/src/index.js"(exports2) {
+  "node_modules/.pnpm/@grpc+grpc-js@1.13.4/node_modules/@grpc/grpc-js/build/src/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.experimental = exports2.ServerInterceptingCall = exports2.ResponderBuilder = exports2.ServerListenerBuilder = exports2.addAdminServicesToServer = exports2.getChannelzHandlers = exports2.getChannelzServiceDefinition = exports2.InterceptorConfigurationError = exports2.InterceptingCall = exports2.RequesterBuilder = exports2.ListenerBuilder = exports2.StatusBuilder = exports2.getClientChannel = exports2.ServerCredentials = exports2.Server = exports2.setLogVerbosity = exports2.setLogger = exports2.load = exports2.loadObject = exports2.CallCredentials = exports2.ChannelCredentials = exports2.waitForClientReady = exports2.closeClient = exports2.Channel = exports2.makeGenericClientConstructor = exports2.makeClientConstructor = exports2.loadPackageDefinition = exports2.Client = exports2.compressionAlgorithms = exports2.propagate = exports2.connectivityState = exports2.status = exports2.logVerbosity = exports2.Metadata = exports2.credentials = void 0;
@@ -21541,9 +22867,9 @@ var require_src3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/minimal.js
+// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/minimal.js
 var require_minimal2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.4.0/node_modules/protobufjs/minimal.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/minimal.js"(exports2, module2) {
     "use strict";
     module2.exports = require_index_minimal();
   }
@@ -21598,7 +22924,7 @@ var Channel = _Channel;
 // src/proto/generated/document_db.ts
 var import_grpc_js = __toESM(require_src3(), 1);
 
-// node_modules/.pnpm/long@5.3.1/node_modules/long/index.js
+// node_modules/.pnpm/long@5.3.2/node_modules/long/index.js
 var wasm = null;
 try {
   wasm = new WebAssembly.Instance(
@@ -22502,13 +23828,13 @@ Long.fromBytesBE = function fromBytesBE(bytes, unsigned) {
   );
 };
 if (typeof BigInt === "function") {
-  Long.fromBigInt = function fromBigInt2(value, unsigned) {
+  Long.fromBigInt = function fromBigInt(value, unsigned) {
     var lowBits = Number(BigInt.asIntN(32, value));
     var highBits = Number(BigInt.asIntN(32, value >> BigInt(32)));
     return fromBits(lowBits, highBits, unsigned);
   };
   Long.fromValue = function fromValueWithBigInt(value, unsigned) {
-    if (typeof value === "bigint") return fromBigInt(value, unsigned);
+    if (typeof value === "bigint") return Long.fromBigInt(value, unsigned);
     return fromValue(value, unsigned);
   };
   LongPrototype.toBigInt = function toBigInt() {
@@ -30934,45 +32260,6 @@ var SystemMetrics = class extends GrpcClient {
 /*! Bundled license information:
 
 @grpc/proto-loader/build/src/util.js:
-  (**
-   * @license
-   * Copyright 2018 gRPC authors.
-   *
-   * Licensed under the Apache License, Version 2.0 (the "License");
-   * you may not use this file except in compliance with the License.
-   * You may obtain a copy of the License at
-   *
-   *     http://www.apache.org/licenses/LICENSE-2.0
-   *
-   * Unless required by applicable law or agreed to in writing, software
-   * distributed under the License is distributed on an "AS IS" BASIS,
-   * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   * See the License for the specific language governing permissions and
-   * limitations under the License.
-   *
-   *)
-
-long/umd/index.js:
-  (**
-   * @license
-   * Copyright 2009 The Closure Library Authors
-   * Copyright 2020 Daniel Wirtz / The long.js Authors.
-   *
-   * Licensed under the Apache License, Version 2.0 (the "License");
-   * you may not use this file except in compliance with the License.
-   * You may obtain a copy of the License at
-   *
-   *     http://www.apache.org/licenses/LICENSE-2.0
-   *
-   * Unless required by applicable law or agreed to in writing, software
-   * distributed under the License is distributed on an "AS IS" BASIS,
-   * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   * See the License for the specific language governing permissions and
-   * limitations under the License.
-   *
-   * SPDX-License-Identifier: Apache-2.0
-   *)
-
 @grpc/proto-loader/build/src/index.js:
   (**
    * @license
@@ -30992,6 +32279,7 @@ long/umd/index.js:
    *
    *)
 
+long/umd/index.js:
 long/index.js:
   (**
    * @license
