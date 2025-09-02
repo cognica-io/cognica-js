@@ -5354,9 +5354,9 @@ var require_pool = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/longbits.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/util/longbits.js
 var require_longbits = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/longbits.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/util/longbits.js"(exports2, module2) {
     "use strict";
     module2.exports = LongBits;
     var util = require_minimal();
@@ -5456,9 +5456,9 @@ var require_longbits = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/minimal.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/util/minimal.js
 var require_minimal = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util/minimal.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/util/minimal.js"(exports2) {
     "use strict";
     var util = exports2;
     util.asPromise = require_aspromise();
@@ -5631,9 +5631,9 @@ var require_minimal = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/writer.js
 var require_writer = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/writer.js"(exports2, module2) {
     "use strict";
     module2.exports = Writer;
     var util = require_minimal();
@@ -5822,9 +5822,9 @@ var require_writer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer_buffer.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/writer_buffer.js
 var require_writer_buffer = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/writer_buffer.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/writer_buffer.js"(exports2, module2) {
     "use strict";
     module2.exports = BufferWriter;
     var Writer = require_writer();
@@ -5872,9 +5872,9 @@ var require_writer_buffer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/reader.js
 var require_reader = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/reader.js"(exports2, module2) {
     "use strict";
     module2.exports = Reader;
     var util = require_minimal();
@@ -6096,9 +6096,9 @@ var require_reader = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader_buffer.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/reader_buffer.js
 var require_reader_buffer = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/reader_buffer.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/reader_buffer.js"(exports2, module2) {
     "use strict";
     module2.exports = BufferReader;
     var Reader = require_reader();
@@ -6119,9 +6119,9 @@ var require_reader_buffer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc/service.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/rpc/service.js
 var require_service = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc/service.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/rpc/service.js"(exports2, module2) {
     "use strict";
     module2.exports = Service;
     var util = require_minimal();
@@ -6194,26 +6194,26 @@ var require_service = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/rpc.js
 var require_rpc = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/rpc.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/rpc.js"(exports2) {
     "use strict";
     var rpc = exports2;
     rpc.Service = require_service();
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/roots.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/roots.js
 var require_roots = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/roots.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/roots.js"(exports2, module2) {
     "use strict";
     module2.exports = {};
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-minimal.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/index-minimal.js
 var require_index_minimal = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-minimal.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/index-minimal.js"(exports2) {
     "use strict";
     var protobuf = exports2;
     protobuf.build = "minimal";
@@ -6401,9 +6401,9 @@ var require_path = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/namespace.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/namespace.js
 var require_namespace = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/namespace.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/namespace.js"(exports2, module2) {
     "use strict";
     module2.exports = Namespace;
     var ReflectionObject = require_object();
@@ -6672,9 +6672,9 @@ var require_namespace = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/mapfield.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/mapfield.js
 var require_mapfield = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/mapfield.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/mapfield.js"(exports2, module2) {
     "use strict";
     module2.exports = MapField;
     var Field = require_field();
@@ -6728,9 +6728,9 @@ var require_mapfield = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/method.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/method.js
 var require_method = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/method.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/method.js"(exports2, module2) {
     "use strict";
     module2.exports = Method;
     var ReflectionObject = require_object();
@@ -6796,9 +6796,9 @@ var require_method = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/service.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/service.js
 var require_service2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/service.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/service.js"(exports2, module2) {
     "use strict";
     module2.exports = Service;
     var Namespace = require_namespace();
@@ -6906,9 +6906,9 @@ var require_service2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/message.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/message.js
 var require_message = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/message.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/message.js"(exports2, module2) {
     "use strict";
     module2.exports = Message;
     var util = require_minimal();
@@ -6947,9 +6947,9 @@ var require_message = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/decoder.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/decoder.js
 var require_decoder = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/decoder.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/decoder.js"(exports2, module2) {
     "use strict";
     module2.exports = decoder;
     var Enum = require_enum();
@@ -6998,9 +6998,9 @@ var require_decoder = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/verifier.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/verifier.js
 var require_verifier = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/verifier.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/verifier.js"(exports2, module2) {
     "use strict";
     module2.exports = verifier;
     var Enum = require_enum();
@@ -7103,9 +7103,9 @@ var require_verifier = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/converter.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/converter.js
 var require_converter = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/converter.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/converter.js"(exports2) {
     "use strict";
     var converter = exports2;
     var Enum = require_enum();
@@ -7307,9 +7307,9 @@ var require_converter = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/wrappers.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/wrappers.js
 var require_wrappers = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/wrappers.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/wrappers.js"(exports2) {
     "use strict";
     var wrappers = exports2;
     var Message = require_message();
@@ -7358,9 +7358,9 @@ var require_wrappers = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/type.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/type.js
 var require_type = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/type.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/type.js"(exports2, module2) {
     "use strict";
     module2.exports = Type;
     var Namespace = require_namespace();
@@ -7694,9 +7694,9 @@ var require_type = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/root.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/root.js
 var require_root = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/root.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/root.js"(exports2, module2) {
     "use strict";
     module2.exports = Root;
     var Namespace = require_namespace();
@@ -7943,9 +7943,9 @@ var require_root = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/util.js
 var require_util = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/util.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/util.js"(exports2, module2) {
     "use strict";
     var util = module2.exports = require_minimal();
     var roots = require_roots();
@@ -8057,9 +8057,9 @@ var require_util = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/types.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/types.js
 var require_types = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/types.js"(exports2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/types.js"(exports2) {
     "use strict";
     var types = exports2;
     var util = require_util();
@@ -8236,9 +8236,9 @@ var require_types = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/field.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/field.js
 var require_field = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/field.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/field.js"(exports2, module2) {
     "use strict";
     module2.exports = Field;
     var ReflectionObject = require_object();
@@ -8433,9 +8433,9 @@ var require_field = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/oneof.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/oneof.js
 var require_oneof = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/oneof.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/oneof.js"(exports2, module2) {
     "use strict";
     module2.exports = OneOf;
     var ReflectionObject = require_object();
@@ -8541,9 +8541,9 @@ var require_oneof = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/object.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/object.js
 var require_object = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/object.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/object.js"(exports2, module2) {
     "use strict";
     module2.exports = ReflectionObject;
     ReflectionObject.className = "ReflectionObject";
@@ -8740,9 +8740,9 @@ var require_object = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/enum.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/enum.js
 var require_enum = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/enum.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/enum.js"(exports2, module2) {
     "use strict";
     module2.exports = Enum;
     var ReflectionObject = require_object();
@@ -8849,9 +8849,9 @@ var require_enum = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/encoder.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/encoder.js
 var require_encoder = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/encoder.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/encoder.js"(exports2, module2) {
     "use strict";
     module2.exports = encoder;
     var Enum = require_enum();
@@ -8898,9 +8898,9 @@ var require_encoder = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-light.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/index-light.js
 var require_index_light = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index-light.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/index-light.js"(exports2, module2) {
     "use strict";
     var protobuf = module2.exports = require_index_minimal();
     protobuf.build = "light";
@@ -8944,9 +8944,9 @@ var require_index_light = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/tokenize.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/tokenize.js
 var require_tokenize = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/tokenize.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/tokenize.js"(exports2, module2) {
     "use strict";
     module2.exports = tokenize;
     var delimRe = /[\s{}=;:[\],'"()<>]/g;
@@ -9191,9 +9191,9 @@ var require_tokenize = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/parse.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/parse.js
 var require_parse = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/parse.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/parse.js"(exports2, module2) {
     "use strict";
     module2.exports = parse;
     parse.filename = null;
@@ -9910,9 +9910,9 @@ var require_parse = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/common.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/common.js
 var require_common = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/common.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/common.js"(exports2, module2) {
     "use strict";
     module2.exports = common;
     var commonRe = /\/|\./;
@@ -10242,9 +10242,9 @@ var require_common = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/index.js
 var require_src = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/src/index.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/src/index.js"(exports2, module2) {
     "use strict";
     var protobuf = module2.exports = require_index_light();
     protobuf.build = "full";
@@ -10255,17 +10255,17 @@ var require_src = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/index.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/index.js
 var require_protobufjs = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/index.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/index.js"(exports2, module2) {
     "use strict";
     module2.exports = require_src();
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/descriptor.json
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/descriptor.json
 var require_descriptor = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/descriptor.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/descriptor.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -10856,11 +10856,11 @@ var require_descriptor = __commonJS({
                       42,
                       42
                     ],
-                    "php_generic_services",
                     [
                       38,
                       38
-                    ]
+                    ],
+                    "php_generic_services"
                   ],
                   nested: {
                     OptimizeMode: {
@@ -11651,9 +11651,9 @@ var require_descriptor = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/ext/descriptor/index.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/ext/descriptor/index.js
 var require_descriptor2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/ext/descriptor/index.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/ext/descriptor/index.js"(exports2, module2) {
     "use strict";
     var $protobuf = require_protobufjs();
     module2.exports = exports2 = $protobuf.descriptor = $protobuf.Root.fromJSON(require_descriptor()).lookup(".google.protobuf");
@@ -12223,9 +12223,9 @@ var require_descriptor2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/api.json
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/api.json
 var require_api = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/api.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/api.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -12347,9 +12347,9 @@ var require_api = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/source_context.json
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/source_context.json
 var require_source_context = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/source_context.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/source_context.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -12373,9 +12373,9 @@ var require_source_context = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/type.json
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/type.json
 var require_type2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/google/protobuf/type.json"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/google/protobuf/type.json"(exports2, module2) {
     module2.exports = {
       nested: {
         google: {
@@ -22867,9 +22867,9 @@ var require_src3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/minimal.js
+// node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/minimal.js
 var require_minimal2 = __commonJS({
-  "node_modules/.pnpm/protobufjs@7.5.3/node_modules/protobufjs/minimal.js"(exports2, module2) {
+  "node_modules/.pnpm/protobufjs@7.5.4/node_modules/protobufjs/minimal.js"(exports2, module2) {
     "use strict";
     module2.exports = require_index_minimal();
   }
