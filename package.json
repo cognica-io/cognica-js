@@ -1,7 +1,7 @@
 {
   "name": "@cognica/client",
   "description": "Javascript client for Cognica database",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "homepage": "https://cognica.io",
   "repository": {
     "type": "git",
@@ -37,7 +37,7 @@
     "generate:proto": "./src/proto/script/generate.sh",
     "build": "tsup",
     "build:pack": "pnpm run build && pnpm pack",
-    "test": "jest"
+    "test": "NODE_OPTIONS='--experimental-vm-modules' jest"
   },
   "keywords": [
     "Cognica",
@@ -74,5 +74,11 @@
   "dependencies": {
     "@apache-arrow/esnext-esm": "^21.0.0",
     "parquet-wasm": "^0.6.1"
+  },
+  "pnpm": {
+    "overrides": {
+      "glob@>=10.2.0 <10.5.0": "^10.5.0",
+      "js-yaml@<4.1.1": "^4.1.1"
+    }
   }
 }
