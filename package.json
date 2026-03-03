@@ -1,7 +1,7 @@
 {
   "name": "@cognica/client",
   "description": "Javascript client for Cognica database",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "homepage": "https://cognica.io",
   "repository": {
     "type": "git",
@@ -79,7 +79,11 @@
     "overrides": {
       "glob@>=10.2.0 <10.5.0": "^10.5.0",
       "js-yaml@<4.1.1": "^4.1.1",
-      "minimatch@<10.2.1": "^10.2.1"
+      "minimatch@<10.2.3": "^10.2.3",
+      "rollup@>=4.0.0 <4.59.0": "^4.59.0",
+      "lodash@>=4.0.0 <=4.17.22": "^4.17.23",
+      "ajv@<6.14.0": "^6.14.0",
+      "diff@>=4.0.0 <4.0.4": "^4.0.4"
     }
   }
 }
